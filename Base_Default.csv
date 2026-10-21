@@ -1,0 +1,2001 @@
+Id,Ciudad,Departamento,Default,Edad,Ocupación,Estado Civil,Estudios,Tipo vivienda,Productos del pasivo
+5055,Bogota , Bogota D.C,0,74,Pensionado,Casado,Profesional,Propia,2
+5056,Girardot , Cundinamarca,0,72,Pensionado,Casado,Bachillerato,Propia,1
+5057,Bogota , Bogota D.C,0,49,Independiente,Soltero,Profesional,Propia,1
+5058,Guadalajara de Buga , Valle Del Cauca,0,47,Pensionado,Casado,Profesional,Propia,0
+5059,Bogota , Bogota D.C,0,69,Independiente,Soltero,Primaria,Propia,0
+5060,Bogota , Bogota D.C,0,42,Independiente,Casado,Profesional,Propia,3
+5061,Bogota , Bogota D.C,0,61,Independiente,Casado,Profesional,Propia,1
+5062,Bogota , Bogota D.C,0,77,Pensionado,Casado,Primaria,No Aplica,3
+5063,Soacha , Cundinamarca,1,41,Independiente,Casado,Bachillerato,Propia,0
+5064,Sincelejo , Sucre,0,35,Independiente,Divorciado,Bachillerato,No Aplica,0
+5065,Bogota , Bogota D.C,0,30,Independiente,Casado,Profesional,No Aplica,0
+5066,Bogota , Bogota D.C,0,58,Independiente,Casado,Primaria,No Aplica,1
+5067,Ocana , Norte Santander,0,38,Independiente,Soltero,Profesional,No Aplica,4
+5068,Bogota , Bogota D.C,0,82,Pensionado,Soltero,Profesional,Propia,2
+5069,Villavicencio , Meta,0,58,Independiente,Divorciado,Bachillerato,Propia,0
+5070,Ibague , Tolima,0,47,Pensionado,Casado,Primaria,Propia,3
+5071,Envigado , Antioquia,0,40,Empleado,Divorciado,Primaria,Propia,1
+5072,Cali , Valle Del Cauca,0,79,Pensionado,Casado,Primaria,Propia,2
+5073,Santa Marta , Magdalena,0,38,Empleado,Divorciado,Primaria,Propia,1
+5074,Cartagena , Bolivar,0,81,Pensionado,Casado,Profesional,No Aplica,1
+5075,Bogota , Bogota D.C,0,72,Pensionado,Casado,Primaria,Propia,1
+5076,Bogota , Bogota D.C,0,60,Independiente,Casado,Profesional,Propia,1
+5077,Bogota , Bogota D.C,0,59,Empleado,Divorciado,Primaria,Propia,1
+5078,Bogota , Bogota D.C,0,54,Empleado,Divorciado,Primaria,No Aplica,1
+5079,Soacha , Cundinamarca,0,50,Empleado,Divorciado,Primaria,Propia,1
+5080,Bogota , Bogota D.C,0,62,Empleado,Casado,Bachillerato,Propia,0
+5081,Bogota , Bogota D.C,0,79,Pensionado,Casado,Bachillerato,Propia,1
+5082,Facatativa , Cundinamarca,0,77,Pensionado,Casado,Profesional,Alquiler,2
+5083,Bogota , Bogota D.C,0,70,Pensionado,Casado,Profesional,Propia,2
+5084,Medellin , Antioquia,0,80,Pensionado,Soltero,Profesional,Propia,0
+5085,Medellin , Antioquia,0,63,Pensionado,Casado,Bachillerato,Propia,1
+5086,Pereira , Risaralda,0,41,Independiente,Soltero,Primaria,No Aplica,1
+5087,Soledad , Atlantico,0,50,Empleado,Casado,Bachillerato,No Aplica,1
+5088,Bogota , Bogota D.C,1,36,Empleado,Divorciado,Bachillerato,Alquiler,2
+5089,Magangue , Bolivar,1,55,Independiente,Divorciado,Primaria,Propia,0
+5090,Bogota , Bogota D.C,0,49,Independiente,Casado,Primaria,Propia,0
+5091,Bogota , Bogota D.C,0,61,Pensionado,Divorciado,Primaria,Propia,0
+5092,Tunja , Boyaca,0,61,Pensionado,Casado,Primaria,Propia,0
+5093,Bogota , Bogota D.C,0,59,Pensionado,Casado,Primaria,Propia,1
+5094,Bogota , Bogota D.C,0,53,Empleado,Soltero,Profesional,Propia,1
+5095,Sogamoso , Boyaca,0,57,Independiente,Casado,Primaria,Propia,0
+5096,Tunja , Boyaca,0,54,Independiente,Casado,Profesional,Propia,1
+5097,Bogota , Bogota D.C,0,58,Independiente,Casado,Primaria,Propia,0
+5098,Bogota , Bogota D.C,0,39,Independiente,Soltero,Primaria,No Aplica,1
+5099,Bello , Antioquia,0,77,Pensionado,Casado,Bachillerato,No Aplica,1
+5100,Circasia , Quindio,0,56,Independiente,Soltero,Primaria,No Aplica,1
+5101,Facatativa , Cundinamarca,0,60,Pensionado,Casado,Primaria,Alquiler,1
+5102,Cali , Valle Del Cauca,0,34,Pensionado,Casado,Bachillerato,No Aplica,0
+5103,Bogota , Bogota D.C,0,34,Empleado,Soltero,Primaria,No Aplica,1
+5104,Pereira , Risaralda,0,33,Independiente,Soltero,Profesional,No Aplica,0
+5105,Pereira , Risaralda,0,34,Empleado,Casado,Profesional,Propia,0
+5106,Bogota , Bogota D.C,0,57,Empleado,Casado,Bachillerato,No Aplica,1
+5107,San Agustin , Huila,0,68,Pensionado,Casado,Primaria,Propia,1
+5108,Valledupar , Cesar,0,54,Independiente,Divorciado,Profesional,No Aplica,1
+5109,Barranquilla , Atlantico,0,55,Empleado,Casado,Bachillerato,Propia,0
+5110,Bogota , Bogota D.C,0,71,Pensionado,Soltero,Profesional,Propia,1
+5111,Pasto , Narino,0,36,Empleado,Viudo,Bachillerato,No Aplica,1
+5112,Sandona , Narino,0,76,Pensionado,Casado,Profesional,Propia,1
+5113,Pasto , Narino,0,74,Independiente,Casado,Profesional,Propia,2
+5114,Convencion , Norte Santander,0,34,Empleado,Divorciado,Bachillerato,Alquiler,2
+5115,Floridablanca , Santander,0,73,Pensionado,Casado,Bachillerato,Propia,1
+5116,Barranquilla , Atlantico,0,58,Independiente,Casado,Bachillerato,Propia,1
+5117,Bucaramanga , Santander,0,68,Pensionado,Casado,Bachillerato,No Aplica,2
+5118,Bogota , Bogota D.C,0,52,Empleado,Soltero,Primaria,Alquiler,1
+5119,Libano , Tolima,0,61,Empleado,Soltero,Bachillerato,Propia,1
+5120,Bogota , Bogota D.C,0,46,Pensionado,Casado,Primaria,No Aplica,1
+5121,Bogota , Bogota D.C,0,54,Empleado,Soltero,Primaria,No Aplica,0
+5122,Bogota , Bogota D.C,0,40,Independiente,Soltero,Profesional,No Aplica,1
+5123,Cali , Valle Del Cauca,0,75,Pensionado,Casado,Bachillerato,Propia,1
+5124,Pereira , Risaralda,0,51,Empleado,Casado,Bachillerato,Propia,3
+5125,Bolivar , Valle Del Cauca,1,55,Independiente,Casado,Bachillerato,Propia,1
+5126,Bugalagrande , Valle Del Cauca,0,62,Independiente,Divorciado,Bachillerato,Propia,0
+5127,Tulua , Valle Del Cauca,0,56,Independiente,Soltero,Bachillerato,No Aplica,0
+5128,Cali , Valle Del Cauca,0,36,Empleado,Casado,Profesional,Propia,2
+5129,Bogota , Bogota D.C,0,76,Pensionado,Soltero,Primaria,Propia,1
+5130,Bogota , Bogota D.C,0,37,Empleado,Soltero,Profesional,No Aplica,1
+5131,Cali , Valle Del Cauca,0,69,Pensionado,Casado,Profesional,Propia,2
+5132,Tulua , Valle Del Cauca,0,77,Empleado,Divorciado,Profesional,No Aplica,2
+5133,La Virginia , Risaralda,0,53,Independiente,Soltero,Profesional,Propia,0
+5134,Tunja , Boyaca,0,69,Pensionado,Viudo,Profesional,Propia,0
+5135,Monteria , Cordoba,0,60,Independiente,Casado,Bachillerato,Propia,0
+5136,Bogota , Bogota D.C,0,43,Empleado,Casado,Profesional,Propia,2
+5137,Tunja , Boyaca,0,33,Empleado,Divorciado,Bachillerato,No Aplica,1
+5138,Bogota , Bogota D.C,0,47,Independiente,Casado,Profesional,Propia,3
+5139,Bogota , Bogota D.C,0,58,Independiente,Soltero,Profesional,Propia,2
+5140,Bogota , Bogota D.C,0,44,Empleado,Soltero,Primaria,Propia,0
+5141,Barranquilla , Atlantico,1,75,Independiente,Viudo,Profesional,Propia,0
+5142,Magangue , Bolivar,0,68,Independiente,Casado,Primaria,Propia,0
+5143,Barranquilla , Atlantico,0,66,Independiente,Soltero,Profesional,Propia,1
+5144,Armenia , Quindio,0,71,Pensionado,Casado,Profesional,Propia,1
+5145,Armenia , Quindio,1,63,Independiente,Casado,Primaria,Alquiler,0
+5146,Armenia , Quindio,0,60,Pensionado,Divorciado,Primaria,Propia,1
+5147,Tocaima , Cundinamarca,0,52,Independiente,Soltero,Bachillerato,Propia,0
+5148,Armenia , Quindio,0,51,Independiente,Soltero,Profesional,No Aplica,1
+5149,Calarca , Quindio,0,47,Independiente,Casado,Profesional,No Aplica,1
+5150,Santa Marta , Magdalena,0,38,Empleado,Divorciado,Bachillerato,No Aplica,1
+5151,Florencia , Caqueta,0,39,Empleado,Divorciado,Profesional,No Aplica,2
+5152,Neiva , Huila,0,41,Pensionado,Casado,Ninguno,No Aplica,0
+5153,Neiva , Huila,0,38,Independiente,Soltero,Primaria,No Aplica,0
+5154,Neiva , Huila,0,35,Empleado,Casado,Profesional,No Aplica,1
+5155,Neiva , Huila,0,33,Empleado,Soltero,Bachillerato,No Aplica,0
+5156,Neiva , Huila,0,33,Independiente,Casado,Bachillerato,Propia,2
+5157,San Carlos De Guaroa , Meta,0,49,Empleado,Casado,Bachillerato,Propia,1
+5158,Bucaramanga , Santander,0,44,Empleado,Soltero,Profesional,Propia,3
+5159,Cartagena , Bolivar,0,33,Empleado,Casado,Bachillerato,Propia,1
+5160,Medellin , Antioquia,0,69,Pensionado,Casado,Bachillerato,Propia,2
+5161,Palmar De Varela , Atlantico,0,46,Empleado,Casado,Bachillerato,Propia,1
+5162,Ocana , Norte Santander,0,50,Independiente,Divorciado,Bachillerato,Propia,3
+5163,Luruaco , Atlantico,1,36,Empleado,Casado,Primaria,Propia,1
+5164,Barranquilla , Atlantico,0,63,Pensionado,Casado,Bachillerato,Propia,1
+5165,Barranquilla , Atlantico,0,61,Independiente,Soltero,Profesional,Propia,0
+5166,Soledad , Atlantico,0,55,Independiente,Casado,Profesional,Propia,0
+5167,Barranquilla , Atlantico,0,53,Independiente,Casado,Primaria,Propia,1
+5168,Barranquilla , Atlantico,0,62,Independiente,Casado,Bachillerato,Propia,0
+5169,Soledad , Atlantico,0,48,Independiente,Casado,Bachillerato,Propia,0
+5170,Santa Marta , Magdalena,0,39,Independiente,Casado,Bachillerato,Propia,0
+5171,Barranquilla , Atlantico,0,43,Empleado,Casado,Profesional,Propia,0
+5172,Medellin , Antioquia,0,33,Empleado,Soltero,Primaria,No Aplica,1
+5173,Sincelejo , Sucre,0,47,Empleado,Divorciado,Primaria,Propia,1
+5174,Cali , Valle Del Cauca,0,70,Pensionado,Divorciado,Bachillerato,Propia,1
+5175,Bogota , Bogota D.C,1,45,Independiente,Casado,Primaria,Propia,1
+5176,Cartagena , Bolivar,0,39,Independiente,Casado,Primaria,Propia,0
+5177,Monteria , Cordoba,0,56,Independiente,Casado,Profesional,No Aplica,0
+5178,Barranquilla , Atlantico,0,38,Empleado,Casado,Profesional,Propia,1
+5179,Tauramena , Casanare,0,36,Empleado,Divorciado,Primaria,Propia,1
+5180,Yopal , Casanare,0,32,Independiente,Divorciado,Primaria,Propia,0
+5181,Bogota , Bogota D.C,0,55,Independiente,Casado,Bachillerato,Propia,2
+5182,Yopal , Casanare,0,69,Pensionado,Casado,Primaria,Propia,1
+5183,Yopal , Casanare,0,56,Independiente,Casado,Profesional,No Aplica,1
+5184,Armenia , Quindio,0,39,Independiente,Divorciado,Profesional,No Aplica,2
+5185,Bogota , Bogota D.C,0,39,Empleado,Casado,Profesional,No Aplica,2
+5186,Armenia , Quindio,0,35,Empleado,Soltero,Bachillerato,No Aplica,0
+5187,La Tebaida , Quindio,0,40,Independiente,Casado,Primaria,Alquiler,4
+5188,Pereira , Risaralda,0,51,Independiente,Divorciado,Primaria,Propia,0
+5189,Medellin , Antioquia,0,37,Empleado,Casado,Profesional,Alquiler,1
+5190,Pereira , Risaralda,0,47,Pensionado,Casado,Primaria,Propia,0
+5191,Bogota , Bogota D.C,0,43,Empleado,Divorciado,Primaria,Alquiler,1
+5192,Rionegro , Antioquia,0,38,Independiente,Divorciado,Profesional,Alquiler,1
+5193,Pereira , Risaralda,1,44,Independiente,Casado,Profesional,Propia,1
+5194,Dosquebradas , Risaralda,0,43,Empleado,Casado,Profesional,No Aplica,0
+5195,Cali , Valle Del Cauca,0,37,Independiente,Soltero,Profesional,No Aplica,1
+5196,La Virginia , Risaralda,0,32,Empleado,Soltero,Bachillerato,No Aplica,2
+5197,Pereira , Risaralda,0,60,Independiente,Casado,Primaria,Alquiler,1
+5198,Dosquebradas , Risaralda,0,65,Independiente,Casado,Primaria,No Aplica,1
+5199,Pereira , Risaralda,0,52,Pensionado,Casado,Primaria,Propia,1
+5200,Pereira , Risaralda,0,47,Empleado,Soltero,Primaria,No Aplica,1
+5201,Manizales , Caldas,0,61,Pensionado,Soltero,Primaria,Propia,3
+5202,Pereira , Risaralda,0,47,Pensionado,Soltero,Primaria,No Aplica,1
+5203,Pereira , Risaralda,0,65,Independiente,Casado,Profesional,Propia,1
+5204,Manizales , Caldas,0,59,Independiente,Casado,Profesional,Propia,3
+5205,Manizales , Caldas,0,59,Pensionado,Casado,Primaria,Propia,2
+5206,Calarca , Quindio,0,54,Pensionado,Casado,Primaria,Propia,0
+5207,Manizales , Caldas,0,52,Independiente,Soltero,Primaria,Propia,2
+5208,Trujillo , Valle Del Cauca,0,48,Independiente,Casado,Profesional,Propia,1
+5209,Popayan , Cauca,0,54,Independiente,Casado,Primaria,Propia,1
+5210,Popayan , Cauca,0,71,Pensionado,Casado,Bachillerato,Propia,0
+5211,Popayan , Cauca,0,41,Empleado,Casado,Primaria,Propia,1
+5212,Popayan , Cauca,0,39,Independiente,Soltero,Primaria,Propia,1
+5213,Cali , Valle Del Cauca,0,55,Independiente,Casado,Profesional,Propia,0
+5214,La Tebaida , Quindio,0,54,Independiente,Soltero,Primaria,Alquiler,1
+5215,Piendamo , Cauca,0,52,Independiente,Soltero,Primaria,Propia,1
+5216,Monteria , Cordoba,0,39,Independiente,Divorciado,Bachillerato,No Aplica,1
+5217,Monteria , Cordoba,0,37,Independiente,Divorciado,Profesional,Propia,0
+5218,Medellin , Antioquia,0,44,Empleado,Divorciado,Bachillerato,Propia,1
+5219,Sincelejo , Sucre,0,35,Empleado,Divorciado,Primaria,Alquiler,0
+5220,Lorica , Cordoba,0,38,Independiente,Casado,Bachillerato,Propia,1
+5221,San Andres Sotavento , Cordoba,0,41,Empleado,Casado,Profesional,No Aplica,2
+5222,Lorica , Cordoba,0,55,Independiente,Divorciado,Primaria,Propia,1
+5223,Bogota , Bogota D.C,1,36,Empleado,Soltero,Profesional,No Aplica,2
+5224,Bucaramanga , Santander,0,59,Empleado,Casado,Profesional,Propia,1
+5225,Florencia , Caqueta,0,53,Empleado,Divorciado,Profesional,Propia,0
+5226,Girardot , Cundinamarca,0,50,Empleado,Soltero,Profesional,No Aplica,2
+5227,Bogota , Bogota D.C,0,48,Empleado,Soltero,Primaria,No Aplica,0
+5228,Tocancipa , Cundinamarca,0,67,Independiente,Casado,Profesional,Propia,1
+5229,Bogota , Bogota D.C,0,56,Empleado,Soltero,Profesional,Propia,0
+5230,Bucaramanga , Santander,0,57,Empleado,Casado,Profesional,Propia,2
+5231,Bogota , Bogota D.C,0,49,Pensionado,Casado,Primaria,Propia,1
+5232,Condoto , Choco,0,51,Empleado,Divorciado,Primaria,Propia,1
+5233,Neiva , Huila,0,76,Independiente,Viudo,Profesional,Alquiler,1
+5234,Neiva , Huila,0,62,Independiente,Divorciado,Primaria,Propia,1
+5235,Neiva , Huila,0,65,Empleado,Divorciado,Primaria,No Aplica,0
+5236,Neiva , Huila,0,52,Independiente,Soltero,Primaria,Propia,0
+5237,Neiva , Huila,0,51,Independiente,Divorciado,Bachillerato,Propia,1
+5238,Neiva , Huila,0,32,Empleado,Divorciado,Primaria,No Aplica,1
+5239,Bogota , Bogota D.C,0,42,Independiente,Divorciado,Primaria,No Aplica,0
+5240,Pitalito , Huila,1,41,Independiente,Soltero,Primaria,No Aplica,0
+5241,Pitalito , Huila,0,53,Independiente,Casado,Primaria,Propia,1
+5242,Bucaramanga , Santander,0,37,Independiente,Soltero,Primaria,Propia,0
+5243,Santa Marta , Magdalena,0,60,Independiente,Casado,Primaria,Propia,0
+5244,Santa Marta , Magdalena,0,63,Pensionado,Casado,Bachillerato,Propia,1
+5245,Pasto , Narino,0,35,Empleado,Casado,Profesional,Propia,1
+5246,Pasto , Narino,0,66,Empleado,Casado,Profesional,Propia,1
+5247,Pasto , Narino,0,60,Empleado,Soltero,Profesional,Propia,5
+5248,Cucuta , Norte Santander,0,53,Pensionado,Casado,Bachillerato,Propia,1
+5249,Pasto , Narino,0,53,Empleado,Divorciado,Bachillerato,Propia,0
+5250,Bogota , Bogota D.C,0,47,Empleado,Divorciado,Primaria,No Aplica,1
+5251,Pasto , Narino,0,37,Independiente,Soltero,Primaria,Propia,2
+5252,Ocana , Norte Santander,0,36,Independiente,Soltero,Primaria,Propia,3
+5253,Cucuta , Norte Santander,0,38,Empleado,Casado,Profesional,Propia,1
+5254,Cucuta , Norte Santander,1,66,Pensionado,Casado,Profesional,Propia,0
+5255,Bogota , Bogota D.C,0,57,Empleado,Casado,Primaria,Propia,0
+5256,Cucuta , Norte Santander,0,61,Independiente,Divorciado,Bachillerato,Propia,1
+5257,Cucuta , Norte Santander,1,57,Pensionado,Casado,Profesional,Propia,0
+5258,Piedecuesta , Santander,0,45,Independiente,Casado,Profesional,Propia,1
+5259,Florencia , Caqueta,0,34,Empleado,Divorciado,Primaria,Propia,1
+5260,Puerto Wilches , Santander,0,56,Independiente,Casado,Primaria,Propia,1
+5261,Bucaramanga , Santander,0,38,Empleado,Casado,Bachillerato,Propia,0
+5262,Bogota , Bogota D.C,0,37,Empleado,Soltero,Bachillerato,No Aplica,1
+5263,Bogota , Bogota D.C,0,60,Empleado,Casado,Primaria,Propia,0
+5264,Cali , Valle Del Cauca,0,62,Independiente,Soltero,Profesional,Propia,2
+5265,Bucaramanga , Santander,0,62,Pensionado,Casado,Profesional,Propia,1
+5266,Bucaramanga , Santander,0,37,Empleado,Casado,Bachillerato,Alquiler,1
+5267,Rio De Oro , Cesar,0,37,Independiente,Divorciado,Profesional,Propia,0
+5268,Anserma , Caldas,0,36,Empleado,Casado,Profesional,Propia,1
+5269,Barrancabermeja , Santander,0,61,Independiente,Soltero,Bachillerato,Propia,0
+5270,Bogota , Bogota D.C,0,57,Empleado,Casado,Primaria,Propia,2
+5271,Bogota , Bogota D.C,0,67,Independiente,Casado,Primaria,Propia,1
+5272,Ibague , Tolima,0,62,Empleado,Divorciado,Bachillerato,No Aplica,2
+5273,Ibague , Tolima,0,60,Pensionado,Casado,Primaria,No Aplica,2
+5274,Bogota , Bogota D.C,0,47,Independiente,Casado,Profesional,Propia,4
+5275,Ibague , Tolima,0,35,Empleado,Divorciado,Profesional,Propia,0
+5276,Cali , Valle Del Cauca,0,74,Pensionado,Casado,Bachillerato,Propia,0
+5277,Cali , Valle Del Cauca,1,36,Independiente,Casado,Profesional,Propia,0
+5278,Cali , Valle Del Cauca,1,34,Empleado,Soltero,Profesional,No Aplica,1
+5279,Cali , Valle Del Cauca,0,33,Empleado,Divorciado,Bachillerato,Propia,1
+5280,Tulua , Valle Del Cauca,0,35,Empleado,Casado,Bachillerato,Alquiler,1
+5281,Guadalajara de Buga , Valle Del Cauca,0,65,Pensionado,Casado,Profesional,Propia,4
+5282,Calima , Valle Del Cauca,0,43,Empleado,Casado,Profesional,Propia,1
+5283,Bogota , Bogota D.C,0,70,Pensionado,Divorciado,Profesional,Alquiler,2
+5284,Valledupar , Cesar,0,36,Empleado,Divorciado,Primaria,No Aplica,1
+5285,Guadalajara de Buga , Valle Del Cauca,0,52,Independiente,Casado,Bachillerato,No Aplica,0
+5286,Envigado , Antioquia,0,53,Empleado,Casado,Bachillerato,Propia,1
+5287,Medellin , Antioquia,0,39,Empleado,Casado,Primaria,Propia,1
+5288,Envigado , Antioquia,0,61,Pensionado,Casado,Profesional,Propia,3
+5289,La Ceja , Antioquia,0,61,Independiente,Casado,Profesional,Propia,0
+5290,Rionegro , Antioquia,0,41,Empleado,Divorciado,Profesional,No Aplica,2
+5291,Medellin , Antioquia,0,33,Empleado,Casado,Profesional,No Aplica,0
+5292,Cali , Valle Del Cauca,0,50,Empleado,Casado,Primaria,Propia,1
+5293,Bogota , Bogota D.C,0,40,Independiente,Casado,Profesional,Propia,3
+5294,Bogota , Bogota D.C,1,36,Independiente,Divorciado,Primaria,No Aplica,0
+5295,Villavicencio , Meta,0,46,Pensionado,Casado,Bachillerato,Propia,1
+5296,Chinchina , Caldas,0,33,Independiente,Casado,Profesional,Alquiler,0
+5297,Florencia , Caqueta,0,37,Empleado,Casado,Bachillerato,Propia,1
+5298,Cartago , Valle Del Cauca,0,67,Pensionado,Divorciado,Primaria,Propia,1
+5299,Cartago , Valle Del Cauca,0,53,Independiente,Divorciado,Primaria,Propia,0
+5300,Soacha , Cundinamarca,0,52,Independiente,Casado,Primaria,Propia,0
+5301,Cartago , Valle Del Cauca,0,39,Independiente,Divorciado,Primaria,Alquiler,0
+5302,Cali , Valle Del Cauca,0,68,Pensionado,Casado,Profesional,Propia,1
+5303,Palmira , Valle Del Cauca,0,63,Pensionado,Casado,Profesional,Propia,2
+5304,Medellin , Antioquia,0,60,Empleado,Casado,Profesional,No Aplica,2
+5305,Cali , Valle Del Cauca,0,54,Empleado,Casado,Bachillerato,Propia,1
+5306,Palmira , Valle Del Cauca,0,49,Independiente,Casado,Profesional,Propia,0
+5307,Armenia , Quindio,0,69,Pensionado,Casado,Primaria,No Aplica,2
+5308,Barranquilla , Atlantico,0,63,Independiente,Casado,Profesional,Propia,0
+5309,Bogota , Bogota D.C,0,35,Independiente,Divorciado,Profesional,No Aplica,1
+5310,Pereira , Risaralda,0,59,Independiente,Casado,Profesional,Propia,3
+5311,Bogota , Bogota D.C,0,61,Empleado,Soltero,Bachillerato,Propia,0
+5312,Cali , Valle Del Cauca,0,56,Independiente,Casado,Profesional,Propia,0
+5313,Cali , Valle Del Cauca,0,55,Empleado,Divorciado,Primaria,Propia,0
+5314,Cali , Valle Del Cauca,0,54,Empleado,Casado,Profesional,Propia,1
+5315,Cali , Valle Del Cauca,0,52,Independiente,Casado,Bachillerato,No Aplica,1
+5316,Cali , Valle Del Cauca,0,53,Empleado,Soltero,Bachillerato,No Aplica,1
+5317,Cali , Valle Del Cauca,0,52,Empleado,Casado,Profesional,No Aplica,1
+5318,Cali , Valle Del Cauca,0,46,Independiente,Divorciado,Profesional,Propia,0
+5319,Cali , Valle Del Cauca,0,35,Empleado,Divorciado,Profesional,Propia,1
+5320,Cali , Valle Del Cauca,0,45,Empleado,Soltero,Bachillerato,No Aplica,1
+5321,Cali , Valle Del Cauca,0,37,Empleado,Divorciado,Profesional,No Aplica,1
+5322,Envigado , Antioquia,0,36,Independiente,Casado,Bachillerato,Propia,6
+5323,Cali , Valle Del Cauca,0,38,Empleado,Casado,Bachillerato,Propia,1
+5324,Buenaventura , Valle Del Cauca,1,36,Independiente,Casado,Profesional,Propia,0
+5325,Riofrio , Valle Del Cauca,0,49,Empleado,Soltero,Bachillerato,Propia,1
+5326,Fusagasuga , Cundinamarca,0,71,Pensionado,Casado,Primaria,Propia,1
+5327,Bucaramanga , Santander,0,71,Pensionado,Casado,Profesional,Propia,1
+5328,Bogota , Bogota D.C,0,70,Pensionado,Casado,Profesional,Propia,1
+5329,Villavicencio , Meta,0,58,Pensionado,Casado,Profesional,Propia,1
+5330,Cumaral , Meta,0,56,Independiente,Divorciado,Bachillerato,No Aplica,0
+5331,Villavicencio , Meta,0,53,Independiente,Casado,Primaria,Propia,0
+5332,Villavicencio , Meta,0,50,Empleado,Casado,Profesional,Propia,1
+5333,Bogota , Bogota D.C,0,59,Pensionado,Casado,Bachillerato,Propia,2
+5334,Yopal , Casanare,0,33,Empleado,Divorciado,Profesional,No Aplica,2
+5335,Acacias , Meta,0,33,Independiente,Soltero,Bachillerato,No Aplica,1
+5336,Arauca , Arauca,0,60,Independiente,Divorciado,Profesional,Propia,1
+5337,Pitalito , Huila,0,40,Empleado,Divorciado,Profesional,Propia,1
+5338,Acacias , Meta,0,33,Pensionado,Divorciado,Profesional,Propia,0
+5339,Armenia , Quindio,0,52,Empleado,Divorciado,Profesional,Alquiler,0
+5340,Castilla La Nueva , Meta,0,39,Empleado,Soltero,Bachillerato,No Aplica,0
+5341,Pereira , Risaralda,0,37,Empleado,Soltero,Bachillerato,Propia,1
+5342,Pereira , Risaralda,0,52,Empleado,Soltero,Primaria,No Aplica,0
+5343,Pereira , Risaralda,0,33,Empleado,Casado,Profesional,No Aplica,1
+5344,Pereira , Risaralda,0,51,Independiente,Divorciado,Profesional,No Aplica,0
+5345,Santa Rosa De Cabal , Risaralda,0,38,Independiente,Casado,Bachillerato,No Aplica,0
+5346,Bogota , Bogota D.C,0,69,Independiente,Casado,Primaria,Propia,1
+5347,Bogota , Bogota D.C,0,69,Pensionado,Casado,Bachillerato,Propia,1
+5348,Bucaramanga , Santander,0,66,Pensionado,Casado,Profesional,Propia,1
+5349,Bogota , Bogota D.C,0,66,Independiente,Casado,Profesional,No Aplica,2
+5350,Bogota , Bogota D.C,0,66,Pensionado,Casado,Profesional,Alquiler,0
+5351,Bogota , Bogota D.C,0,65,Pensionado,Casado,Profesional,Propia,2
+5352,Bogota , Bogota D.C,0,67,Independiente,Casado,Primaria,Propia,0
+5353,Bogota , Bogota D.C,0,65,Independiente,Casado,Profesional,Propia,3
+5354,Bogota , Bogota D.C,0,64,Pensionado,Casado,Profesional,Propia,2
+5355,Bogota , Bogota D.C,0,69,Pensionado,Divorciado,Primaria,Propia,1
+5356,Pereira , Risaralda,0,64,Independiente,Casado,Profesional,Propia,0
+5357,Bogota , Bogota D.C,0,65,Pensionado,Casado,Primaria,Propia,2
+5358,Bogota , Bogota D.C,0,64,Independiente,Casado,Profesional,Propia,1
+5359,Bogota , Bogota D.C,0,62,Pensionado,Casado,Primaria,Propia,2
+5360,Bogota , Bogota D.C,0,62,Independiente,Viudo,Profesional,Propia,3
+5361,Bogota , Bogota D.C,0,60,Independiente,Casado,Profesional,Propia,0
+5362,Bogota , Bogota D.C,0,62,Independiente,Casado,Bachillerato,Propia,0
+5363,Bogota , Bogota D.C,0,62,Empleado,Soltero,Profesional,Propia,1
+5364,Bogota , Bogota D.C,0,59,Independiente,Casado,Bachillerato,Propia,1
+5365,Bogota , Bogota D.C,0,59,Empleado,Soltero,Profesional,No Aplica,2
+5366,Bucaramanga , Santander,0,61,Independiente,Viudo,Profesional,Propia,1
+5367,Bogota , Bogota D.C,0,58,Independiente,Casado,Profesional,Propia,1
+5368,Bogota , Bogota D.C,0,58,Independiente,Casado,Profesional,Propia,1
+5369,Villavicencio , Meta,0,59,Independiente,Soltero,Bachillerato,Propia,0
+5370,Bogota , Bogota D.C,0,57,Empleado,Casado,Primaria,Propia,5
+5371,Mosquera , Cundinamarca,0,56,Empleado,Casado,Profesional,No Aplica,2
+5372,Tunja , Boyaca,0,56,Independiente,Casado,Profesional,Propia,1
+5373,Bogota , Bogota D.C,0,55,Independiente,Casado,Profesional,Propia,0
+5374,Bogota , Bogota D.C,0,55,Empleado,Divorciado,Profesional,Propia,1
+5375,Soacha , Cundinamarca,1,56,Independiente,Casado,Profesional,Propia,0
+5376,Bogota , Bogota D.C,0,55,Independiente,Divorciado,Primaria,No Aplica,1
+5377,Riohacha , La Guajira,0,51,Empleado,Divorciado,Primaria,No Aplica,0
+5378,Cartagena , Bolivar,0,33,Empleado,Divorciado,Bachillerato,No Aplica,1
+5379,Bogota , Bogota D.C,0,78,Pensionado,Divorciado,Profesional,No Aplica,0
+5380,Fusagasuga , Cundinamarca,0,34,Independiente,Soltero,Bachillerato,No Aplica,1
+5381,Bogota , Bogota D.C,0,50,Pensionado,Divorciado,Bachillerato,No Aplica,1
+5382,Bogota , Bogota D.C,0,33,Empleado,Casado,Primaria,Propia,0
+5383,Bogota , Bogota D.C,0,66,Independiente,Divorciado,Primaria,Propia,1
+5384,Bogota , Bogota D.C,0,54,Independiente,Soltero,Primaria,No Aplica,0
+5385,Bogota , Bogota D.C,1,75,Pensionado,Casado,Primaria,Propia,0
+5386,Bogota , Bogota D.C,0,55,Independiente,Soltero,Primaria,No Aplica,0
+5387,Bogota , Bogota D.C,0,57,Independiente,Soltero,Bachillerato,Propia,2
+5388,Facatativa , Cundinamarca,0,55,Pensionado,Viudo,Primaria,Propia,0
+5389,Ibague , Tolima,0,43,Independiente,Divorciado,Primaria,Alquiler,0
+5390,Nemocon , Cundinamarca,0,41,Empleado,Divorciado,Primaria,Propia,1
+5391,Bogota , Bogota D.C,0,54,Pensionado,Casado,Bachillerato,Propia,0
+5392,Tocancipa , Cundinamarca,0,33,Empleado,Soltero,Primaria,Propia,2
+5393,Bogota , Bogota D.C,0,35,Empleado,Soltero,Primaria,Alquiler,0
+5394,Bogota , Bogota D.C,0,42,Empleado,Soltero,Profesional,Propia,2
+5395,Bogota , Bogota D.C,0,58,Independiente,Soltero,Profesional,Propia,6
+5396,Bogota , Bogota D.C,0,69,Pensionado,Soltero,Profesional,Propia,1
+5397,Bogota , Bogota D.C,0,62,Independiente,Soltero,Bachillerato,No Aplica,2
+5398,Cumaribo , Vichada,0,66,Independiente,Soltero,Bachillerato,No Aplica,2
+5399,Guarne , Antioquia,0,61,Pensionado,Casado,Primaria,No Aplica,1
+5400,Medellin , Antioquia,0,35,Independiente,Divorciado,Primaria,No Aplica,1
+5401,Medellin , Antioquia,1,35,Empleado,Casado,Bachillerato,Propia,0
+5402,Medellin , Antioquia,0,79,Pensionado,Divorciado,Primaria,Propia,2
+5403,Cali , Valle Del Cauca,0,55,Pensionado,Casado,Bachillerato,Propia,1
+5404,Barranquilla , Atlantico,0,67,Pensionado,Soltero,Bachillerato,Propia,2
+5405,El Carmen De Bolivar , Bolivar,0,65,Independiente,Casado,Primaria,Propia,3
+5406,Barranquilla , Atlantico,0,65,Empleado,Soltero,Profesional,Propia,1
+5407,Barranquilla , Atlantico,0,63,Pensionado,Soltero,Profesional,Propia,0
+5408,Barranquilla , Atlantico,0,63,Independiente,Casado,Bachillerato,Propia,1
+5409,Baranoa , Atlantico,0,57,Pensionado,Casado,Profesional,Propia,4
+5410,Soledad , Atlantico,0,54,Pensionado,Casado,Primaria,Propia,0
+5411,Campo De La Cruz , Atlantico,0,43,Pensionado,Casado,Primaria,Propia,1
+5412,Barranquilla , Atlantico,0,38,Independiente,Casado,Profesional,No Aplica,0
+5413,Barranquilla , Atlantico,0,57,Independiente,Soltero,Primaria,Propia,1
+5414,Barranquilla , Atlantico,0,36,Pensionado,Casado,Bachillerato,Propia,1
+5415,Repelon , Atlantico,0,64,Independiente,Divorciado,Bachillerato,Propia,1
+5416,Sabanalarga , Atlantico,0,51,Empleado,Casado,Profesional,Propia,1
+5417,Cartagena , Bolivar,0,52,Independiente,Divorciado,Primaria,No Aplica,0
+5418,Sabanalarga , Atlantico,0,54,Pensionado,Casado,Primaria,Propia,0
+5419,Barranquilla , Atlantico,1,59,Independiente,Casado,Bachillerato,Propia,0
+5420,Morroa , Sucre,0,35,Independiente,Divorciado,Profesional,Propia,3
+5421,Sincelejo , Sucre,0,45,Independiente,Casado,Primaria,Propia,0
+5422,Sincelejo , Sucre,0,59,Pensionado,Divorciado,Bachillerato,No Aplica,0
+5423,Magangue , Bolivar,0,66,Independiente,Casado,Primaria,Propia,3
+5424,Zipaquira , Cundinamarca,0,45,Empleado,Soltero,Primaria,Propia,0
+5425,Chiquinquira , Boyaca,0,38,Independiente,Soltero,Bachillerato,Alquiler,2
+5426,Cali , Valle Del Cauca,0,56,Independiente,Soltero,Profesional,Propia,1
+5427,Chiquinquira , Boyaca,0,55,Independiente,Viudo,Profesional,Propia,0
+5428,Bogota , Bogota D.C,0,56,Independiente,Casado,Profesional,Propia,1
+5429,Bogota , Bogota D.C,0,36,Independiente,Divorciado,Primaria,No Aplica,0
+5430,Villanueva , Casanare,0,42,Independiente,Soltero,Profesional,Alquiler,1
+5431,Yopal , Casanare,0,70,Independiente,Casado,Profesional,Propia,0
+5432,Bogota , Bogota D.C,0,59,Empleado,Casado,Primaria,Propia,1
+5433,Bogota , Bogota D.C,0,56,Empleado,Soltero,Primaria,Propia,0
+5434,Bogota , Bogota D.C,0,32,Independiente,Casado,Primaria,No Aplica,0
+5435,Soacha , Cundinamarca,0,49,Empleado,Casado,Primaria,Propia,0
+5436,Cabuyaro , Meta,0,45,Independiente,Divorciado,Bachillerato,Propia,0
+5437,Sogamoso , Boyaca,0,50,Empleado,Casado,Profesional,Propia,1
+5438,Bogota , Bogota D.C,0,46,Independiente,Casado,Profesional,Propia,4
+5439,Arauca , Arauca,0,49,Independiente,Soltero,Bachillerato,Propia,1
+5440,Manizales , Caldas,0,76,Pensionado,Divorciado,Profesional,No Aplica,0
+5441,Manizales , Caldas,0,33,Empleado,Divorciado,Profesional,No Aplica,1
+5442,Pereira , Risaralda,0,55,Pensionado,Casado,Primaria,Propia,0
+5443,Armenia , Quindio,0,62,Pensionado,Soltero,Profesional,Propia,1
+5444,Bogota , Bogota D.C,0,61,Independiente,Soltero,Primaria,Propia,1
+5445,Popayan , Cauca,0,52,Independiente,Divorciado,Profesional,Alquiler,0
+5446,La Tebaida , Quindio,0,53,Independiente,Soltero,Primaria,Propia,1
+5447,Armenia , Quindio,0,45,Independiente,Soltero,Primaria,No Aplica,0
+5448,Manizales , Caldas,0,60,Pensionado,Divorciado,Bachillerato,Propia,1
+5449,Arauca , Arauca,0,35,Independiente,Divorciado,Bachillerato,No Aplica,1
+5450,Armenia , Quindio,0,50,Empleado,Soltero,Bachillerato,Propia,0
+5451,Chinchina , Caldas,0,51,Independiente,Soltero,Primaria,Propia,1
+5452,Dosquebradas , Risaralda,0,35,Empleado,Soltero,Bachillerato,No Aplica,1
+5453,Armenia , Quindio,0,49,Pensionado,Soltero,Bachillerato,Propia,2
+5454,Villamaria , Caldas,1,32,Independiente,Soltero,Primaria,No Aplica,0
+5455,Bogota , Bogota D.C,0,57,Empleado,Soltero,Profesional,Propia,1
+5456,Pereira , Risaralda,0,83,Pensionado,Divorciado,Primaria,Propia,0
+5457,Pereira , Risaralda,0,65,Pensionado,Soltero,Profesional,No Aplica,1
+5458,Santuario , Risaralda,0,48,Empleado,Casado,Bachillerato,Propia,0
+5459,Bogota , Bogota D.C,0,55,Empleado,Soltero,Primaria,No Aplica,0
+5460,Bogota , Bogota D.C,0,54,Pensionado,Soltero,Profesional,Propia,2
+5461,Pereira , Risaralda,0,64,Pensionado,Divorciado,Profesional,Propia,2
+5462,Pereira , Risaralda,0,47,Pensionado,Divorciado,Primaria,No Aplica,1
+5463,Cali , Valle Del Cauca,0,48,Empleado,Casado,Profesional,Propia,0
+5464,Cali , Valle Del Cauca,0,43,Independiente,Casado,Profesional,Propia,0
+5465,Popayan , Cauca,0,36,Empleado,Divorciado,Bachillerato,Propia,0
+5466,Bogota , Bogota D.C,0,40,Empleado,Divorciado,Primaria,Alquiler,0
+5467,Popayan , Cauca,0,40,Independiente,Divorciado,Primaria,Propia,2
+5468,Santander De Quilichao , Cauca,0,58,Empleado,Viudo,Bachillerato,Propia,0
+5469,Monteria , Cordoba,0,37,Independiente,Casado,Bachillerato,Alquiler,1
+5470,Caucasia , Antioquia,0,47,Pensionado,Divorciado,Profesional,No Aplica,1
+5471,Lorica , Cordoba,0,64,Empleado,Divorciado,Profesional,Propia,3
+5472,San Antero , Cordoba,0,49,Pensionado,Casado,Bachillerato,Propia,0
+5473,Bogota , Bogota D.C,0,36,Empleado,Soltero,Primaria,No Aplica,0
+5474,Medellin , Antioquia,0,49,Pensionado,Soltero,Profesional,No Aplica,0
+5475,Tesalia , Huila,0,33,Independiente,Divorciado,Primaria,Propia,1
+5476,Bogota , Bogota D.C,0,35,Empleado,Soltero,Bachillerato,Alquiler,0
+5477,Neiva , Huila,0,38,Empleado,Casado,Profesional,Propia,0
+5478,Yaguara , Huila,0,19,Empleado,Soltero,Bachillerato,No Aplica,1
+5479,Cartagena , Bolivar,0,54,Empleado,Soltero,Profesional,Propia,0
+5480,Malambo , Atlantico,1,71,Pensionado,Casado,Profesional,Propia,1
+5481,Ocana , Norte Santander,0,48,Pensionado,Casado,Profesional,Propia,3
+5482,Pasto , Narino,0,57,Independiente,Divorciado,Bachillerato,Propia,1
+5483,Guachucal , Narino,0,38,Independiente,Divorciado,Bachillerato,Propia,0
+5484,Pasto , Narino,0,61,Pensionado,Soltero,Profesional,Propia,1
+5485,Ipiales , Narino,0,65,Independiente,Soltero,Profesional,Propia,2
+5486,Pasto , Narino,0,46,Empleado,Soltero,Profesional,Propia,3
+5487,Pasto , Narino,1,72,Pensionado,Divorciado,Profesional,Propia,1
+5488,Cucuta , Norte Santander,0,51,Pensionado,Divorciado,Profesional,Propia,0
+5489,Yopal , Casanare,0,37,Independiente,Casado,Bachillerato,No Aplica,3
+5490,Bogota , Bogota D.C,0,39,Empleado,Soltero,Primaria,No Aplica,0
+5491,Bogota , Bogota D.C,0,42,Independiente,Divorciado,Primaria,No Aplica,1
+5492,Funza , Cundinamarca,0,42,Pensionado,Casado,Profesional,Propia,2
+5493,Cali , Valle Del Cauca,0,39,Independiente,Divorciado,Bachillerato,Propia,1
+5494,Bugalagrande , Valle Del Cauca,0,33,Pensionado,Divorciado,Bachillerato,No Aplica,1
+5495,Cartago , Valle Del Cauca,0,64,Pensionado,Divorciado,Primaria,Alquiler,1
+5496,Cali , Valle Del Cauca,0,54,Independiente,Casado,Profesional,Propia,1
+5497,Cali , Valle Del Cauca,0,55,Independiente,Casado,Bachillerato,Propia,1
+5498,Roldanillo , Valle Del Cauca,0,66,Independiente,Divorciado,Profesional,Propia,1
+5499,Bogota , Bogota D.C,0,49,Independiente,Soltero,Primaria,No Aplica,1
+5500,Tulua , Valle Del Cauca,0,39,Independiente,Soltero,Profesional,No Aplica,0
+5501,Tulua , Valle Del Cauca,0,38,Empleado,Soltero,Primaria,Propia,1
+5502,Tulua , Valle Del Cauca,0,59,Pensionado,Divorciado,Primaria,Propia,1
+5503,Cucuta , Norte Santander,0,65,Pensionado,Divorciado,Profesional,Propia,1
+5504,Manizales , Caldas,0,59,Pensionado,Casado,Profesional,Propia,1
+5505,Manizales , Caldas,1,60,Pensionado,Soltero,Primaria,Propia,0
+5506,Circasia , Quindio,0,49,Pensionado,Divorciado,Bachillerato,Propia,2
+5507,Manizales , Caldas,0,47,Pensionado,Divorciado,Primaria,Propia,0
+5508,Barranquilla , Atlantico,0,48,Empleado,Divorciado,Profesional,Propia,4
+5509,La Dorada , Caldas,0,47,Independiente,Divorciado,Bachillerato,Propia,1
+5510,Bogota , Bogota D.C,0,47,Independiente,Soltero,Primaria,No Aplica,0
+5511,Lorica , Cordoba,0,41,Empleado,Soltero,Profesional,No Aplica,1
+5512,Pasto , Narino,0,62,Pensionado,Viudo,Profesional,Propia,3
+5513,Cali , Valle Del Cauca,0,54,Independiente,Casado,Bachillerato,Propia,1
+5514,Sabanalarga , Atlantico,0,40,Independiente,Soltero,Primaria,Propia,1
+5515,Villavicencio , Meta,0,37,Independiente,Divorciado,Primaria,No Aplica,1
+5516,Villavicencio , Meta,0,33,Independiente,Casado,Profesional,No Aplica,0
+5517,La Union , Valle Del Cauca,0,34,Empleado,Divorciado,Bachillerato,Propia,1
+5518,Tulua , Valle Del Cauca,0,53,Empleado,Soltero,Profesional,Propia,1
+5519,Cali , Valle Del Cauca,0,72,Independiente,Casado,Profesional,Propia,1
+5520,Bogota , Bogota D.C,0,70,Pensionado,Casado,Primaria,Propia,1
+5521,La Cumbre , Valle Del Cauca,0,66,Pensionado,Soltero,Profesional,Propia,1
+5522,Cali , Valle Del Cauca,0,67,Independiente,Soltero,Bachillerato,No Aplica,1
+5523,Cali , Valle Del Cauca,0,62,Pensionado,Soltero,Profesional,Propia,0
+5524,Cali , Valle Del Cauca,0,34,Empleado,Casado,Bachillerato,Propia,0
+5525,Cartago , Valle Del Cauca,0,58,Pensionado,Divorciado,Primaria,Propia,0
+5526,Cali , Valle Del Cauca,0,52,Independiente,Casado,Profesional,No Aplica,3
+5527,Yumbo , Valle Del Cauca,1,51,Independiente,Soltero,Primaria,No Aplica,0
+5528,Cali , Valle Del Cauca,0,46,Independiente,Casado,Bachillerato,Propia,0
+5529,Cali , Valle Del Cauca,0,39,Empleado,Casado,Profesional,Propia,4
+5530,La Victoria , Valle Del Cauca,0,39,Empleado,Soltero,Bachillerato,No Aplica,0
+5531,Cali , Valle Del Cauca,0,56,Pensionado,Casado,Bachillerato,Propia,1
+5532,Cali , Valle Del Cauca,0,44,Independiente,Casado,Profesional,Propia,1
+5533,Palmira , Valle Del Cauca,0,57,Pensionado,Casado,Primaria,Propia,3
+5534,Cali , Valle Del Cauca,0,37,Independiente,Soltero,Profesional,Propia,1
+5535,Yopal , Casanare,0,32,Independiente,Divorciado,Bachillerato,Alquiler,0
+5536,Cali , Valle Del Cauca,0,38,Empleado,Casado,Profesional,Propia,1
+5537,Tulua , Valle Del Cauca,0,36,Empleado,Casado,Profesional,Propia,1
+5538,Cali , Valle Del Cauca,0,60,Independiente,Divorciado,Bachillerato,Propia,0
+5539,Cali , Valle Del Cauca,0,66,Independiente,Casado,Profesional,Propia,1
+5540,Cali , Valle Del Cauca,0,57,Empleado,Soltero,Profesional,Propia,0
+5541,Cali , Valle Del Cauca,0,55,Independiente,Casado,Profesional,Propia,0
+5542,Cali , Valle Del Cauca,0,56,Independiente,Casado,Profesional,Propia,0
+5543,Pereira , Risaralda,0,52,Independiente,Soltero,Bachillerato,Propia,0
+5544,Bogota , Bogota D.C,0,51,Empleado,Casado,Profesional,Propia,2
+5545,Cali , Valle Del Cauca,0,50,Empleado,Divorciado,Profesional,Propia,2
+5546,Cali , Valle Del Cauca,0,49,Independiente,Casado,Bachillerato,No Aplica,0
+5547,Medellin , Antioquia,0,38,Empleado,Divorciado,Primaria,No Aplica,1
+5548,Medellin , Antioquia,0,36,Empleado,Divorciado,Bachillerato,Alquiler,1
+5549,Medellin , Antioquia,0,73,Pensionado,Divorciado,Primaria,Propia,0
+5550,Medellin , Antioquia,0,67,Pensionado,Casado,Profesional,Propia,2
+5551,Medellin , Antioquia,0,68,Pensionado,Soltero,Profesional,Propia,1
+5552,Barranquilla , Atlantico,0,36,Independiente,Soltero,Bachillerato,No Aplica,1
+5553,Barranquilla , Atlantico,0,64,Independiente,Casado,Bachillerato,Propia,1
+5554,Barranquilla , Atlantico,0,61,Pensionado,Casado,Bachillerato,Propia,0
+5555,Barranquilla , Atlantico,0,54,Independiente,Casado,Bachillerato,Propia,1
+5556,Barranquilla , Atlantico,0,54,Independiente,Viudo,Bachillerato,Propia,0
+5557,Barranquilla , Atlantico,0,52,Independiente,Casado,Bachillerato,Propia,0
+5558,Barranquilla , Atlantico,0,51,Independiente,Casado,Profesional,Propia,0
+5559,Barranquilla , Atlantico,0,48,Independiente,Divorciado,Profesional,Propia,0
+5560,Barranquilla , Atlantico,0,45,Pensionado,Soltero,Profesional,Propia,0
+5561,Bogota , Bogota D.C,0,42,Empleado,Casado,Profesional,Propia,1
+5562,Barranquilla , Atlantico,0,42,Independiente,Casado,Profesional,Propia,0
+5563,Bello , Antioquia,1,53,Independiente,Divorciado,Bachillerato,No Aplica,0
+5564,Riohacha , La Guajira,0,47,Empleado,Casado,Profesional,Propia,2
+5565,Sabanalarga , Atlantico,0,50,Pensionado,Casado,Primaria,Propia,0
+5566,Barranquilla , Atlantico,0,41,Independiente,Casado,Primaria,No Aplica,1
+5567,Barranquilla , Atlantico,0,42,Independiente,Casado,Profesional,No Aplica,1
+5568,Barranquilla , Atlantico,0,41,Empleado,Casado,Profesional,Propia,1
+5569,Barranquilla , Atlantico,0,34,Empleado,Casado,Profesional,No Aplica,1
+5570,Sincelejo , Sucre,0,66,Empleado,Soltero,Profesional,No Aplica,2
+5571,Cartagena , Bolivar,0,67,Pensionado,Casado,Profesional,Propia,0
+5572,Barranquilla , Atlantico,0,74,Pensionado,Soltero,Bachillerato,Propia,1
+5573,Sincelejo , Sucre,0,66,Pensionado,Soltero,Primaria,Propia,0
+5574,Neiva , Huila,0,33,Pensionado,Casado,Primaria,Propia,0
+5575,Pereira , Risaralda,0,59,Pensionado,Casado,Primaria,Propia,0
+5576,Popayan , Cauca,0,35,Independiente,Soltero,Profesional,Propia,1
+5577,Armenia , Quindio,0,34,Empleado,Soltero,Profesional,Propia,0
+5578,Cali , Valle Del Cauca,0,64,Empleado,Casado,Profesional,Propia,2
+5579,Popayan , Cauca,0,56,Independiente,Divorciado,Primaria,Propia,1
+5580,Popayan , Cauca,0,53,Independiente,Casado,Bachillerato,No Aplica,0
+5581,Popayan , Cauca,0,45,Empleado,Soltero,Primaria,No Aplica,0
+5582,Popayan , Cauca,0,43,Independiente,Casado,Bachillerato,Propia,1
+5583,Popayan , Cauca,0,42,Independiente,Casado,Bachillerato,Propia,0
+5584,Popayan , Cauca,0,50,Independiente,Divorciado,Profesional,No Aplica,0
+5585,Monteria , Cordoba,0,62,Independiente,Casado,Profesional,Propia,0
+5586,Monteria , Cordoba,0,55,Independiente,Divorciado,Primaria,Propia,0
+5587,Medellin , Antioquia,0,52,Independiente,Soltero,Profesional,Alquiler,0
+5588,Monteria , Cordoba,0,22,Pensionado,Casado,Bachillerato,Propia,0
+5589,Bogota , Bogota D.C,0,34,Empleado,Soltero,Primaria,No Aplica,1
+5590,Fusagasuga , Cundinamarca,0,39,Independiente,Soltero,Primaria,No Aplica,1
+5591,Villavicencio , Meta,0,38,Pensionado,Soltero,Bachillerato,Propia,2
+5592,Bogota , Bogota D.C,0,59,Independiente,Casado,Primaria,No Aplica,0
+5593,Bogota , Bogota D.C,0,65,Pensionado,Divorciado,Primaria,Propia,0
+5594,Bogota , Bogota D.C,0,33,Empleado,Casado,Profesional,Propia,2
+5595,Bogota , Bogota D.C,1,50,Independiente,Soltero,Profesional,Propia,0
+5596,Bogota , Bogota D.C,0,63,Pensionado,Casado,Primaria,Propia,0
+5597,Bogota , Bogota D.C,0,59,Independiente,Casado,Profesional,Propia,1
+5598,Bogota , Bogota D.C,0,61,Empleado,Soltero,Profesional,Propia,0
+5599,Bogota , Bogota D.C,0,58,Independiente,Casado,Profesional,Propia,1
+5600,Bogota , Bogota D.C,1,59,Independiente,Casado,Profesional,Propia,0
+5601,Bogota , Bogota D.C,0,58,Independiente,Casado,Primaria,Propia,0
+5602,Bogota , Bogota D.C,0,58,Independiente,Soltero,Bachillerato,Propia,0
+5603,Mosquera , Cundinamarca,0,55,Independiente,Casado,Primaria,Propia,0
+5604,Dosquebradas , Risaralda,0,47,Independiente,Divorciado,Bachillerato,No Aplica,0
+5605,Villavicencio , Meta,0,40,Independiente,Divorciado,Primaria,No Aplica,0
+5606,Timana , Huila,0,41,Independiente,Divorciado,Primaria,No Aplica,1
+5607,Neiva , Huila,0,39,Independiente,Divorciado,Profesional,No Aplica,1
+5608,Neiva , Huila,0,65,Empleado,Divorciado,Profesional,Propia,3
+5609,Neiva , Huila,0,59,Empleado,Viudo,Profesional,Propia,1
+5610,Neiva , Huila,0,38,Empleado,Casado,Profesional,Propia,2
+5611,Cucuta , Norte Santander,0,35,Pensionado,Soltero,Profesional,Propia,1
+5612,Bogota , Bogota D.C,0,66,Pensionado,Casado,Profesional,Propia,1
+5613,Santa Marta , Magdalena,0,65,Pensionado,Soltero,Profesional,Propia,0
+5614,Bogota , Bogota D.C,0,56,Empleado,Divorciado,Profesional,Propia,1
+5615,Pasto , Narino,0,37,Empleado,Soltero,Profesional,No Aplica,0
+5616,Pasto , Narino,0,49,Independiente,Soltero,Primaria,No Aplica,0
+5617,Pasto , Narino,0,60,Independiente,Casado,Bachillerato,Propia,3
+5618,Ipiales , Narino,0,48,Independiente,Casado,Profesional,No Aplica,1
+5619,Ipiales , Narino,0,49,Independiente,Soltero,Primaria,Alquiler,1
+5620,Cucuta , Norte Santander,0,66,Independiente,Soltero,Profesional,Propia,0
+5621,Cali , Valle Del Cauca,1,64,Pensionado,Casado,Profesional,Propia,2
+5622,Cucuta , Norte Santander,0,42,Independiente,Casado,Profesional,Propia,0
+5623,Cucuta , Norte Santander,0,38,Empleado,Casado,Primaria,Propia,1
+5624,Bucaramanga , Santander,0,35,Independiente,Casado,Profesional,Propia,1
+5625,Ocana , Norte Santander,0,36,Independiente,Soltero,Primaria,Propia,1
+5626,Cucuta , Norte Santander,0,35,Independiente,Casado,Profesional,Propia,1
+5627,Barrancabermeja , Santander,0,34,Empleado,Soltero,Profesional,No Aplica,0
+5628,Piedecuesta , Santander,1,36,Independiente,Soltero,Bachillerato,No Aplica,0
+5629,Bogota , Bogota D.C,1,42,Empleado,Divorciado,Primaria,Propia,1
+5630,Villavicencio , Meta,0,39,Independiente,Soltero,Profesional,Propia,2
+5631,Bucaramanga , Santander,0,38,Independiente,Divorciado,Profesional,No Aplica,1
+5632,Bogota , Bogota D.C,0,72,Pensionado,Soltero,Profesional,Propia,1
+5633,Bogota , Bogota D.C,0,68,Pensionado,Soltero,Profesional,Propia,2
+5634,Villa del Rosario , Norte Santander,0,67,Pensionado,Casado,Profesional,Propia,0
+5635,Bucaramanga , Santander,0,38,Independiente,Casado,Profesional,No Aplica,1
+5636,Bogota , Bogota D.C,0,38,Independiente,Divorciado,Profesional,Alquiler,0
+5637,Bucaramanga , Santander,0,63,Pensionado,Casado,Profesional,Propia,2
+5638,Barrancabermeja , Santander,0,60,Pensionado,Soltero,Bachillerato,No Aplica,1
+5639,Ibague , Tolima,0,43,Empleado,Soltero,Profesional,Propia,1
+5640,Cali , Valle Del Cauca,0,61,Pensionado,Divorciado,Bachillerato,Propia,4
+5641,Cali , Valle Del Cauca,0,59,Pensionado,Casado,Profesional,Propia,1
+5642,Buenaventura , Valle Del Cauca,0,64,Pensionado,Casado,Profesional,Propia,0
+5643,Purace , Cauca,0,37,Independiente,Casado,Bachillerato,Alquiler,0
+5644,Cali , Valle Del Cauca,0,33,Empleado,Casado,Profesional,Propia,1
+5645,Cali , Valle Del Cauca,0,36,Empleado,Divorciado,Bachillerato,No Aplica,1
+5646,Cali , Valle Del Cauca,0,37,Empleado,Casado,Bachillerato,Propia,0
+5647,Medellin , Antioquia,0,55,Independiente,Casado,Profesional,Propia,1
+5648,La Ceja , Antioquia,0,37,Pensionado,Divorciado,Bachillerato,No Aplica,1
+5649,Medellin , Antioquia,0,33,Independiente,Soltero,Primaria,Alquiler,2
+5650,Guarne , Antioquia,0,57,Independiente,Casado,Primaria,Propia,3
+5651,Medellin , Antioquia,0,36,Empleado,Soltero,Primaria,Alquiler,1
+5652,Maicao , La Guajira,0,33,Empleado,Divorciado,Profesional,Alquiler,1
+5653,Bogota , Bogota D.C,0,49,Empleado,Divorciado,Bachillerato,Propia,0
+5654,Girardot , Cundinamarca,0,46,Pensionado,Soltero,Primaria,No Aplica,2
+5655,Bogota , Bogota D.C,1,41,Independiente,Divorciado,Bachillerato,Propia,0
+5656,Bogota , Bogota D.C,1,39,Independiente,Soltero,Primaria,Alquiler,0
+5657,Girardot , Cundinamarca,0,33,Empleado,Casado,Profesional,No Aplica,1
+5658,Bogota , Bogota D.C,0,50,Empleado,Soltero,Bachillerato,Propia,0
+5659,Bogota , Bogota D.C,0,50,Empleado,Soltero,Profesional,No Aplica,0
+5660,Bogota , Bogota D.C,0,41,Empleado,Viudo,Bachillerato,No Aplica,1
+5661,Bogota , Bogota D.C,0,42,Independiente,Casado,Bachillerato,Propia,0
+5662,Bogota , Bogota D.C,0,56,Empleado,Casado,Profesional,Propia,3
+5663,Bogota , Bogota D.C,0,55,Pensionado,Divorciado,Primaria,Propia,0
+5664,Funza , Cundinamarca,0,53,Independiente,Divorciado,Bachillerato,Propia,0
+5665,Bogota , Bogota D.C,0,54,Independiente,Soltero,Primaria,Propia,0
+5666,Villavicencio , Meta,0,57,Independiente,Divorciado,Profesional,Propia,1
+5667,Bogota , Bogota D.C,0,52,Independiente,Casado,Primaria,No Aplica,0
+5668,Bogota , Bogota D.C,0,52,Independiente,Casado,Primaria,Propia,0
+5669,Bogota , Bogota D.C,0,51,Empleado,Casado,Primaria,Propia,0
+5670,Bogota , Bogota D.C,0,46,Independiente,Soltero,Primaria,No Aplica,1
+5671,Bogota , Bogota D.C,0,48,Empleado,Casado,Profesional,Propia,1
+5672,Bogota , Bogota D.C,0,49,Independiente,Soltero,Primaria,No Aplica,0
+5673,Bogota , Bogota D.C,0,34,Empleado,Divorciado,Primaria,Propia,1
+5674,Villagarzon , Putumayo,0,45,Pensionado,Casado,Profesional,Propia,1
+5675,Bogota , Bogota D.C,0,63,Independiente,Divorciado,Bachillerato,Propia,1
+5676,Bogota , Bogota D.C,0,49,Independiente,Casado,Profesional,Propia,0
+5677,Bogota , Bogota D.C,0,38,Empleado,Viudo,Profesional,No Aplica,1
+5678,Yopal , Casanare,0,37,Independiente,Casado,Profesional,Propia,3
+5679,Villavicencio , Meta,0,40,Pensionado,Soltero,Primaria,Alquiler,2
+5680,Bogota , Bogota D.C,0,42,Independiente,Divorciado,Primaria,No Aplica,1
+5681,Guamal , Meta,0,36,Pensionado,Divorciado,Primaria,Alquiler,0
+5682,Villavicencio , Meta,0,35,Independiente,Casado,Bachillerato,Propia,1
+5683,Villavicencio , Meta,0,53,Independiente,Casado,Profesional,Propia,1
+5684,Bogota , Bogota D.C,0,52,Independiente,Soltero,Primaria,No Aplica,1
+5685,Villavicencio , Meta,0,51,Pensionado,Casado,Profesional,Propia,0
+5686,Villavicencio , Meta,0,43,Independiente,Casado,Profesional,Propia,0
+5687,Villavicencio , Meta,0,45,Empleado,Casado,Bachillerato,Propia,1
+5688,Villavicencio , Meta,0,44,Independiente,Divorciado,Primaria,Propia,0
+5689,Santa Marta , Magdalena,0,39,Independiente,Casado,Profesional,Propia,3
+5690,San Martin , Meta,0,42,Pensionado,Casado,Primaria,Propia,2
+5691,Leticia , Amazonas,0,32,Independiente,Soltero,Profesional,Propia,0
+5692,Neiva , Huila,0,36,Independiente,Soltero,Profesional,Propia,0
+5693,Florencia , Caqueta,0,51,Empleado,Divorciado,Primaria,Propia,0
+5694,Florencia , Caqueta,0,47,Independiente,Casado,Primaria,Propia,0
+5695,Cali , Valle Del Cauca,0,43,Independiente,Soltero,Profesional,Propia,1
+5696,Riohacha , La Guajira,0,49,Independiente,Soltero,Primaria,No Aplica,0
+5697,Riohacha , La Guajira,0,35,Empleado,Divorciado,Profesional,No Aplica,0
+5698,Riohacha , La Guajira,0,34,Independiente,Soltero,Primaria,No Aplica,3
+5699,Soledad , Atlantico,0,53,Independiente,Soltero,Bachillerato,Propia,1
+5700,Bogota , Bogota D.C,0,75,Pensionado,Casado,Primaria,Propia,0
+5701,Bogota , Bogota D.C,0,72,Pensionado,Divorciado,Profesional,Propia,2
+5702,Bogota , Bogota D.C,0,71,Pensionado,Divorciado,Profesional,Propia,0
+5703,Bogota , Bogota D.C,0,71,Pensionado,Divorciado,Profesional,Propia,0
+5704,Mosquera , Cundinamarca,0,71,Pensionado,Casado,Primaria,Propia,0
+5705,Piedecuesta , Santander,0,69,Empleado,Soltero,Primaria,Propia,2
+5706,Bogota , Bogota D.C,0,67,Pensionado,Divorciado,Profesional,Propia,0
+5707,Bogota , Bogota D.C,0,68,Independiente,Casado,Profesional,Propia,1
+5708,Fusagasuga , Cundinamarca,0,68,Independiente,Casado,Primaria,No Aplica,0
+5709,Bogota , Bogota D.C,0,68,Pensionado,Soltero,Bachillerato,Propia,2
+5710,Cajica , Cundinamarca,0,66,Pensionado,Soltero,Profesional,Propia,4
+5711,Bogota , Bogota D.C,0,66,Pensionado,Soltero,Profesional,Propia,1
+5712,Bogota , Bogota D.C,0,64,Pensionado,Viudo,Profesional,Propia,2
+5713,Bogota , Bogota D.C,0,64,Pensionado,Casado,Bachillerato,Propia,1
+5714,Bogota , Bogota D.C,0,65,Pensionado,Casado,Primaria,No Aplica,1
+5715,Bogota , Bogota D.C,0,65,Independiente,Divorciado,Profesional,No Aplica,0
+5716,Bogota , Bogota D.C,0,60,Pensionado,Soltero,Profesional,Propia,2
+5717,Girardot , Cundinamarca,0,62,Pensionado,Casado,Profesional,Propia,2
+5718,Bogota , Bogota D.C,0,60,Independiente,Soltero,Bachillerato,No Aplica,0
+5719,Bogota , Bogota D.C,0,62,Empleado,Soltero,Bachillerato,No Aplica,2
+5720,Bogota , Bogota D.C,1,63,Independiente,Soltero,Bachillerato,Alquiler,0
+5721,Bogota , Bogota D.C,0,60,Pensionado,Viudo,Primaria,No Aplica,0
+5722,Bogota , Bogota D.C,0,63,Independiente,Soltero,Bachillerato,No Aplica,0
+5723,Bogota , Bogota D.C,0,61,Pensionado,Soltero,Profesional,Propia,2
+5724,Corozal , Sucre,0,62,Independiente,Divorciado,Bachillerato,Propia,1
+5725,Bogota , Bogota D.C,0,60,Independiente,Divorciado,Bachillerato,No Aplica,0
+5726,Bogota , Bogota D.C,0,58,Pensionado,Divorciado,Primaria,Propia,1
+5727,Armenia , Quindio,0,55,Independiente,Soltero,Primaria,No Aplica,1
+5728,Armenia , Quindio,0,55,Pensionado,Divorciado,Ninguno,No Aplica,0
+5729,Pereira , Risaralda,1,45,Independiente,Divorciado,Primaria,Propia,0
+5730,Armenia , Quindio,0,43,Empleado,Divorciado,Bachillerato,No Aplica,1
+5731,Armenia , Quindio,0,42,Empleado,Viudo,Profesional,Propia,1
+5732,Armenia , Quindio,0,43,Empleado,Soltero,Bachillerato,Propia,1
+5733,Armenia , Quindio,0,38,Empleado,Soltero,Profesional,Propia,1
+5734,Cucuta , Norte Santander,0,38,Pensionado,Divorciado,Profesional,Propia,1
+5735,Armenia , Quindio,0,35,Empleado,Soltero,Bachillerato,Propia,0
+5736,Dosquebradas , Risaralda,0,40,Pensionado,Soltero,Primaria,No Aplica,1
+5737,La Virginia , Risaralda,0,38,Independiente,Casado,Profesional,Propia,0
+5738,Pereira , Risaralda,0,59,Independiente,Soltero,Primaria,Propia,0
+5739,Pereira , Risaralda,0,56,Independiente,Soltero,Bachillerato,No Aplica,0
+5740,Pereira , Risaralda,0,55,Empleado,Casado,Bachillerato,Propia,0
+5741,Pereira , Risaralda,0,48,Empleado,Soltero,Profesional,No Aplica,2
+5742,Pereira , Risaralda,0,45,Independiente,Casado,Profesional,Propia,0
+5743,Pereira , Risaralda,0,44,Independiente,Casado,Primaria,No Aplica,0
+5744,Pereira , Risaralda,1,41,Pensionado,Soltero,Profesional,No Aplica,0
+5745,Pereira , Risaralda,0,37,Independiente,Soltero,Primaria,No Aplica,0
+5746,Pereira , Risaralda,0,38,Empleado,Casado,Bachillerato,No Aplica,1
+5747,Pereira , Risaralda,0,36,Independiente,Divorciado,Profesional,Alquiler,1
+5748,Pereira , Risaralda,0,33,Empleado,Divorciado,Profesional,Alquiler,1
+5749,Pereira , Risaralda,0,33,Independiente,Soltero,Profesional,Alquiler,2
+5750,Valledupar , Cesar,0,58,Independiente,Soltero,Primaria,Propia,3
+5751,Bucaramanga , Santander,0,62,Independiente,Casado,Bachillerato,Propia,0
+5752,Bogota , Bogota D.C,0,50,Independiente,Soltero,Profesional,Propia,0
+5753,Yarumal , Antioquia,0,37,Empleado,Divorciado,Profesional,Propia,1
+5754,Itagui , Antioquia,0,58,Pensionado,Casado,Primaria,Alquiler,0
+5755,Envigado , Antioquia,0,52,Empleado,Divorciado,Bachillerato,No Aplica,2
+5756,Medellin , Antioquia,0,53,Empleado,Soltero,Profesional,Propia,1
+5757,Medellin , Antioquia,0,39,Empleado,Casado,Profesional,Propia,1
+5758,Medellin , Antioquia,0,37,Empleado,Soltero,Profesional,No Aplica,1
+5759,Medellin , Antioquia,0,35,Empleado,Casado,Profesional,Alquiler,1
+5760,Itagui , Antioquia,0,35,Empleado,Divorciado,Bachillerato,No Aplica,1
+5761,Floridablanca , Santander,0,36,Independiente,Casado,Profesional,Propia,0
+5762,Envigado , Antioquia,0,34,Independiente,Soltero,Profesional,No Aplica,1
+5763,Itagui , Antioquia,0,32,Empleado,Soltero,Primaria,No Aplica,1
+5764,Medellin , Antioquia,0,38,Empleado,Soltero,Bachillerato,No Aplica,1
+5765,Santa Marta , Magdalena,0,39,Empleado,Casado,Profesional,No Aplica,2
+5766,Medellin , Antioquia,0,37,Independiente,Soltero,Profesional,Propia,1
+5767,Bello , Antioquia,0,55,Empleado,Soltero,Profesional,No Aplica,1
+5768,Itagui , Antioquia,0,55,Pensionado,Viudo,Profesional,No Aplica,1
+5769,Medellin , Antioquia,0,51,Pensionado,Casado,Primaria,Propia,0
+5770,Envigado , Antioquia,0,54,Pensionado,Viudo,Primaria,Alquiler,0
+5771,Sabaneta , Antioquia,0,43,Empleado,Casado,Profesional,No Aplica,1
+5772,Medellin , Antioquia,0,48,Pensionado,Casado,Bachillerato,Propia,2
+5773,Envigado , Antioquia,0,58,Empleado,Soltero,Profesional,Propia,1
+5774,Bogota , Bogota D.C,0,46,Independiente,Soltero,Primaria,No Aplica,1
+5775,Medellin , Antioquia,0,44,Independiente,Viudo,Profesional,Propia,1
+5776,Bogota , Bogota D.C,0,42,Independiente,Soltero,Bachillerato,No Aplica,0
+5777,La Estrella , Antioquia,0,40,Independiente,Soltero,Profesional,Propia,3
+5778,Medellin , Antioquia,0,42,Empleado,Casado,Profesional,Propia,1
+5779,La Ceja , Antioquia,0,47,Independiente,Casado,Primaria,No Aplica,0
+5780,Envigado , Antioquia,0,43,Pensionado,Casado,Primaria,No Aplica,2
+5781,Bello , Antioquia,0,45,Independiente,Divorciado,Primaria,No Aplica,0
+5782,Medellin , Antioquia,0,45,Pensionado,Casado,Bachillerato,Propia,2
+5783,Bogota , Bogota D.C,0,34,Empleado,Soltero,Profesional,No Aplica,1
+5784,Sabanalarga , Atlantico,0,32,Independiente,Soltero,Bachillerato,No Aplica,0
+5785,Santo Tomas , Atlantico,1,34,Pensionado,Soltero,Bachillerato,Propia,0
+5786,Cartagena , Bolivar,0,62,Independiente,Casado,Profesional,Propia,0
+5787,Cartagena , Bolivar,0,60,Pensionado,Casado,Profesional,Propia,2
+5788,Cartagena , Bolivar,0,69,Independiente,Casado,Primaria,Propia,0
+5789,Bogota , Bogota D.C,0,57,Empleado,Casado,Primaria,No Aplica,0
+5790,Cartagena , Bolivar,0,49,Independiente,Casado,Bachillerato,No Aplica,1
+5791,San Onofre , Sucre,0,49,Pensionado,Casado,Primaria,Alquiler,1
+5792,Cartagena , Bolivar,0,37,Empleado,Casado,Profesional,Propia,1
+5793,San Antero , Cordoba,0,39,Independiente,Casado,Primaria,Propia,1
+5794,Cartagena , Bolivar,0,40,Empleado,Divorciado,Bachillerato,Propia,2
+5795,Bogota , Bogota D.C,0,46,Independiente,Soltero,Bachillerato,No Aplica,0
+5796,Sogamoso , Boyaca,0,56,Empleado,Casado,Profesional,Propia,2
+5797,Yopal , Casanare,0,45,Pensionado,Soltero,Primaria,Alquiler,0
+5798,Sogamoso , Boyaca,1,42,Independiente,Soltero,Profesional,Alquiler,1
+5799,Sogamoso , Boyaca,0,40,Independiente,Soltero,Profesional,No Aplica,0
+5800,Firavitoba , Boyaca,0,39,Independiente,Casado,Primaria,Propia,1
+5801,Bogota , Bogota D.C,0,37,Empleado,Soltero,Profesional,Propia,2
+5802,Bogota , Bogota D.C,0,38,Empleado,Divorciado,Profesional,No Aplica,1
+5803,Villanueva , Casanare,0,51,Empleado,Casado,Profesional,Propia,1
+5804,Yopal , Casanare,0,42,Pensionado,Casado,Primaria,Propia,0
+5805,Yopal , Casanare,0,40,Independiente,Soltero,Profesional,Propia,1
+5806,Nunchia , Casanare,0,40,Independiente,Divorciado,Primaria,Propia,1
+5807,Bogota , Bogota D.C,0,38,Independiente,Divorciado,Primaria,No Aplica,0
+5808,Becerril , Cesar,0,45,Independiente,Casado,Profesional,Propia,2
+5809,Cartagena , Bolivar,0,49,Independiente,Divorciado,Bachillerato,Propia,0
+5810,Monteria , Cordoba,0,47,Empleado,Casado,Profesional,Propia,0
+5811,Monteria , Cordoba,0,37,Empleado,Casado,Profesional,No Aplica,1
+5812,Chinu , Cordoba,0,45,Empleado,Casado,Profesional,Propia,2
+5813,Bogota , Bogota D.C,0,62,Pensionado,Divorciado,Bachillerato,Propia,0
+5814,Bogota , Bogota D.C,0,58,Independiente,Casado,Primaria,Propia,0
+5815,Bogota , Bogota D.C,0,59,Pensionado,Soltero,Bachillerato,No Aplica,1
+5816,Bogota , Bogota D.C,1,61,Independiente,Soltero,Primaria,No Aplica,0
+5817,Bogota , Bogota D.C,0,60,Pensionado,Soltero,Bachillerato,No Aplica,1
+5818,Bogota , Bogota D.C,0,38,Independiente,Casado,Primaria,Propia,0
+5819,Bogota , Bogota D.C,0,59,Empleado,Soltero,Primaria,No Aplica,0
+5820,Bogota , Bogota D.C,0,57,Independiente,Divorciado,Profesional,No Aplica,0
+5821,Bogota , Bogota D.C,0,56,Empleado,Casado,Profesional,Propia,1
+5822,Bogota , Bogota D.C,0,56,Empleado,Soltero,Bachillerato,No Aplica,2
+5823,Bogota , Bogota D.C,0,57,Empleado,Divorciado,Bachillerato,Propia,0
+5824,Bogota , Bogota D.C,0,57,Pensionado,Divorciado,Primaria,Propia,0
+5825,Yopal , Casanare,0,54,Independiente,Divorciado,Profesional,No Aplica,0
+5826,Bogota , Bogota D.C,0,57,Independiente,Soltero,Primaria,No Aplica,0
+5827,Bogota , Bogota D.C,0,55,Independiente,Casado,Profesional,Propia,1
+5828,Flandes , Tolima,0,53,Empleado,Divorciado,Bachillerato,No Aplica,1
+5829,Bogota , Bogota D.C,0,54,Empleado,Casado,Profesional,Propia,1
+5830,Bogota , Bogota D.C,0,53,Independiente,Casado,Primaria,Propia,1
+5831,Bogota , Bogota D.C,0,52,Empleado,Soltero,Primaria,Propia,0
+5832,Medellin , Antioquia,0,54,Independiente,Casado,Bachillerato,Propia,0
+5833,Bogota , Bogota D.C,0,53,Independiente,Casado,Profesional,Propia,0
+5834,Bogota , Bogota D.C,0,52,Independiente,Divorciado,Primaria,Propia,0
+5835,Bogota , Bogota D.C,0,53,Pensionado,Divorciado,Primaria,Propia,1
+5836,Bogota , Bogota D.C,0,52,Independiente,Soltero,Primaria,Propia,0
+5837,Belen De Los Andaquies , Caqueta,0,53,Independiente,Divorciado,Primaria,Alquiler,0
+5838,Cali , Valle Del Cauca,0,52,Empleado,Casado,Profesional,No Aplica,1
+5839,Bogota , Bogota D.C,0,52,Empleado,Viudo,Bachillerato,Alquiler,0
+5840,Bogota , Bogota D.C,0,51,Empleado,Casado,Primaria,Propia,1
+5841,Bogota , Bogota D.C,0,51,Independiente,Divorciado,Primaria,No Aplica,0
+5842,Bogota , Bogota D.C,0,53,Empleado,Casado,Primaria,Alquiler,0
+5843,Bogota , Bogota D.C,0,51,Empleado,Soltero,Bachillerato,Propia,1
+5844,Armenia , Quindio,0,50,Empleado,Divorciado,Profesional,Propia,2
+5845,Bogota , Bogota D.C,0,48,Independiente,Casado,Profesional,No Aplica,0
+5846,Bogota , Bogota D.C,0,50,Independiente,Divorciado,Profesional,Propia,0
+5847,Villa S. Diego Ubate , Cundinamarca,0,48,Independiente,Divorciado,Primaria,Propia,0
+5848,Bogota , Bogota D.C,0,49,Empleado,Divorciado,Primaria,Propia,0
+5849,Soacha , Cundinamarca,0,47,Empleado,Divorciado,Profesional,Propia,1
+5850,Bogota , Bogota D.C,0,44,Empleado,Viudo,Profesional,Propia,1
+5851,Bogota , Bogota D.C,0,45,Empleado,Soltero,Bachillerato,Propia,1
+5852,Floridablanca , Santander,0,44,Independiente,Casado,Profesional,No Aplica,0
+5853,Bogota , Bogota D.C,0,45,Independiente,Soltero,Primaria,Propia,0
+5854,Bucaramanga , Santander,0,46,Empleado,Casado,Bachillerato,Propia,1
+5855,Bogota , Bogota D.C,0,47,Empleado,Soltero,Profesional,No Aplica,0
+5856,Bogota , Bogota D.C,0,44,Empleado,Casado,Primaria,Propia,1
+5857,Bogota , Bogota D.C,0,44,Independiente,Divorciado,Primaria,Propia,0
+5858,Bogota , Bogota D.C,0,43,Independiente,Divorciado,Primaria,No Aplica,0
+5859,Bogota , Bogota D.C,0,46,Empleado,Soltero,Bachillerato,Propia,1
+5860,Bogota , Bogota D.C,0,45,Empleado,Casado,Bachillerato,No Aplica,0
+5861,Bogota , Bogota D.C,0,44,Empleado,Divorciado,Profesional,Propia,1
+5862,Soacha , Cundinamarca,0,43,Independiente,Divorciado,Profesional,No Aplica,0
+5863,Bogota , Bogota D.C,0,41,Independiente,Soltero,Primaria,No Aplica,1
+5864,Bogota , Bogota D.C,0,49,Empleado,Divorciado,Primaria,No Aplica,0
+5865,Sogamoso , Boyaca,0,43,Independiente,Divorciado,Primaria,Alquiler,1
+5866,Bogota , Bogota D.C,0,43,Pensionado,Casado,Primaria,Propia,0
+5867,Bogota , Bogota D.C,0,41,Empleado,Soltero,Profesional,No Aplica,0
+5868,Bogota , Bogota D.C,0,41,Independiente,Divorciado,Primaria,No Aplica,1
+5869,Soacha , Cundinamarca,0,39,Empleado,Casado,Bachillerato,Propia,1
+5870,Bogota , Bogota D.C,0,40,Empleado,Casado,Profesional,No Aplica,1
+5871,Bogota , Bogota D.C,0,42,Empleado,Soltero,Profesional,Alquiler,1
+5872,Bogota , Bogota D.C,0,40,Empleado,Soltero,Profesional,Propia,1
+5873,Bogota , Bogota D.C,0,39,Empleado,Divorciado,Primaria,Alquiler,1
+5874,Bogota , Bogota D.C,0,39,Empleado,Divorciado,Bachillerato,Alquiler,2
+5875,Bogota , Bogota D.C,0,39,Empleado,Casado,Profesional,No Aplica,1
+5876,Caucasia , Antioquia,0,44,Pensionado,Casado,Primaria,No Aplica,0
+5877,Cucuta , Norte Santander,0,40,Independiente,Casado,Bachillerato,Propia,1
+5878,Barrancabermeja , Santander,0,40,Empleado,Casado,Bachillerato,Propia,1
+5879,Bogota , Bogota D.C,0,40,Empleado,Divorciado,Profesional,No Aplica,1
+5880,Bogota , Bogota D.C,0,39,Empleado,Divorciado,Primaria,No Aplica,1
+5881,Soacha , Cundinamarca,0,39,Empleado,Soltero,Primaria,Propia,3
+5882,Bogota , Bogota D.C,0,40,Independiente,Casado,Bachillerato,Propia,0
+5883,Bogota , Bogota D.C,0,39,Independiente,Casado,Bachillerato,Propia,2
+5884,Girardot , Cundinamarca,1,39,Independiente,Soltero,Bachillerato,Propia,1
+5885,Bogota , Bogota D.C,0,48,Empleado,Casado,Profesional,Propia,1
+5886,Facatativa , Cundinamarca,0,50,Independiente,Soltero,Profesional,No Aplica,3
+5887,Bogota , Bogota D.C,0,46,Independiente,Casado,Profesional,No Aplica,0
+5888,Bogota , Bogota D.C,0,47,Empleado,Divorciado,Profesional,No Aplica,1
+5889,Barranquilla , Atlantico,0,38,Empleado,Casado,Profesional,No Aplica,1
+5890,Bogota , Bogota D.C,0,39,Empleado,Soltero,Profesional,Propia,1
+5891,Bogota , Bogota D.C,0,37,Independiente,Casado,Profesional,No Aplica,0
+5892,Bogota , Bogota D.C,1,37,Empleado,Soltero,Profesional,No Aplica,2
+5893,Cartagena , Bolivar,0,40,Empleado,Casado,Primaria,Propia,2
+5894,Bogota , Bogota D.C,0,36,Empleado,Divorciado,Primaria,No Aplica,0
+5895,Bogota , Bogota D.C,0,37,Empleado,Divorciado,Primaria,No Aplica,0
+5896,Bogota , Bogota D.C,0,34,Empleado,Divorciado,Primaria,Alquiler,2
+5897,Bogota , Bogota D.C,0,37,Independiente,Divorciado,Primaria,Propia,0
+5898,Bogota , Bogota D.C,0,37,Empleado,Casado,Profesional,Propia,3
+5899,Bogota , Bogota D.C,0,38,Empleado,Casado,Profesional,Propia,1
+5900,Bogota , Bogota D.C,0,34,Empleado,Casado,Profesional,Propia,0
+5901,Bogota , Bogota D.C,0,34,Empleado,Casado,Profesional,Propia,1
+5902,Bogota , Bogota D.C,0,37,Independiente,Divorciado,Bachillerato,Propia,0
+5903,Bogota , Bogota D.C,0,35,Independiente,Divorciado,Primaria,Propia,1
+5904,Bogota , Bogota D.C,0,36,Empleado,Soltero,Profesional,No Aplica,0
+5905,Bogota , Bogota D.C,0,34,Independiente,Soltero,Profesional,No Aplica,2
+5906,Bogota , Bogota D.C,0,34,Empleado,Divorciado,Bachillerato,Propia,1
+5907,Bogota , Bogota D.C,0,37,Empleado,Soltero,Bachillerato,No Aplica,1
+5908,Bogota , Bogota D.C,0,35,Empleado,Casado,Profesional,Propia,0
+5909,Bogota , Bogota D.C,0,35,Empleado,Soltero,Profesional,Propia,0
+5910,Bogota , Bogota D.C,0,34,Empleado,Casado,Profesional,No Aplica,1
+5911,Bogota , Bogota D.C,0,34,Empleado,Casado,Bachillerato,No Aplica,0
+5912,Bogota , Bogota D.C,0,34,Empleado,Soltero,Primaria,No Aplica,1
+5913,Bogota , Bogota D.C,0,33,Empleado,Soltero,Profesional,No Aplica,2
+5914,El Cocuy , Boyaca,0,34,Empleado,Soltero,Bachillerato,No Aplica,3
+5915,Mosquera , Cundinamarca,0,34,Empleado,Casado,Profesional,Propia,2
+5916,Bogota , Bogota D.C,0,33,Independiente,Divorciado,Primaria,No Aplica,2
+5917,Bogota , Bogota D.C,1,34,Empleado,Soltero,Primaria,No Aplica,1
+5918,Bogota , Bogota D.C,0,33,Empleado,Casado,Profesional,No Aplica,1
+5919,Bogota , Bogota D.C,0,32,Empleado,Divorciado,Bachillerato,No Aplica,1
+5920,Bogota , Bogota D.C,0,32,Empleado,Divorciado,Profesional,Propia,1
+5921,Bogota , Bogota D.C,0,33,Independiente,Soltero,Profesional,Alquiler,0
+5922,Bogota , Bogota D.C,0,32,Empleado,Divorciado,Profesional,Propia,1
+5923,Neiva , Huila,1,49,Independiente,Casado,Bachillerato,Propia,0
+5924,Neiva , Huila,1,48,Independiente,Soltero,Primaria,Propia,0
+5925,Neiva , Huila,0,47,Empleado,Casado,Profesional,No Aplica,0
+5926,Barranquilla , Atlantico,1,33,Empleado,Casado,Profesional,Propia,2
+5927,Soledad , Atlantico,0,48,Independiente,Soltero,Profesional,Propia,0
+5928,El Tambo , Narino,0,43,Independiente,Casado,Primaria,No Aplica,1
+5929,Cali , Valle Del Cauca,0,33,Empleado,Casado,Profesional,Propia,1
+5930,Pasto , Narino,0,52,Independiente,Soltero,Primaria,Propia,0
+5931,Pasto , Narino,0,33,Independiente,Casado,Profesional,Propia,1
+5932,Pasto , Narino,0,43,Independiente,Casado,Primaria,Propia,1
+5933,Pasto , Narino,0,42,Independiente,Soltero,Primaria,Propia,1
+5934,Leiva , Narino,0,33,Independiente,Casado,Profesional,Propia,1
+5935,Bucaramanga , Santander,0,38,Empleado,Casado,Profesional,No Aplica,1
+5936,Tame , Arauca,0,32,Independiente,Casado,Bachillerato,Propia,0
+5937,Cucuta , Norte Santander,1,60,Pensionado,Soltero,Profesional,Propia,0
+5938,Cucuta , Norte Santander,1,59,Pensionado,Casado,Profesional,Propia,0
+5939,Los Patios , Norte Santander,0,57,Independiente,Divorciado,Profesional,Propia,0
+5940,Los Patios , Norte Santander,0,47,Independiente,Casado,Profesional,Propia,0
+5941,Yumbo , Valle Del Cauca,0,44,Empleado,Casado,Profesional,Propia,1
+5942,Cucuta , Norte Santander,1,42,Pensionado,Divorciado,Profesional,Propia,0
+5943,Cucuta , Norte Santander,0,52,Independiente,Casado,Profesional,Propia,0
+5944,Cucuta , Norte Santander,0,40,Independiente,Casado,Primaria,No Aplica,0
+5945,Cucuta , Norte Santander,0,38,Pensionado,Casado,Profesional,Propia,0
+5946,Cucuta , Norte Santander,0,33,Pensionado,Casado,Bachillerato,Propia,0
+5947,Bucaramanga , Santander,0,54,Pensionado,Divorciado,Bachillerato,Propia,0
+5948,Bogota , Bogota D.C,0,49,Independiente,Casado,Profesional,Propia,1
+5949,Bucaramanga , Santander,0,48,Empleado,Casado,Profesional,Propia,0
+5950,Bucaramanga , Santander,0,47,Independiente,Casado,Profesional,Propia,1
+5951,Floridablanca , Santander,0,50,Empleado,Soltero,Profesional,Propia,0
+5952,Barrancabermeja , Santander,0,48,Empleado,Soltero,Profesional,Propia,1
+5953,Cucuta , Norte Santander,0,48,Independiente,Divorciado,Profesional,No Aplica,1
+5954,Bucaramanga , Santander,0,44,Independiente,Casado,Profesional,Propia,1
+5955,Bucaramanga , Santander,0,43,Empleado,Divorciado,Profesional,Propia,1
+5956,Bogota , Bogota D.C,0,34,Empleado,Casado,Profesional,No Aplica,1
+5957,Bucaramanga , Santander,0,34,Independiente,Casado,Profesional,Propia,1
+5958,Floridablanca , Santander,0,34,Empleado,Soltero,Profesional,No Aplica,1
+5959,Bucaramanga , Santander,0,33,Empleado,Casado,Profesional,Propia,1
+5960,Bucaramanga , Santander,0,34,Independiente,Casado,Profesional,Propia,0
+5961,Medellin , Antioquia,0,44,Empleado,Soltero,Primaria,No Aplica,1
+5962,Sincelejo , Sucre,0,60,Pensionado,Casado,Profesional,No Aplica,1
+5963,Sincelejo , Sucre,0,56,Independiente,Casado,Bachillerato,Propia,0
+5964,Sincelejo , Sucre,0,42,Independiente,Viudo,Bachillerato,Propia,0
+5965,Sincelejo , Sucre,0,50,Pensionado,Divorciado,Profesional,Propia,0
+5966,Sincelejo , Sucre,0,42,Independiente,Casado,Profesional,No Aplica,0
+5967,Medellin , Antioquia,0,43,Empleado,Divorciado,Bachillerato,Alquiler,0
+5968,Sincelejo , Sucre,0,36,Independiente,Divorciado,Profesional,No Aplica,0
+5969,Sincelejo , Sucre,0,41,Independiente,Divorciado,Profesional,Propia,3
+5970,Sincelejo , Sucre,0,37,Empleado,Divorciado,Bachillerato,Propia,1
+5971,Bogota , Bogota D.C,0,37,Empleado,Divorciado,Profesional,Alquiler,1
+5972,Espinal , Tolima,0,58,Pensionado,Divorciado,Profesional,No Aplica,3
+5973,Espinal , Tolima,0,56,Pensionado,Divorciado,Primaria,No Aplica,1
+5974,Villavicencio , Meta,0,47,Independiente,Divorciado,Bachillerato,Propia,0
+5975,Bogota , Bogota D.C,0,37,Empleado,Soltero,Bachillerato,Propia,2
+5976,Espinal , Tolima,0,35,Empleado,Soltero,Profesional,Propia,0
+5977,Bogota , Bogota D.C,0,43,Empleado,Soltero,Primaria,Propia,0
+5978,Ibague , Tolima,0,53,Independiente,Casado,Primaria,No Aplica,0
+5979,Milan , Caqueta,0,53,Independiente,Casado,Profesional,Propia,1
+5980,Ibague , Tolima,0,44,Empleado,Casado,Profesional,Propia,1
+5981,Ibague , Tolima,0,43,Pensionado,Viudo,Primaria,No Aplica,0
+5982,Palmira , Valle Del Cauca,0,34,Empleado,Casado,Profesional,Propia,1
+5983,Palmira , Valle Del Cauca,0,33,Empleado,Soltero,Profesional,Propia,3
+5984,Pereira , Risaralda,0,44,Pensionado,Casado,Bachillerato,Propia,0
+5985,El Santuario , Antioquia,0,55,Pensionado,Divorciado,Primaria,Propia,1
+5986,Santa Marta , Magdalena,0,30,Independiente,Casado,Bachillerato,No Aplica,1
+5987,Cali , Valle Del Cauca,0,48,Independiente,Soltero,Bachillerato,Propia,1
+5988,Cali , Valle Del Cauca,0,46,Independiente,Casado,Profesional,Propia,1
+5989,Cali , Valle Del Cauca,0,51,Empleado,Soltero,Profesional,Propia,0
+5990,Cali , Valle Del Cauca,0,46,Empleado,Casado,Bachillerato,Propia,2
+5991,Bogota , Bogota D.C,0,50,Pensionado,Casado,Primaria,Propia,0
+5992,Cali , Valle Del Cauca,1,49,Independiente,Casado,Profesional,Propia,0
+5993,Buenaventura , Valle Del Cauca,0,37,Pensionado,Casado,Profesional,Propia,0
+5994,Cali , Valle Del Cauca,0,44,Independiente,Casado,Profesional,Propia,1
+5995,Cali , Valle Del Cauca,0,45,Empleado,Casado,Profesional,Propia,1
+5996,Cali , Valle Del Cauca,0,42,Empleado,Casado,Profesional,Propia,1
+5997,Cali , Valle Del Cauca,0,44,Pensionado,Casado,Profesional,Propia,0
+5998,Guadalajara de Buga , Valle Del Cauca,1,41,Pensionado,Viudo,Bachillerato,No Aplica,2
+5999,Cali , Valle Del Cauca,0,42,Empleado,Casado,Profesional,Propia,0
+6000,Cali , Valle Del Cauca,0,40,Independiente,Soltero,Profesional,Propia,2
+6001,Cali , Valle Del Cauca,0,40,Pensionado,Casado,Profesional,Propia,1
+6002,Yumbo , Valle Del Cauca,0,40,Independiente,Soltero,Bachillerato,Propia,1
+6003,Bucaramanga , Santander,0,46,Independiente,Casado,Profesional,No Aplica,1
+6004,Pitalito , Huila,0,53,Pensionado,Soltero,Primaria,No Aplica,0
+6005,Bello , Antioquia,0,63,Pensionado,Casado,Primaria,Propia,1
+6006,Medellin , Antioquia,0,60,Empleado,Viudo,Bachillerato,Alquiler,1
+6007,Medellin , Antioquia,0,60,Pensionado,Casado,Profesional,Propia,2
+6008,Medellin , Antioquia,0,34,Independiente,Casado,Profesional,No Aplica,2
+6009,Medellin , Antioquia,0,43,Independiente,Divorciado,Profesional,Propia,1
+6010,Cucuta , Norte Santander,0,59,Pensionado,Casado,Profesional,Propia,0
+6011,Medellin , Antioquia,0,54,Independiente,Casado,Bachillerato,No Aplica,1
+6012,Medellin , Antioquia,0,41,Empleado,Casado,Bachillerato,No Aplica,1
+6013,La Ceja , Antioquia,0,37,Empleado,Soltero,Primaria,Alquiler,2
+6014,Envigado , Antioquia,0,57,Empleado,Casado,Bachillerato,Propia,1
+6015,Bello , Antioquia,0,37,Independiente,Divorciado,Primaria,No Aplica,1
+6016,Medellin , Antioquia,0,36,Independiente,Divorciado,Profesional,Propia,0
+6017,Medellin , Antioquia,0,35,Empleado,Divorciado,Profesional,Propia,1
+6018,La Ceja , Antioquia,0,38,Empleado,Divorciado,Primaria,Alquiler,1
+6019,Medellin , Antioquia,0,35,Independiente,Soltero,Bachillerato,No Aplica,1
+6020,Medellin , Antioquia,0,37,Empleado,Soltero,Bachillerato,Propia,1
+6021,Medellin , Antioquia,0,37,Independiente,Soltero,Bachillerato,No Aplica,1
+6022,Medellin , Antioquia,0,36,Empleado,Casado,Bachillerato,No Aplica,1
+6023,Medellin , Antioquia,0,35,Independiente,Casado,Primaria,Alquiler,1
+6024,Medellin , Antioquia,0,58,Empleado,Casado,Profesional,Propia,1
+6025,Medellin , Antioquia,0,55,Empleado,Casado,Bachillerato,No Aplica,1
+6026,Medellin , Antioquia,0,55,Independiente,Casado,Bachillerato,No Aplica,0
+6027,Medellin , Antioquia,0,55,Pensionado,Divorciado,Primaria,Propia,1
+6028,Bogota , Bogota D.C,0,55,Empleado,Divorciado,Profesional,Propia,1
+6029,Medellin , Antioquia,0,53,Independiente,Soltero,Primaria,No Aplica,1
+6030,Guatape , Antioquia,0,55,Independiente,Divorciado,Primaria,Alquiler,0
+6031,Medellin , Antioquia,0,52,Empleado,Soltero,Profesional,Propia,3
+6032,Medellin , Antioquia,0,52,Independiente,Divorciado,Bachillerato,Propia,2
+6033,Maicao , La Guajira,0,51,Independiente,Casado,Profesional,No Aplica,0
+6034,Medellin , Antioquia,0,49,Independiente,Soltero,Primaria,Propia,2
+6035,Itagui , Antioquia,1,41,Empleado,Soltero,Primaria,Alquiler,1
+6036,Medellin , Antioquia,0,38,Empleado,Soltero,Primaria,Propia,2
+6037,Bello , Antioquia,0,37,Empleado,Casado,Primaria,No Aplica,1
+6038,Baranoa , Atlantico,0,50,Empleado,Soltero,Profesional,Propia,1
+6039,Baranoa , Atlantico,1,38,Independiente,Divorciado,Primaria,Propia,0
+6040,Barranquilla , Atlantico,0,33,Independiente,Casado,Bachillerato,Propia,1
+6041,Sabanagrande , Atlantico,0,52,Independiente,Casado,Bachillerato,Propia,0
+6042,Barranquilla , Atlantico,0,52,Empleado,Casado,Bachillerato,Propia,1
+6043,Barranquilla , Atlantico,0,51,Pensionado,Casado,Bachillerato,Propia,0
+6044,Bogota , Bogota D.C,0,52,Empleado,Casado,Profesional,Propia,1
+6045,Bogota , Bogota D.C,0,49,Empleado,Soltero,Profesional,No Aplica,2
+6046,Sincelejo , Sucre,0,46,Independiente,Casado,Bachillerato,No Aplica,2
+6047,Barranquilla , Atlantico,0,45,Independiente,Casado,Profesional,Propia,0
+6048,Soledad , Atlantico,0,43,Empleado,Casado,Bachillerato,Propia,2
+6049,Barranquilla , Atlantico,1,40,Empleado,Casado,Profesional,Propia,2
+6050,Barranquilla , Atlantico,0,37,Independiente,Casado,Bachillerato,Propia,4
+6051,Barranquilla , Atlantico,0,36,Independiente,Casado,Profesional,Propia,0
+6052,Medellin , Antioquia,0,36,Empleado,Casado,Profesional,Alquiler,3
+6053,Barranquilla , Atlantico,1,34,Independiente,Divorciado,Bachillerato,Propia,0
+6054,Barranquilla , Atlantico,0,38,Independiente,Casado,Profesional,No Aplica,1
+6055,Barranquilla , Atlantico,0,38,Empleado,Divorciado,Bachillerato,Propia,0
+6056,Lorica , Cordoba,1,60,Independiente,Divorciado,Profesional,Propia,0
+6057,Cartagena , Bolivar,0,59,Empleado,Divorciado,Profesional,No Aplica,1
+6058,Cartagena , Bolivar,0,59,Independiente,Casado,Profesional,Propia,1
+6059,Monteria , Cordoba,0,56,Empleado,Casado,Primaria,No Aplica,0
+6060,Cartagena , Bolivar,0,55,Empleado,Soltero,Bachillerato,No Aplica,3
+6061,Cartagena , Bolivar,1,55,Empleado,Casado,Bachillerato,Propia,0
+6062,Cartagena , Bolivar,0,54,Independiente,Casado,Bachillerato,No Aplica,0
+6063,Cartagena , Bolivar,0,49,Empleado,Soltero,Bachillerato,No Aplica,1
+6064,Cartagena , Bolivar,1,43,Empleado,Divorciado,Primaria,No Aplica,1
+6065,Soledad , Atlantico,0,39,Independiente,Soltero,Profesional,Propia,0
+6066,Yopal , Casanare,0,41,Independiente,Divorciado,Primaria,Propia,0
+6067,Yopal , Casanare,0,40,Independiente,Casado,Primaria,Propia,1
+6068,Bogota , Bogota D.C,0,41,Empleado,Divorciado,Primaria,No Aplica,0
+6069,Tunja , Boyaca,0,34,Empleado,Casado,Profesional,Propia,1
+6070,Duitama , Boyaca,0,34,Empleado,Casado,Profesional,Propia,1
+6071,Bogota , Bogota D.C,0,33,Empleado,Divorciado,Profesional,Propia,1
+6072,Yopal , Casanare,0,46,Empleado,Divorciado,Bachillerato,No Aplica,1
+6073,Manizales , Caldas,0,42,Independiente,Divorciado,Profesional,No Aplica,1
+6074,Bogota , Bogota D.C,0,39,Independiente,Soltero,Profesional,Propia,0
+6075,Popayan , Cauca,0,18,Independiente,Divorciado,Primaria,Propia,1
+6076,Caloto , Cauca,0,42,Pensionado,Casado,Bachillerato,Alquiler,2
+6077,Bogota , Bogota D.C,0,37,Independiente,Soltero,Bachillerato,No Aplica,1
+6078,Popayan , Cauca,0,41,Independiente,Divorciado,Primaria,Propia,1
+6079,Popayan , Cauca,0,53,Empleado,Casado,Profesional,Propia,1
+6080,Itagui , Antioquia,0,44,Empleado,Divorciado,Primaria,Alquiler,1
+6081,Valledupar , Cesar,0,33,Empleado,Divorciado,Primaria,Propia,2
+6082,Yopal , Casanare,0,44,Empleado,Divorciado,Profesional,Propia,0
+6083,Santa Marta , Magdalena,0,51,Independiente,Divorciado,Bachillerato,Propia,2
+6084,Valledupar , Cesar,0,42,Independiente,Divorciado,Primaria,Propia,1
+6085,Valledupar , Cesar,0,39,Independiente,Divorciado,Bachillerato,Propia,1
+6086,Cerete , Cordoba,0,35,Empleado,Casado,Profesional,Alquiler,2
+6087,Tunja , Boyaca,0,47,Pensionado,Casado,Primaria,Propia,2
+6088,Bogota , Bogota D.C,0,38,Empleado,Divorciado,Primaria,Alquiler,1
+6089,Bogota , Bogota D.C,0,54,Empleado,Divorciado,Profesional,Propia,2
+6090,Villavicencio , Meta,0,50,Independiente,Divorciado,Bachillerato,Propia,1
+6091,Bogota , Bogota D.C,0,49,Independiente,Divorciado,Bachillerato,Propia,1
+6092,Bogota , Bogota D.C,0,60,Independiente,Divorciado,Primaria,No Aplica,0
+6093,Villavicencio , Meta,0,62,Empleado,Divorciado,Primaria,Alquiler,1
+6094,Bogota , Bogota D.C,0,46,Empleado,Casado,Bachillerato,Propia,1
+6095,Bogota , Bogota D.C,0,54,Independiente,Divorciado,Bachillerato,Propia,0
+6096,Bogota , Bogota D.C,0,57,Empleado,Soltero,Profesional,Alquiler,2
+6097,Bogota , Bogota D.C,0,52,Independiente,Divorciado,Profesional,Propia,0
+6098,Soacha , Cundinamarca,0,40,Independiente,Soltero,Primaria,No Aplica,0
+6099,Bogota , Bogota D.C,0,34,Empleado,Divorciado,Primaria,No Aplica,1
+6100,Bogota , Bogota D.C,0,54,Independiente,Casado,Bachillerato,Propia,0
+6101,Bogota , Bogota D.C,0,54,Independiente,Casado,Primaria,Propia,2
+6102,Villanueva , Casanare,0,47,Independiente,Soltero,Primaria,Propia,1
+6103,Bogota , Bogota D.C,0,54,Empleado,Casado,Primaria,No Aplica,1
+6104,Bogota , Bogota D.C,0,54,Empleado,Casado,Primaria,Propia,1
+6105,Bogota , Bogota D.C,0,53,Empleado,Casado,Bachillerato,Propia,1
+6106,Yopal , Casanare,0,53,Independiente,Casado,Profesional,No Aplica,5
+6107,Bogota , Bogota D.C,0,52,Pensionado,Divorciado,Primaria,Propia,0
+6108,Bogota , Bogota D.C,0,52,Empleado,Soltero,Primaria,No Aplica,0
+6109,Santa Marta , Magdalena,0,58,Independiente,Casado,Profesional,Propia,0
+6110,Bogota , Bogota D.C,0,50,Independiente,Divorciado,Bachillerato,No Aplica,0
+6111,Bogota , Bogota D.C,0,50,Independiente,Divorciado,Bachillerato,No Aplica,1
+6112,Bogota , Bogota D.C,0,49,Empleado,Casado,Bachillerato,No Aplica,1
+6113,Bogota , Bogota D.C,0,48,Independiente,Casado,Primaria,Propia,0
+6114,Bogota , Bogota D.C,1,49,Empleado,Casado,Profesional,Propia,1
+6115,Bogota , Bogota D.C,0,48,Empleado,Casado,Primaria,Alquiler,0
+6116,Medellin , Antioquia,0,45,Empleado,Casado,Profesional,Propia,5
+6117,Bogota , Bogota D.C,0,37,Pensionado,Divorciado,Primaria,Propia,1
+6118,Bucaramanga , Santander,0,47,Independiente,Casado,Profesional,Propia,0
+6119,Cali , Valle Del Cauca,0,51,Independiente,Soltero,Profesional,Propia,0
+6120,Bogota , Bogota D.C,0,45,Empleado,Soltero,Bachillerato,No Aplica,2
+6121,Bogota , Bogota D.C,0,43,Independiente,Casado,Bachillerato,No Aplica,2
+6122,Villavicencio , Meta,0,46,Independiente,Divorciado,Profesional,No Aplica,0
+6123,Bogota , Bogota D.C,0,43,Empleado,Casado,Profesional,No Aplica,1
+6124,Bogota , Bogota D.C,0,43,Empleado,Divorciado,Profesional,Propia,2
+6125,Popayan , Cauca,1,44,Independiente,Casado,Profesional,Propia,0
+6126,Bogota , Bogota D.C,0,43,Independiente,Soltero,Primaria,Propia,0
+6127,Bogota , Bogota D.C,0,42,Empleado,Divorciado,Bachillerato,No Aplica,1
+6128,Soacha , Cundinamarca,0,43,Empleado,Casado,Bachillerato,Propia,0
+6129,Bogota , Bogota D.C,0,43,Empleado,Divorciado,Bachillerato,Propia,4
+6130,Bogota , Bogota D.C,0,43,Independiente,Divorciado,Bachillerato,No Aplica,0
+6131,Bogota , Bogota D.C,0,41,Independiente,Soltero,Primaria,No Aplica,0
+6132,Bogota , Bogota D.C,0,41,Empleado,Casado,Profesional,Propia,0
+6133,Bogota , Bogota D.C,0,41,Empleado,Casado,Profesional,No Aplica,1
+6134,Bogota , Bogota D.C,0,41,Empleado,Casado,Bachillerato,No Aplica,1
+6135,Soacha , Cundinamarca,0,37,Pensionado,Divorciado,Primaria,Propia,0
+6136,Bogota , Bogota D.C,0,40,Empleado,Casado,Primaria,Propia,1
+6137,Cartagena , Bolivar,1,41,Empleado,Casado,Profesional,Propia,0
+6138,Bogota , Bogota D.C,0,37,Independiente,Divorciado,Profesional,No Aplica,4
+6139,Bogota , Bogota D.C,1,39,Independiente,Soltero,Primaria,No Aplica,1
+6140,Bogota , Bogota D.C,0,39,Empleado,Divorciado,Bachillerato,Propia,1
+6141,Bogota , Bogota D.C,0,38,Independiente,Soltero,Primaria,No Aplica,1
+6142,Bogota , Bogota D.C,1,38,Empleado,Soltero,Bachillerato,No Aplica,0
+6143,Bogota , Bogota D.C,0,36,Empleado,Soltero,Profesional,No Aplica,1
+6144,Bogota , Bogota D.C,0,34,Empleado,Divorciado,Profesional,No Aplica,1
+6145,Santa Marta , Magdalena,0,35,Empleado,Divorciado,Bachillerato,Propia,1
+6146,Bogota , Bogota D.C,0,35,Independiente,Soltero,Bachillerato,Propia,0
+6147,Bogota , Bogota D.C,0,37,Empleado,Soltero,Bachillerato,No Aplica,1
+6148,Bogota , Bogota D.C,1,37,Independiente,Casado,Primaria,No Aplica,0
+6149,Madrid , Cundinamarca,0,36,Empleado,Casado,Bachillerato,Propia,0
+6150,Bogota , Bogota D.C,0,37,Empleado,Casado,Profesional,Propia,0
+6151,Bogota , Bogota D.C,1,35,Independiente,Divorciado,Bachillerato,No Aplica,1
+6152,Bogota , Bogota D.C,0,34,Empleado,Casado,Profesional,Alquiler,1
+6153,Bogota , Bogota D.C,0,34,Empleado,Soltero,Primaria,No Aplica,1
+6154,Bogota , Bogota D.C,0,38,Pensionado,Casado,Primaria,Alquiler,1
+6155,Bogota , Bogota D.C,0,36,Empleado,Soltero,Primaria,No Aplica,1
+6156,Bogota , Bogota D.C,0,34,Independiente,Casado,Bachillerato,No Aplica,1
+6157,Pitalito , Huila,0,53,Independiente,Divorciado,Profesional,No Aplica,0
+6158,Bogota , Bogota D.C,0,52,Independiente,Divorciado,Profesional,No Aplica,0
+6159,Madrid , Cundinamarca,0,43,Empleado,Divorciado,Primaria,Propia,1
+6160,Bogota , Bogota D.C,0,53,Empleado,Casado,Profesional,No Aplica,0
+6161,Bogota , Bogota D.C,0,45,Empleado,Casado,Primaria,Propia,0
+6162,Bogota , Bogota D.C,0,43,Independiente,Soltero,Profesional,No Aplica,1
+6163,Bogota , Bogota D.C,0,51,Empleado,Soltero,Primaria,No Aplica,1
+6164,Bogota , Bogota D.C,0,49,Independiente,Soltero,Profesional,Propia,2
+6165,Bogota , Bogota D.C,0,35,Empleado,Casado,Primaria,Propia,1
+6166,Bogota , Bogota D.C,0,34,Empleado,Divorciado,Profesional,No Aplica,1
+6167,Bogota , Bogota D.C,0,34,Independiente,Divorciado,Profesional,No Aplica,0
+6168,Bogota , Bogota D.C,0,35,Empleado,Casado,Profesional,Propia,0
+6169,Bogota , Bogota D.C,0,33,Empleado,Casado,Bachillerato,No Aplica,2
+6170,Tibu , Norte Santander,0,33,Empleado,Casado,Profesional,Propia,0
+6171,Bogota , Bogota D.C,0,34,Empleado,Soltero,Profesional,Propia,0
+6172,Bogota , Bogota D.C,0,34,Empleado,Soltero,Bachillerato,Alquiler,0
+6173,Bogota , Bogota D.C,0,32,Empleado,Casado,Profesional,No Aplica,1
+6174,Bogota , Bogota D.C,0,33,Empleado,Soltero,Profesional,Propia,1
+6175,Gigante , Huila,0,46,Independiente,Divorciado,Primaria,No Aplica,1
+6176,Bogota , Bogota D.C,0,56,Empleado,Casado,Profesional,No Aplica,2
+6177,Riohacha , La Guajira,0,33,Independiente,Divorciado,Bachillerato,Propia,2
+6178,Santa Marta , Magdalena,0,33,Empleado,Casado,Bachillerato,No Aplica,2
+6179,Santa Marta , Magdalena,0,57,Empleado,Casado,Bachillerato,Propia,2
+6180,Santa Marta , Magdalena,0,33,Empleado,Divorciado,Primaria,No Aplica,1
+6181,Santa Marta , Magdalena,0,43,Independiente,Divorciado,Bachillerato,Propia,1
+6182,Barranquilla , Atlantico,0,43,Empleado,Casado,Profesional,Propia,0
+6183,Fuente De Oro , Meta,0,59,Independiente,Divorciado,Primaria,Propia,1
+6184,Medellin , Antioquia,0,34,Empleado,Soltero,Profesional,No Aplica,2
+6185,Villavicencio , Meta,0,43,Independiente,Casado,Bachillerato,No Aplica,2
+6186,Villavicencio , Meta,0,39,Empleado,Casado,Bachillerato,Propia,3
+6187,Villavicencio , Meta,0,39,Independiente,Casado,Profesional,Propia,2
+6188,Villanueva , Casanare,1,36,Empleado,Divorciado,Profesional,Alquiler,1
+6189,Villavicencio , Meta,0,34,Independiente,Soltero,Bachillerato,No Aplica,0
+6190,Bogota , Bogota D.C,0,33,Empleado,Casado,Profesional,No Aplica,1
+6191,Granada , Meta,0,34,Independiente,Soltero,Bachillerato,Propia,0
+6192,Pasto , Narino,0,34,Independiente,Casado,Profesional,No Aplica,0
+6193,Ipiales , Narino,0,35,Empleado,Casado,Profesional,Propia,1
+6194,Colon , Narino,0,51,Empleado,Casado,Profesional,Propia,1
+6195,Pasto , Narino,0,45,Independiente,Divorciado,Profesional,Propia,2
+6196,Pasto , Narino,0,43,Independiente,Soltero,Profesional,Propia,1
+6197,Pasto , Narino,0,39,Independiente,Casado,Bachillerato,Propia,2
+6198,Pasto , Narino,0,41,Independiente,Casado,Primaria,No Aplica,0
+6199,Ipiales , Narino,0,42,Independiente,Casado,Primaria,Propia,0
+6200,Silos , Norte Santander,0,38,Independiente,Divorciado,Bachillerato,No Aplica,2
+6201,Cucuta , Norte Santander,0,38,Empleado,Casado,Bachillerato,No Aplica,1
+6202,Bogota , Bogota D.C,0,38,Empleado,Soltero,Bachillerato,No Aplica,1
+6203,Ocana , Norte Santander,0,43,Empleado,Casado,Profesional,Propia,2
+6204,Bogota , Bogota D.C,0,41,Empleado,Soltero,Primaria,No Aplica,1
+6205,Bucaramanga , Santander,0,52,Pensionado,Casado,Bachillerato,Propia,1
+6206,Bucaramanga , Santander,0,50,Independiente,Soltero,Profesional,Propia,0
+6207,Floridablanca , Santander,0,38,Empleado,Casado,Profesional,Propia,1
+6208,Bucaramanga , Santander,1,56,Independiente,Casado,Profesional,Propia,0
+6209,Tunja , Boyaca,0,51,Independiente,Soltero,Profesional,Propia,0
+6210,Bucaramanga , Santander,1,49,Pensionado,Casado,Bachillerato,Propia,1
+6211,Floridablanca , Santander,0,48,Empleado,Soltero,Bachillerato,No Aplica,1
+6212,Barrancabermeja , Santander,0,46,Empleado,Casado,Bachillerato,Propia,0
+6213,Yopal , Casanare,0,34,Independiente,Casado,Bachillerato,Propia,0
+6214,Medellin , Antioquia,0,49,Pensionado,Divorciado,Bachillerato,Propia,1
+6215,El Carmen De Chucuri , Santander,0,45,Independiente,Casado,Primaria,No Aplica,1
+6216,Barrancabermeja , Santander,0,51,Empleado,Divorciado,Bachillerato,No Aplica,1
+6217,Arauca , Arauca,0,45,Empleado,Divorciado,Profesional,Propia,1
+6218,Santa Marta , Magdalena,0,33,Independiente,Soltero,Primaria,No Aplica,0
+6219,Bucaramanga , Santander,0,33,Independiente,Casado,Bachillerato,Propia,1
+6220,Barranquilla , Atlantico,0,36,Independiente,Casado,Profesional,Propia,1
+6221,Tolu Viejo , Sucre,0,34,Independiente,Divorciado,Profesional,No Aplica,1
+6222,Sincelejo , Sucre,0,56,Empleado,Divorciado,Primaria,No Aplica,0
+6223,Medellin , Antioquia,0,55,Independiente,Casado,Primaria,No Aplica,2
+6224,Sincelejo , Sucre,0,54,Empleado,Soltero,Profesional,No Aplica,2
+6225,Sincelejo , Sucre,0,43,Empleado,Casado,Bachillerato,Propia,1
+6226,Sincelejo , Sucre,1,40,Independiente,Divorciado,Profesional,Alquiler,0
+6227,Sincelejo , Sucre,0,52,Independiente,Casado,Profesional,Propia,1
+6228,Sincelejo , Sucre,0,34,Empleado,Soltero,Bachillerato,Propia,1
+6229,Sincelejo , Sucre,0,34,Pensionado,Divorciado,Profesional,No Aplica,0
+6230,Bogota , Bogota D.C,0,33,Empleado,Divorciado,Profesional,No Aplica,0
+6231,Bogota , Bogota D.C,0,55,Pensionado,Divorciado,Bachillerato,Propia,0
+6232,Cocorna , Antioquia,0,32,Empleado,Casado,Bachillerato,Alquiler,3
+6233,Ibague , Tolima,0,53,Independiente,Divorciado,Primaria,Propia,0
+6234,Armenia , Quindio,0,40,Empleado,Casado,Profesional,Propia,2
+6235,Bogota , Bogota D.C,0,40,Empleado,Casado,Profesional,Propia,1
+6236,Ibague , Tolima,0,41,Empleado,Casado,Primaria,No Aplica,3
+6237,El Dovio , Valle Del Cauca,0,40,Independiente,Casado,Bachillerato,Propia,1
+6238,Riofrio , Valle Del Cauca,0,50,Empleado,Casado,Bachillerato,Propia,1
+6239,Cali , Valle Del Cauca,0,41,Empleado,Casado,Profesional,No Aplica,1
+6240,Cali , Valle Del Cauca,0,47,Empleado,Casado,Bachillerato,Propia,0
+6241,Bogota , Bogota D.C,0,44,Empleado,Soltero,Profesional,Propia,1
+6242,Zarzal , Valle Del Cauca,0,40,Empleado,Casado,Primaria,Propia,1
+6243,Cali , Valle Del Cauca,1,43,Independiente,Soltero,Bachillerato,No Aplica,1
+6244,Cali , Valle Del Cauca,0,42,Empleado,Casado,Profesional,Propia,0
+6245,La Estrella , Antioquia,0,38,Empleado,Divorciado,Bachillerato,Propia,1
+6246,Cali , Valle Del Cauca,0,41,Independiente,Divorciado,Profesional,No Aplica,1
+6247,Cali , Valle Del Cauca,0,41,Independiente,Soltero,Bachillerato,No Aplica,1
+6248,Cali , Valle Del Cauca,0,42,Pensionado,Casado,Profesional,Propia,1
+6249,Cali , Valle Del Cauca,0,32,Empleado,Soltero,Profesional,Propia,1
+6250,Cali , Valle Del Cauca,0,33,Independiente,Divorciado,Profesional,Propia,1
+6251,Puerto Rico , Caqueta,0,47,Empleado,Divorciado,Bachillerato,No Aplica,1
+6252,Bogota , Bogota D.C,0,45,Empleado,Divorciado,Primaria,No Aplica,2
+6253,Funes , Narino,0,47,Independiente,Soltero,Primaria,Propia,0
+6254,Cali , Valle Del Cauca,0,36,Empleado,Casado,Bachillerato,Propia,0
+6255,Santa Marta , Magdalena,0,36,Empleado,Divorciado,Bachillerato,Alquiler,1
+6256,Ipiales , Narino,0,35,Empleado,Viudo,Primaria,No Aplica,2
+6257,Pasto , Narino,0,49,Independiente,Divorciado,Bachillerato,Propia,0
+6258,Pasto , Narino,0,42,Independiente,Divorciado,Bachillerato,No Aplica,0
+6259,Medellin , Antioquia,0,49,Independiente,Divorciado,Primaria,Propia,2
+6260,Medellin , Antioquia,0,49,Independiente,Casado,Primaria,Propia,2
+6261,Envigado , Antioquia,0,45,Independiente,Casado,Bachillerato,Propia,4
+6262,Medellin , Antioquia,0,39,Empleado,Casado,Primaria,Propia,0
+6263,Itagui , Antioquia,0,40,Empleado,Casado,Bachillerato,Propia,1
+6264,Medellin , Antioquia,1,42,Independiente,Casado,Primaria,Propia,0
+6265,Bogota , Bogota D.C,1,18,Empleado,Soltero,Profesional,No Aplica,0
+6266,Medellin , Antioquia,0,25,Empleado,Soltero,Profesional,No Aplica,1
+6267,Bogota , Bogota D.C,0,18,Empleado,Soltero,Primaria,No Aplica,1
+6268,Bello , Antioquia,0,19,Independiente,Soltero,Primaria,No Aplica,1
+6269,Medellin , Antioquia,0,18,Pensionado,Soltero,Profesional,No Aplica,2
+6270,Bogota , Bogota D.C,0,23,Empleado,Soltero,Profesional,No Aplica,1
+6271,Bogota , Bogota D.C,1,18,Pensionado,Soltero,Profesional,No Aplica,0
+6272,Bogota , Bogota D.C,0,31,Empleado,Soltero,Bachillerato,No Aplica,1
+6273,La Ceja , Antioquia,1,18,Pensionado,Soltero,Bachillerato,No Aplica,0
+6274,Barranquilla , Atlantico,0,26,Empleado,Soltero,Bachillerato,Alquiler,1
+6275,Cartagena , Bolivar,0,20,Empleado,Casado,Profesional,Propia,0
+6276,Barranquilla , Atlantico,1,25,Pensionado,Casado,Profesional,Propia,0
+6277,Cartagena , Bolivar,1,23,Independiente,Divorciado,Profesional,Propia,0
+6278,Bucaramanga , Santander,0,30,Independiente,Divorciado,Bachillerato,Propia,0
+6279,Cartagena , Bolivar,0,32,Pensionado,Soltero,Profesional,Propia,1
+6280,Sincelejo , Sucre,1,18,Pensionado,Soltero,Primaria,Alquiler,1
+6281,Magangue , Bolivar,1,19,Pensionado,Soltero,Profesional,Propia,1
+6282,Bogota , Bogota D.C,0,18,Empleado,Soltero,Bachillerato,No Aplica,1
+6283,Villavicencio , Meta,0,24,Independiente,Soltero,Primaria,Alquiler,1
+6284,Popayan , Cauca,0,26,Empleado,Soltero,Bachillerato,No Aplica,2
+6285,Lorica , Cordoba,1,26,Pensionado,Soltero,Profesional,Propia,1
+6286,San Bernardo Del Viento , Cordoba,1,23,Pensionado,Soltero,Profesional,No Aplica,0
+6287,Pasto , Narino,0,23,Empleado,Soltero,Bachillerato,Propia,1
+6288,Cali , Valle Del Cauca,1,20,Independiente,Soltero,Profesional,Propia,2
+6289,Medellin , Antioquia,1,32,Empleado,Divorciado,Profesional,No Aplica,1
+6290,Candelaria , Atlantico,1,25,Pensionado,Casado,Primaria,Propia,0
+6291,Popayan , Cauca,0,27,Independiente,Divorciado,Bachillerato,Alquiler,1
+6292,Pasto , Narino,1,20,Pensionado,Soltero,Bachillerato,Propia,0
+6293,Manizales , Caldas,0,20,Empleado,Soltero,Primaria,No Aplica,1
+6294,Cali , Valle Del Cauca,0,21,Empleado,Casado,Profesional,Propia,1
+6295,Tulua , Valle Del Cauca,1,20,Pensionado,Soltero,Profesional,No Aplica,1
+6296,Cucuta , Norte Santander,1,19,Pensionado,Soltero,Profesional,Propia,0
+6297,Villavicencio , Meta,0,31,Independiente,Viudo,Bachillerato,No Aplica,0
+6298,Barrancabermeja , Santander,0,24,Empleado,Divorciado,Bachillerato,Propia,0
+6299,Bucaramanga , Santander,1,18,Pensionado,Soltero,Profesional,Propia,0
+6300,Floridablanca , Santander,1,24,Pensionado,Casado,Profesional,Propia,0
+6301,Bucaramanga , Santander,0,22,Pensionado,Casado,Profesional,Propia,0
+6302,Sincelejo , Sucre,1,18,Pensionado,Soltero,Primaria,No Aplica,0
+6303,Bogota , Bogota D.C,1,25,Empleado,Soltero,Profesional,No Aplica,0
+6304,Cali , Valle Del Cauca,0,18,Pensionado,Soltero,Profesional,No Aplica,0
+6305,Soacha , Cundinamarca,0,22,Empleado,Soltero,Bachillerato,No Aplica,1
+6306,Buenaventura , Valle Del Cauca,0,22,Pensionado,Soltero,Profesional,No Aplica,0
+6307,San Vicente Del Caguan , Caqueta,0,20,Independiente,Divorciado,Primaria,No Aplica,1
+6308,Bogota , Bogota D.C,0,23,Empleado,Soltero,Bachillerato,No Aplica,1
+6309,Medellin , Antioquia,0,28,Empleado,Divorciado,Bachillerato,Alquiler,0
+6310,Monteria , Cordoba,1,21,Pensionado,Soltero,Bachillerato,No Aplica,2
+6311,Pereira , Risaralda,1,19,Pensionado,Soltero,Primaria,Alquiler,1
+6312,Alpujarra , Tolima,0,23,Empleado,Divorciado,Profesional,No Aplica,1
+6313,Bucaramanga , Santander,1,18,Pensionado,Soltero,Profesional,Propia,0
+6314,Bolivar , Valle Del Cauca,0,28,Independiente,Divorciado,Profesional,Propia,0
+6315,Cali , Valle Del Cauca,1,29,Independiente,Soltero,Profesional,Propia,0
+6316,Bogota , Bogota D.C,1,20,Empleado,Soltero,Profesional,No Aplica,2
+6317,Sitionuevo , Magdalena,0,23,Empleado,Soltero,Profesional,Propia,0
+6318,Barranquilla , Atlantico,1,19,Pensionado,Soltero,Profesional,Propia,0
+6319,Tunja , Boyaca,0,20,Empleado,Soltero,Bachillerato,Alquiler,2
+6320,Sincelejo , Sucre,0,25,Pensionado,Soltero,Profesional,Alquiler,0
+6321,Barranquilla , Atlantico,1,18,Empleado,Casado,Profesional,No Aplica,0
+6322,Villavicencio , Meta,0,30,Empleado,Divorciado,Profesional,Propia,1
+6323,Bogota , Bogota D.C,0,29,Empleado,Soltero,Profesional,No Aplica,1
+6324,Bogota , Bogota D.C,0,28,Empleado,Casado,Profesional,No Aplica,1
+6325,Bogota , Bogota D.C,0,21,Empleado,Soltero,Profesional,Propia,1
+6326,Bogota , Bogota D.C,0,21,Empleado,Soltero,Profesional,No Aplica,1
+6327,Bogota , Bogota D.C,0,20,Empleado,Soltero,Profesional,Alquiler,1
+6328,Bogota , Bogota D.C,0,19,Empleado,Soltero,Profesional,No Aplica,0
+6329,Bogota , Bogota D.C,0,31,Empleado,Casado,Profesional,No Aplica,1
+6330,Bogota , Bogota D.C,0,28,Empleado,Casado,Profesional,No Aplica,1
+6331,Bogota , Bogota D.C,0,27,Independiente,Divorciado,Primaria,No Aplica,1
+6332,Bogota , Bogota D.C,1,27,Empleado,Soltero,Profesional,Propia,1
+6333,Bogota , Bogota D.C,0,25,Empleado,Divorciado,Profesional,No Aplica,0
+6334,Bogota , Bogota D.C,1,24,Independiente,Divorciado,Primaria,Alquiler,1
+6335,Bogota , Bogota D.C,0,21,Pensionado,Soltero,Profesional,No Aplica,1
+6336,Bogota , Bogota D.C,0,20,Empleado,Soltero,Bachillerato,Propia,1
+6337,Bogota , Bogota D.C,1,19,Pensionado,Soltero,Bachillerato,No Aplica,1
+6338,Bogota , Bogota D.C,0,32,Independiente,Soltero,Bachillerato,No Aplica,0
+6339,Bogota , Bogota D.C,1,27,Empleado,Soltero,Profesional,No Aplica,1
+6340,Bogota , Bogota D.C,0,25,Empleado,Divorciado,Bachillerato,No Aplica,0
+6341,Bogota , Bogota D.C,0,26,Pensionado,Divorciado,Primaria,Alquiler,0
+6342,Bogota , Bogota D.C,0,23,Empleado,Soltero,Bachillerato,No Aplica,0
+6343,Bogota , Bogota D.C,0,23,Empleado,Divorciado,Profesional,No Aplica,1
+6344,Bogota , Bogota D.C,1,23,Independiente,Soltero,Profesional,No Aplica,1
+6345,Bogota , Bogota D.C,0,23,Empleado,Soltero,Profesional,No Aplica,1
+6346,Bogota , Bogota D.C,1,22,Empleado,Soltero,Bachillerato,No Aplica,2
+6347,Bogota , Bogota D.C,0,20,Empleado,Soltero,Bachillerato,No Aplica,1
+6348,Bogota , Bogota D.C,0,19,Empleado,Soltero,Profesional,Propia,1
+6349,Bogota , Bogota D.C,0,30,Empleado,Soltero,Profesional,Propia,2
+6350,Monteria , Cordoba,0,28,Pensionado,Casado,Bachillerato,Propia,0
+6351,Bogota , Bogota D.C,0,26,Independiente,Divorciado,Bachillerato,No Aplica,1
+6352,Bogota , Bogota D.C,0,25,Empleado,Soltero,Bachillerato,No Aplica,2
+6353,Bogota , Bogota D.C,0,24,Empleado,Soltero,Bachillerato,No Aplica,0
+6354,Bogota , Bogota D.C,0,23,Independiente,Soltero,Profesional,No Aplica,1
+6355,Bogota , Bogota D.C,0,23,Empleado,Soltero,Profesional,No Aplica,0
+6356,Bogota , Bogota D.C,0,22,Empleado,Soltero,Bachillerato,No Aplica,2
+6357,Bogota , Bogota D.C,0,22,Empleado,Soltero,Bachillerato,No Aplica,0
+6358,Bogota , Bogota D.C,0,21,Empleado,Soltero,Profesional,Propia,0
+6359,Bogota , Bogota D.C,0,21,Pensionado,Soltero,Bachillerato,No Aplica,0
+6360,Bogota , Bogota D.C,0,18,Pensionado,Soltero,Bachillerato,Propia,1
+6361,Envigado , Antioquia,0,25,Empleado,Soltero,Bachillerato,No Aplica,2
+6362,Medellin , Antioquia,0,34,Pensionado,Casado,Primaria,Propia,0
+6363,Bogota , Bogota D.C,0,27,Empleado,Soltero,Profesional,No Aplica,2
+6364,Bogota , Bogota D.C,0,25,Independiente,Soltero,Profesional,No Aplica,0
+6365,Bogota , Bogota D.C,0,25,Independiente,Soltero,Profesional,No Aplica,3
+6366,Soacha , Cundinamarca,0,23,Empleado,Soltero,Profesional,No Aplica,1
+6367,Bogota , Bogota D.C,0,22,Empleado,Soltero,Profesional,No Aplica,1
+6368,Bogota , Bogota D.C,0,22,Empleado,Soltero,Profesional,No Aplica,3
+6369,Bogota , Bogota D.C,0,21,Independiente,Soltero,Profesional,No Aplica,0
+6370,Bogota , Bogota D.C,0,18,Pensionado,Soltero,Bachillerato,No Aplica,1
+6371,Bogota , Bogota D.C,0,24,Empleado,Soltero,Profesional,No Aplica,0
+6372,Bogota , Bogota D.C,0,23,Empleado,Soltero,Profesional,No Aplica,1
+6373,Bogota , Bogota D.C,0,22,Independiente,Divorciado,Primaria,No Aplica,0
+6374,Medellin , Antioquia,0,26,Empleado,Soltero,Profesional,Propia,1
+6375,Medellin , Antioquia,0,21,Independiente,Soltero,Bachillerato,No Aplica,0
+6376,Medellin , Antioquia,0,19,Empleado,Divorciado,Primaria,Propia,0
+6377,Bogota , Bogota D.C,0,28,Empleado,Soltero,Bachillerato,No Aplica,1
+6378,Bogota , Bogota D.C,0,28,Empleado,Divorciado,Bachillerato,No Aplica,0
+6379,Bogota , Bogota D.C,0,27,Independiente,Soltero,Profesional,No Aplica,0
+6380,Bogota , Bogota D.C,0,24,Empleado,Casado,Primaria,No Aplica,0
+6381,Bogota , Bogota D.C,0,24,Empleado,Soltero,Primaria,No Aplica,0
+6382,Bogota , Bogota D.C,1,24,Independiente,Divorciado,Bachillerato,No Aplica,1
+6383,Bogota , Bogota D.C,0,23,Empleado,Soltero,Profesional,No Aplica,1
+6384,Bogota , Bogota D.C,0,21,Empleado,Soltero,Profesional,No Aplica,0
+6385,Bogota , Bogota D.C,0,21,Pensionado,Soltero,Profesional,No Aplica,2
+6386,Soacha , Cundinamarca,0,21,Empleado,Soltero,Bachillerato,No Aplica,2
+6387,Bogota , Bogota D.C,0,56,Independiente,Casado,Profesional,Alquiler,1
+6388,Bogota , Bogota D.C,0,31,Empleado,Soltero,Profesional,No Aplica,0
+6389,Bogota , Bogota D.C,0,31,Independiente,Casado,Profesional,Alquiler,2
+6390,Bogota , Bogota D.C,1,30,Empleado,Divorciado,Primaria,No Aplica,0
+6391,Bogota , Bogota D.C,0,29,Empleado,Divorciado,Bachillerato,No Aplica,2
+6392,Bogota , Bogota D.C,0,29,Empleado,Divorciado,Primaria,No Aplica,1
+6393,Bogota , Bogota D.C,1,29,Pensionado,Casado,Primaria,No Aplica,0
+6394,Bogota , Bogota D.C,0,28,Empleado,Casado,Profesional,Propia,1
+6395,Bogota , Bogota D.C,0,27,Empleado,Soltero,Profesional,No Aplica,2
+6396,Tame , Arauca,0,26,Independiente,Casado,Profesional,No Aplica,1
+6397,Bogota , Bogota D.C,0,26,Empleado,Soltero,Bachillerato,No Aplica,2
+6398,Bucaramanga , Santander,0,24,Empleado,Soltero,Profesional,Propia,1
+6399,Bogota , Bogota D.C,0,23,Empleado,Casado,Profesional,No Aplica,1
+6400,Corozal , Sucre,1,30,Empleado,Soltero,Bachillerato,No Aplica,1
+6401,Cucuta , Norte Santander,0,24,Independiente,Soltero,Profesional,Propia,1
+6402,Medellin , Antioquia,0,24,Independiente,Divorciado,Primaria,No Aplica,1
+6403,Bello , Antioquia,0,24,Empleado,Soltero,Profesional,No Aplica,0
+6404,Bello , Antioquia,0,23,Empleado,Soltero,Bachillerato,No Aplica,1
+6405,Medellin , Antioquia,1,19,Independiente,Soltero,Primaria,No Aplica,0
+6406,Bogota , Bogota D.C,0,29,Empleado,Soltero,Profesional,No Aplica,3
+6407,Bogota , Bogota D.C,0,28,Independiente,Soltero,Profesional,No Aplica,1
+6408,Bogota , Bogota D.C,0,28,Empleado,Divorciado,Profesional,No Aplica,1
+6409,Rionegro , Antioquia,0,27,Empleado,Casado,Profesional,No Aplica,1
+6410,Corozal , Sucre,0,28,Pensionado,Divorciado,Bachillerato,No Aplica,1
+6411,Bogota , Bogota D.C,0,27,Pensionado,Divorciado,Bachillerato,No Aplica,2
+6412,Ipiales , Narino,0,27,Pensionado,Soltero,Profesional,No Aplica,0
+6413,Bogota , Bogota D.C,0,26,Empleado,Soltero,Profesional,No Aplica,1
+6414,Bogota , Bogota D.C,0,23,Empleado,Divorciado,Primaria,No Aplica,1
+6415,Bogota , Bogota D.C,0,23,Empleado,Soltero,Bachillerato,No Aplica,2
+6416,Bogota , Bogota D.C,0,20,Pensionado,Soltero,Profesional,No Aplica,0
+6417,Bogota , Bogota D.C,0,19,Pensionado,Soltero,Profesional,Alquiler,1
+6418,Bogota , Bogota D.C,0,63,Pensionado,Casado,Profesional,Propia,3
+6419,Medellin , Antioquia,0,27,Empleado,Soltero,Primaria,No Aplica,1
+6420,Bello , Antioquia,0,19,Empleado,Soltero,Bachillerato,No Aplica,0
+6421,Bogota , Bogota D.C,0,29,Empleado,Soltero,Bachillerato,No Aplica,0
+6422,Bogota , Bogota D.C,1,28,Independiente,Soltero,Bachillerato,No Aplica,1
+6423,Bogota , Bogota D.C,0,26,Empleado,Soltero,Profesional,No Aplica,1
+6424,Bogota , Bogota D.C,0,23,Empleado,Soltero,Bachillerato,No Aplica,1
+6425,Bogota , Bogota D.C,0,20,Empleado,Soltero,Profesional,Propia,1
+6426,Bogota , Bogota D.C,0,18,Empleado,Soltero,Profesional,No Aplica,2
+6427,Bogota , Bogota D.C,0,29,Empleado,Divorciado,Bachillerato,No Aplica,1
+6428,Bogota , Bogota D.C,0,24,Independiente,Divorciado,Bachillerato,No Aplica,0
+6429,Buenaventura , Valle Del Cauca,0,24,Empleado,Divorciado,Profesional,Propia,0
+6430,Bogota , Bogota D.C,1,24,Empleado,Soltero,Profesional,Propia,0
+6431,Bogota , Bogota D.C,0,21,Empleado,Soltero,Profesional,Propia,2
+6432,Bogota , Bogota D.C,0,19,Independiente,Soltero,Bachillerato,Alquiler,2
+6433,Bogota , Bogota D.C,1,28,Independiente,Soltero,Primaria,No Aplica,0
+6434,Bogota , Bogota D.C,0,26,Empleado,Soltero,Bachillerato,No Aplica,1
+6435,Bogota , Bogota D.C,0,23,Empleado,Divorciado,Bachillerato,No Aplica,1
+6436,Bogota , Bogota D.C,0,22,Empleado,Soltero,Profesional,No Aplica,1
+6437,Bogota , Bogota D.C,0,21,Empleado,Soltero,Primaria,Alquiler,1
+6438,Bogota , Bogota D.C,0,20,Empleado,Divorciado,Bachillerato,Alquiler,2
+6439,Bogota , Bogota D.C,0,20,Pensionado,Soltero,Profesional,Propia,0
+6440,Bogota , Bogota D.C,0,31,Empleado,Divorciado,Bachillerato,No Aplica,2
+6441,Soacha , Cundinamarca,0,28,Independiente,Casado,Primaria,No Aplica,1
+6442,Bogota , Bogota D.C,0,27,Empleado,Casado,Bachillerato,Propia,0
+6443,Soacha , Cundinamarca,0,26,Empleado,Soltero,Profesional,No Aplica,1
+6444,Bogota , Bogota D.C,0,25,Empleado,Soltero,Bachillerato,No Aplica,1
+6445,Bogota , Bogota D.C,0,23,Empleado,Soltero,Profesional,No Aplica,0
+6446,Soacha , Cundinamarca,0,22,Empleado,Soltero,Bachillerato,No Aplica,0
+6447,Bogota , Bogota D.C,0,20,Empleado,Soltero,Profesional,No Aplica,1
+6448,La Estrella , Antioquia,0,22,Empleado,Divorciado,Bachillerato,No Aplica,1
+6449,Bogota , Bogota D.C,0,24,Empleado,Divorciado,Primaria,No Aplica,1
+6450,Bogota , Bogota D.C,0,20,Empleado,Casado,Bachillerato,Propia,1
+6451,Apartado , Antioquia,0,29,Empleado,Soltero,Bachillerato,No Aplica,0
+6452,Medellin , Antioquia,0,27,Independiente,Divorciado,Bachillerato,Alquiler,0
+6453,Apartado , Antioquia,0,20,Pensionado,Soltero,Primaria,No Aplica,0
+6454,Bogota , Bogota D.C,1,32,Independiente,Soltero,Profesional,No Aplica,2
+6455,Tunja , Boyaca,0,28,Independiente,Casado,Profesional,No Aplica,0
+6456,Bogota , Bogota D.C,0,27,Empleado,Soltero,Profesional,No Aplica,1
+6457,Bogota , Bogota D.C,0,25,Empleado,Soltero,Profesional,No Aplica,1
+6458,Bogota , Bogota D.C,0,24,Empleado,Soltero,Bachillerato,No Aplica,1
+6459,Bogota , Bogota D.C,0,24,Empleado,Soltero,Primaria,Alquiler,1
+6460,Bogota , Bogota D.C,0,21,Empleado,Soltero,Profesional,No Aplica,2
+6461,Bogota , Bogota D.C,0,21,Empleado,Soltero,Bachillerato,No Aplica,1
+6462,Bogota , Bogota D.C,1,20,Independiente,Divorciado,Bachillerato,Alquiler,1
+6463,Bogota , Bogota D.C,0,24,Independiente,Soltero,Bachillerato,Alquiler,0
+6464,Bogota , Bogota D.C,0,22,Empleado,Soltero,Primaria,No Aplica,0
+6465,Bogota , Bogota D.C,0,20,Empleado,Soltero,Profesional,No Aplica,0
+6466,Bogota , Bogota D.C,0,19,Empleado,Divorciado,Bachillerato,No Aplica,2
+6467,Envigado , Antioquia,0,32,Empleado,Soltero,Profesional,Propia,1
+6468,Bogota , Bogota D.C,1,32,Empleado,Soltero,Profesional,No Aplica,0
+6469,Bogota , Bogota D.C,0,32,Empleado,Soltero,Profesional,Propia,1
+6470,Bogota , Bogota D.C,0,31,Empleado,Divorciado,Profesional,No Aplica,0
+6471,Bogota , Bogota D.C,0,30,Empleado,Soltero,Profesional,No Aplica,1
+6472,Bogota , Bogota D.C,0,30,Empleado,Divorciado,Profesional,Propia,0
+6473,Bogota , Bogota D.C,0,29,Empleado,Casado,Bachillerato,No Aplica,1
+6474,Bogota , Bogota D.C,0,28,Independiente,Soltero,Profesional,No Aplica,1
+6475,Villavicencio , Meta,0,28,Empleado,Soltero,Profesional,No Aplica,4
+6476,Sincelejo , Sucre,0,27,Independiente,Soltero,Profesional,No Aplica,4
+6477,Bogota , Bogota D.C,0,26,Empleado,Divorciado,Profesional,No Aplica,0
+6478,Bogota , Bogota D.C,0,23,Empleado,Soltero,Profesional,No Aplica,0
+6479,Bogota , Bogota D.C,0,21,Empleado,Soltero,Bachillerato,No Aplica,1
+6480,Villavicencio , Meta,0,18,Pensionado,Soltero,Profesional,Propia,1
+6481,Bogota , Bogota D.C,0,31,Independiente,Soltero,Primaria,No Aplica,0
+6482,Bogota , Bogota D.C,0,30,Empleado,Soltero,Profesional,No Aplica,0
+6483,Bogota , Bogota D.C,0,27,Independiente,Soltero,Profesional,No Aplica,0
+6484,Bogota , Bogota D.C,0,26,Independiente,Divorciado,Primaria,Alquiler,1
+6485,Bogota , Bogota D.C,0,26,Empleado,Divorciado,Primaria,No Aplica,0
+6486,Bogota , Bogota D.C,0,25,Independiente,Casado,Bachillerato,No Aplica,1
+6487,Bogota , Bogota D.C,0,24,Empleado,Soltero,Bachillerato,No Aplica,0
+6488,Bogota , Bogota D.C,0,22,Independiente,Casado,Profesional,Propia,0
+6489,Bogota , Bogota D.C,0,22,Pensionado,Soltero,Profesional,No Aplica,0
+6490,Bogota , Bogota D.C,0,21,Empleado,Soltero,Profesional,No Aplica,1
+6491,Bogota , Bogota D.C,0,21,Empleado,Soltero,Bachillerato,No Aplica,0
+6492,Bogota , Bogota D.C,1,21,Empleado,Divorciado,Profesional,No Aplica,1
+6493,Bogota , Bogota D.C,1,18,Pensionado,Soltero,Profesional,Propia,0
+6494,Bogota , Bogota D.C,0,29,Empleado,Soltero,Bachillerato,No Aplica,1
+6495,Bogota , Bogota D.C,0,23,Pensionado,Soltero,Profesional,No Aplica,0
+6496,Girardota , Antioquia,0,25,Pensionado,Casado,Primaria,No Aplica,1
+6497,Medellin , Antioquia,0,24,Empleado,Soltero,Primaria,No Aplica,2
+6498,Medellin , Antioquia,0,20,Independiente,Soltero,Bachillerato,Propia,1
+6499,Medellin , Antioquia,0,25,Pensionado,Soltero,Bachillerato,No Aplica,0
+6500,Penol , Antioquia,0,24,Empleado,Divorciado,Primaria,Propia,1
+6501,La Ceja , Antioquia,0,24,Empleado,Soltero,Profesional,Alquiler,2
+6502,Rionegro , Antioquia,0,21,Pensionado,Soltero,Primaria,No Aplica,2
+6503,Rionegro , Antioquia,0,31,Empleado,Casado,Profesional,Alquiler,1
+6504,Don Matias , Antioquia,0,27,Empleado,Divorciado,Profesional,Propia,1
+6505,Medellin , Antioquia,0,32,Empleado,Soltero,Primaria,No Aplica,1
+6506,Medellin , Antioquia,0,31,Empleado,Divorciado,Primaria,No Aplica,1
+6507,Medellin , Antioquia,0,29,Empleado,Casado,Primaria,No Aplica,1
+6508,Medellin , Antioquia,0,28,Independiente,Soltero,Profesional,No Aplica,1
+6509,Envigado , Antioquia,0,27,Empleado,Soltero,Profesional,Alquiler,1
+6510,Bello , Antioquia,0,27,Empleado,Divorciado,Bachillerato,No Aplica,1
+6511,Dosquebradas , Risaralda,0,25,Independiente,Casado,Bachillerato,Propia,0
+6512,Medellin , Antioquia,0,22,Independiente,Soltero,Bachillerato,No Aplica,0
+6513,Medellin , Antioquia,0,22,Pensionado,Soltero,Profesional,No Aplica,0
+6514,Medellin , Antioquia,0,20,Pensionado,Soltero,Bachillerato,Propia,0
+6515,Caucasia , Antioquia,1,30,Independiente,Divorciado,Profesional,No Aplica,0
+6516,Medellin , Antioquia,0,25,Empleado,Divorciado,Profesional,No Aplica,1
+6517,Medellin , Antioquia,0,30,Empleado,Casado,Primaria,No Aplica,1
+6518,Envigado , Antioquia,0,24,Empleado,Casado,Primaria,No Aplica,1
+6519,Medellin , Antioquia,0,21,Independiente,Soltero,Profesional,No Aplica,0
+6520,Sabaneta , Antioquia,1,18,Pensionado,Soltero,Profesional,No Aplica,0
+6521,Puerto Berrio , Antioquia,0,30,Empleado,Soltero,Profesional,Propia,1
+6522,Medellin , Antioquia,0,20,Empleado,Soltero,Bachillerato,No Aplica,1
+6523,San Pedro , Antioquia,0,19,Empleado,Divorciado,Bachillerato,No Aplica,1
+6524,Bello , Antioquia,0,29,Empleado,Soltero,Bachillerato,No Aplica,1
+6525,Medellin , Antioquia,0,28,Empleado,Soltero,Primaria,No Aplica,1
+6526,Medellin , Antioquia,0,23,Empleado,Soltero,Primaria,No Aplica,1
+6527,Medellin , Antioquia,0,21,Empleado,Soltero,Profesional,No Aplica,3
+6528,Valparaiso , Antioquia,0,30,Empleado,Divorciado,Profesional,Alquiler,1
+6529,Soledad , Atlantico,0,24,Empleado,Casado,Profesional,Propia,0
+6530,Bogota , Bogota D.C,0,33,Empleado,Soltero,Profesional,No Aplica,2
+6531,Barranquilla , Atlantico,0,20,Empleado,Soltero,Profesional,No Aplica,2
+6532,El Santuario , Antioquia,0,20,Empleado,Divorciado,Bachillerato,No Aplica,0
+6533,Bello , Antioquia,0,22,Independiente,Divorciado,Bachillerato,Propia,1
+6534,Medellin , Antioquia,0,18,Empleado,Soltero,Bachillerato,Propia,1
+6535,Bogota , Bogota D.C,1,26,Empleado,Divorciado,Profesional,Propia,1
+6536,Turbo , Antioquia,0,32,Empleado,Divorciado,Primaria,No Aplica,2
+6537,Monteria , Cordoba,1,30,Pensionado,Casado,Profesional,Propia,1
+6538,Barranquilla , Atlantico,0,30,Independiente,Divorciado,Profesional,No Aplica,1
+6539,Barranquilla , Atlantico,0,28,Independiente,Divorciado,Profesional,No Aplica,1
+6540,Barranquilla , Atlantico,0,28,Empleado,Soltero,Profesional,Propia,1
+6541,Barranquilla , Atlantico,1,25,Pensionado,Casado,Profesional,Propia,0
+6542,Malambo , Atlantico,0,25,Empleado,Casado,Profesional,Propia,1
+6543,Barranquilla , Atlantico,0,27,Independiente,Soltero,Profesional,Propia,0
+6544,Barranquilla , Atlantico,1,23,Pensionado,Soltero,Profesional,Propia,0
+6545,Bucaramanga , Santander,0,23,Pensionado,Soltero,Profesional,Propia,0
+6546,Barranquilla , Atlantico,0,20,Pensionado,Soltero,Profesional,Propia,0
+6547,El Carmen De Viboral , Antioquia,0,29,Empleado,Soltero,Bachillerato,Propia,1
+6548,Galapa , Atlantico,1,28,Independiente,Casado,Profesional,Propia,0
+6549,Bogota , Bogota D.C,0,42,Independiente,Soltero,Profesional,Alquiler,0
+6550,Malambo , Atlantico,0,31,Independiente,Casado,Profesional,Propia,1
+6551,Magangue , Bolivar,0,32,Independiente,Divorciado,Bachillerato,Alquiler,2
+6552,Cartagena , Bolivar,0,30,Empleado,Divorciado,Bachillerato,No Aplica,1
+6553,Cartagena , Bolivar,0,28,Empleado,Divorciado,Profesional,Alquiler,1
+6554,Bogota , Bogota D.C,0,25,Empleado,Divorciado,Profesional,No Aplica,2
+6555,Cali , Valle Del Cauca,0,25,Independiente,Casado,Bachillerato,Alquiler,1
+6556,Sincelejo , Sucre,0,23,Pensionado,Soltero,Primaria,No Aplica,1
+6557,Bogota , Bogota D.C,0,22,Empleado,Casado,Bachillerato,No Aplica,1
+6558,Barranquilla , Atlantico,0,18,Empleado,Soltero,Profesional,Propia,0
+6559,Barranquilla , Atlantico,1,20,Empleado,Casado,Profesional,Propia,1
+6560,Malambo , Atlantico,1,25,Pensionado,Casado,Profesional,Propia,0
+6561,Malambo , Atlantico,0,24,Empleado,Soltero,Profesional,Propia,0
+6562,Soledad , Atlantico,0,35,Empleado,Divorciado,Bachillerato,Propia,1
+6563,Tunja , Boyaca,0,29,Independiente,Soltero,Profesional,No Aplica,1
+6564,Zipaquira , Cundinamarca,0,25,Empleado,Divorciado,Profesional,No Aplica,0
+6565,Chiquinquira , Boyaca,0,28,Independiente,Divorciado,Primaria,Alquiler,3
+6566,Duitama , Boyaca,0,30,Empleado,Soltero,Bachillerato,No Aplica,1
+6567,Magangue , Bolivar,0,26,Empleado,Divorciado,Profesional,Propia,2
+6568,Corozal , Sucre,0,23,Independiente,Casado,Primaria,Alquiler,1
+6569,Soledad , Atlantico,1,22,Empleado,Soltero,Profesional,Propia,1
+6570,Chiquinquira , Boyaca,0,26,Empleado,Soltero,Profesional,No Aplica,0
+6571,Chiquinquira , Boyaca,0,23,Pensionado,Soltero,Profesional,No Aplica,0
+6572,Manizales , Caldas,0,28,Empleado,Soltero,Profesional,No Aplica,1
+6573,Manizales , Caldas,0,28,Empleado,Soltero,Profesional,No Aplica,0
+6574,Monteria , Cordoba,0,27,Empleado,Soltero,Primaria,No Aplica,2
+6575,Manizales , Caldas,0,24,Empleado,Soltero,Profesional,No Aplica,1
+6576,Manizales , Caldas,0,20,Empleado,Soltero,Bachillerato,No Aplica,1
+6577,Manizales , Caldas,0,20,Pensionado,Soltero,Profesional,No Aplica,0
+6578,Manizales , Caldas,0,19,Pensionado,Soltero,Profesional,No Aplica,0
+6579,Ibague , Tolima,0,31,Pensionado,Divorciado,Profesional,Propia,1
+6580,Manizales , Caldas,0,28,Empleado,Divorciado,Profesional,Alquiler,1
+6581,Chinchina , Caldas,0,22,Empleado,Soltero,Bachillerato,Propia,0
+6582,Chiquinquira , Boyaca,1,24,Independiente,Soltero,Profesional,No Aplica,0
+6583,Bogota , Bogota D.C,0,26,Independiente,Casado,Profesional,Propia,3
+6584,Bogota , Bogota D.C,0,22,Empleado,Soltero,Bachillerato,Alquiler,1
+6585,Sogamoso , Boyaca,0,31,Empleado,Casado,Bachillerato,Propia,1
+6586,Sogamoso , Boyaca,1,24,Independiente,Soltero,Bachillerato,No Aplica,0
+6587,Sogamoso , Boyaca,0,24,Independiente,Soltero,Profesional,Alquiler,0
+6588,Bogota , Bogota D.C,0,31,Empleado,Divorciado,Primaria,Propia,1
+6589,Samaca , Boyaca,0,32,Empleado,Divorciado,Profesional,Alquiler,2
+6590,Caldas , Antioquia,0,28,Empleado,Soltero,Primaria,No Aplica,1
+6591,Popayan , Cauca,1,28,Independiente,Divorciado,Primaria,Propia,2
+6592,Popayan , Cauca,0,32,Independiente,Divorciado,Primaria,Alquiler,1
+6593,Medellin , Antioquia,0,22,Empleado,Divorciado,Bachillerato,No Aplica,1
+6594,Manizales , Caldas,0,25,Empleado,Soltero,Profesional,Alquiler,1
+6595,Popayan , Cauca,0,32,Independiente,Divorciado,Primaria,No Aplica,1
+6596,Popayan , Cauca,0,41,Empleado,Divorciado,Primaria,Propia,0
+6597,Cali , Valle Del Cauca,0,20,Empleado,Casado,Profesional,Propia,2
+6598,Popayan , Cauca,0,30,Empleado,Divorciado,Profesional,Propia,1
+6599,Popayan , Cauca,0,26,Independiente,Soltero,Profesional,No Aplica,1
+6600,Popayan , Cauca,0,24,Independiente,Soltero,Profesional,No Aplica,1
+6601,Popayan , Cauca,0,22,Empleado,Soltero,Bachillerato,Propia,1
+6602,Cali , Valle Del Cauca,0,27,Independiente,Soltero,Profesional,No Aplica,1
+6603,Villa Rica , Cauca,1,25,Empleado,Soltero,Bachillerato,Propia,1
+6604,Lorica , Cordoba,1,26,Independiente,Casado,Primaria,Propia,0
+6605,Lorica , Cordoba,0,25,Independiente,Soltero,Profesional,No Aplica,0
+6606,Lorica , Cordoba,1,20,Independiente,Soltero,Bachillerato,No Aplica,0
+6607,Lorica , Cordoba,1,19,Empleado,Soltero,Primaria,No Aplica,1
+6608,Montelibano , Cordoba,0,32,Independiente,Casado,Primaria,Propia,3
+6609,Monteria , Cordoba,1,42,Pensionado,Casado,Bachillerato,Propia,0
+6610,Monitos , Cordoba,1,23,Pensionado,Soltero,Profesional,Propia,0
+6611,Itagui , Antioquia,0,27,Empleado,Soltero,Primaria,Alquiler,1
+6612,Aguachica , Cesar,0,28,Independiente,Casado,Bachillerato,No Aplica,0
+6613,Barranquilla , Atlantico,0,31,Independiente,Soltero,Profesional,No Aplica,1
+6614,Monteria , Cordoba,0,39,Empleado,Casado,Bachillerato,Propia,0
+6615,Cali , Valle Del Cauca,0,22,Empleado,Casado,Profesional,Propia,0
+6616,Valledupar , Cesar,0,33,Independiente,Divorciado,Bachillerato,No Aplica,0
+6617,Valledupar , Cesar,0,31,Independiente,Soltero,Profesional,Propia,2
+6618,Valledupar , Cesar,0,30,Empleado,Divorciado,Profesional,No Aplica,1
+6619,Barrancabermeja , Santander,0,27,Independiente,Divorciado,Primaria,No Aplica,0
+6620,Mosquera , Cundinamarca,0,20,Empleado,Soltero,Bachillerato,No Aplica,2
+6621,Chinu , Cordoba,0,25,Independiente,Soltero,Profesional,No Aplica,2
+6622,Medellin , Antioquia,0,33,Empleado,Divorciado,Bachillerato,No Aplica,1
+6623,Monteria , Cordoba,1,21,Pensionado,Soltero,Profesional,No Aplica,0
+6624,Purisima , Cordoba,0,30,Independiente,Casado,Bachillerato,Propia,0
+6625,Cali , Valle Del Cauca,0,34,Empleado,Casado,Profesional,Propia,0
+6626,Cali , Valle Del Cauca,1,22,Pensionado,Soltero,Profesional,Propia,0
+6627,Bogota , Bogota D.C,0,26,Independiente,Divorciado,Primaria,No Aplica,0
+6628,Bogota , Bogota D.C,0,31,Empleado,Soltero,Primaria,Alquiler,0
+6629,Monteria , Cordoba,0,30,Empleado,Casado,Profesional,Propia,1
+6630,Monteria , Cordoba,0,22,Empleado,Soltero,Bachillerato,Propia,1
+6631,Monteria , Cordoba,0,28,Empleado,Soltero,Profesional,No Aplica,1
+6632,Medellin , Antioquia,0,25,Empleado,Soltero,Primaria,Alquiler,1
+6633,Monteria , Cordoba,0,25,Independiente,Casado,Profesional,No Aplica,0
+6634,Monteria , Cordoba,1,25,Empleado,Divorciado,Bachillerato,No Aplica,0
+6635,Itagui , Antioquia,0,33,Empleado,Divorciado,Primaria,Alquiler,1
+6636,Cienaga De Oro , Cordoba,0,31,Independiente,Casado,Bachillerato,Propia,3
+6637,Bogota , Bogota D.C,0,31,Empleado,Divorciado,Bachillerato,No Aplica,1
+6638,Bogota , Bogota D.C,0,23,Independiente,Soltero,Bachillerato,No Aplica,0
+6639,Bogota , Bogota D.C,0,19,Empleado,Soltero,Profesional,No Aplica,0
+6640,Facatativa , Cundinamarca,0,31,Empleado,Casado,Primaria,Alquiler,1
+6641,Facatativa , Cundinamarca,0,29,Independiente,Soltero,Primaria,Alquiler,1
+6642,Envigado , Antioquia,0,29,Empleado,Soltero,Bachillerato,No Aplica,1
+6643,Fusagasuga , Cundinamarca,0,26,Empleado,Soltero,Profesional,Alquiler,0
+6644,Fusagasuga , Cundinamarca,0,24,Empleado,Soltero,Bachillerato,No Aplica,0
+6645,Bogota , Bogota D.C,0,22,Independiente,Soltero,Profesional,Alquiler,1
+6646,Fusagasuga , Cundinamarca,0,21,Empleado,Soltero,Profesional,No Aplica,1
+6647,Cumaral , Meta,1,25,Empleado,Soltero,Bachillerato,No Aplica,1
+6648,Chia , Cundinamarca,0,25,Independiente,Soltero,Primaria,No Aplica,1
+6649,Cajica , Cundinamarca,1,21,Independiente,Soltero,Profesional,No Aplica,0
+6650,Cota , Cundinamarca,0,24,Empleado,Soltero,Bachillerato,No Aplica,0
+6651,Bogota , Bogota D.C,0,20,Empleado,Soltero,Bachillerato,No Aplica,1
+6652,Facatativa , Cundinamarca,0,26,Independiente,Soltero,Profesional,No Aplica,1
+6653,Facatativa , Cundinamarca,0,23,Empleado,Soltero,Primaria,Alquiler,1
+6654,Facatativa , Cundinamarca,1,22,Independiente,Divorciado,Primaria,Alquiler,0
+6655,Bogota , Bogota D.C,0,20,Empleado,Soltero,Profesional,No Aplica,1
+6656,Cerete , Cordoba,0,34,Pensionado,Divorciado,Primaria,No Aplica,0
+6657,Sibate , Cundinamarca,0,24,Empleado,Soltero,Bachillerato,No Aplica,2
+6658,Funza , Cundinamarca,0,29,Empleado,Divorciado,Bachillerato,No Aplica,0
+6659,Mosquera , Cundinamarca,0,33,Empleado,Soltero,Bachillerato,Propia,1
+6660,Bogota , Bogota D.C,0,28,Empleado,Soltero,Profesional,No Aplica,2
+6661,Medellin , Antioquia,0,27,Empleado,Casado,Bachillerato,Alquiler,1
+6662,Melgar , Tolima,0,22,Independiente,Casado,Bachillerato,No Aplica,1
+6663,Bogota , Bogota D.C,0,20,Pensionado,Soltero,Profesional,No Aplica,1
+6664,Bucaramanga , Santander,0,29,Empleado,Soltero,Profesional,No Aplica,1
+6665,Bogota , Bogota D.C,0,24,Empleado,Soltero,Profesional,No Aplica,1
+6666,Medellin , Antioquia,1,25,Empleado,Divorciado,Primaria,Alquiler,0
+6667,Bogota , Bogota D.C,0,30,Empleado,Divorciado,Primaria,No Aplica,1
+6668,Neiva , Huila,0,33,Independiente,Divorciado,Primaria,No Aplica,1
+6669,Florencia , Caqueta,0,30,Independiente,Casado,Primaria,No Aplica,1
+6670,Neiva , Huila,0,28,Independiente,Soltero,Profesional,No Aplica,1
+6671,Neiva , Huila,0,25,Pensionado,Soltero,Profesional,No Aplica,1
+6672,Neiva , Huila,1,24,Empleado,Soltero,Primaria,No Aplica,0
+6673,Neiva , Huila,0,23,Independiente,Soltero,Profesional,No Aplica,1
+6674,Neiva , Huila,0,22,Empleado,Soltero,Primaria,No Aplica,1
+6675,Tocaima , Cundinamarca,0,28,Independiente,Casado,Primaria,No Aplica,0
+6676,Cartagena , Bolivar,0,28,Pensionado,Divorciado,Bachillerato,No Aplica,0
+6677,Tocancipa , Cundinamarca,0,24,Empleado,Soltero,Bachillerato,No Aplica,3
+6678,Tabio , Cundinamarca,0,29,Empleado,Soltero,Bachillerato,Propia,1
+6679,Bogota , Bogota D.C,0,22,Pensionado,Soltero,Profesional,No Aplica,1
+6680,Bogota , Bogota D.C,0,25,Empleado,Soltero,Profesional,No Aplica,3
+6681,Tocancipa , Cundinamarca,0,26,Independiente,Soltero,Profesional,No Aplica,0
+6682,Uramita , Antioquia,0,26,Empleado,Divorciado,Profesional,Alquiler,2
+6683,Medellin , Antioquia,0,19,Pensionado,Soltero,Primaria,No Aplica,2
+6684,Neiva , Huila,0,21,Independiente,Soltero,Profesional,Alquiler,0
+6685,Bogota , Bogota D.C,1,30,Independiente,Casado,Primaria,Alquiler,1
+6686,Campoalegre , Huila,0,28,Empleado,Soltero,Profesional,Propia,1
+6687,Bogota , Bogota D.C,1,27,Empleado,Soltero,Bachillerato,No Aplica,0
+6688,Barranquilla , Atlantico,1,22,Independiente,Soltero,Profesional,Alquiler,0
+6689,Barranquilla , Atlantico,1,25,Pensionado,Casado,Profesional,No Aplica,0
+6690,Bogota , Bogota D.C,0,31,Empleado,Casado,Bachillerato,No Aplica,1
+6691,Facatativa , Cundinamarca,0,30,Pensionado,Divorciado,Primaria,Propia,0
+6692,Bogota , Bogota D.C,1,26,Pensionado,Divorciado,Profesional,No Aplica,0
+6693,Bogota , Bogota D.C,0,26,Empleado,Soltero,Primaria,Alquiler,1
+6694,Soacha , Cundinamarca,0,19,Empleado,Soltero,Primaria,Alquiler,1
+6695,Bogota , Bogota D.C,0,26,Empleado,Divorciado,Bachillerato,No Aplica,0
+6696,Barranquilla , Atlantico,0,27,Empleado,Soltero,Bachillerato,Propia,1
+6697,Medellin , Antioquia,0,26,Empleado,Soltero,Primaria,Propia,1
+6698,Barranquilla , Atlantico,0,24,Empleado,Soltero,Bachillerato,No Aplica,1
+6699,Santa Marta , Magdalena,0,22,Independiente,Soltero,Bachillerato,No Aplica,0
+6700,Bogota , Bogota D.C,0,21,Empleado,Soltero,Bachillerato,No Aplica,1
+6701,Pitalito , Huila,0,25,Empleado,Soltero,Bachillerato,No Aplica,1
+6702,Pereira , Risaralda,0,22,Empleado,Soltero,Primaria,Alquiler,2
+6703,Pitalito , Huila,0,22,Empleado,Soltero,Primaria,No Aplica,1
+6704,Santa Marta , Magdalena,0,20,Empleado,Soltero,Profesional,Alquiler,0
+6705,Bogota , Bogota D.C,0,35,Empleado,Soltero,Bachillerato,Alquiler,1
+6706,Iquira , Huila,0,26,Independiente,Divorciado,Primaria,No Aplica,0
+6707,Guadalupe , Huila,0,30,Independiente,Divorciado,Primaria,Propia,2
+6708,Bogota , Bogota D.C,0,31,Empleado,Divorciado,Primaria,Alquiler,1
+6709,Pasto , Narino,0,31,Independiente,Casado,Profesional,Propia,1
+6710,Pasto , Narino,0,28,Independiente,Soltero,Profesional,Propia,0
+6711,Pasto , Narino,0,27,Independiente,Soltero,Profesional,Propia,0
+6712,Policarpa , Narino,0,27,Independiente,Soltero,Primaria,No Aplica,0
+6713,Pasto , Narino,0,26,Independiente,Soltero,Bachillerato,Propia,0
+6714,Pasto , Narino,0,23,Independiente,Soltero,Profesional,No Aplica,0
+6715,Pasto , Narino,0,22,Independiente,Soltero,Profesional,Propia,1
+6716,Pasto , Narino,0,22,Independiente,Divorciado,Profesional,Propia,1
+6717,Dosquebradas , Risaralda,0,30,Independiente,Soltero,Bachillerato,No Aplica,0
+6718,Dosquebradas , Risaralda,0,28,Empleado,Casado,Bachillerato,Propia,1
+6719,Dosquebradas , Risaralda,0,26,Independiente,Soltero,Primaria,No Aplica,1
+6720,Dosquebradas , Risaralda,0,24,Empleado,Soltero,Profesional,No Aplica,0
+6721,Dosquebradas , Risaralda,0,22,Empleado,Soltero,Bachillerato,No Aplica,0
+6722,Dosquebradas , Risaralda,0,21,Independiente,Divorciado,Bachillerato,No Aplica,1
+6723,Pereira , Risaralda,0,31,Empleado,Casado,Bachillerato,Propia,1
+6724,Pereira , Risaralda,0,31,Independiente,Viudo,Bachillerato,No Aplica,1
+6725,Pereira , Risaralda,0,29,Independiente,Divorciado,Bachillerato,No Aplica,1
+6726,Pereira , Risaralda,0,28,Empleado,Casado,Profesional,No Aplica,1
+6727,Pereira , Risaralda,0,28,Independiente,Divorciado,Profesional,No Aplica,1
+6728,Pereira , Risaralda,0,27,Independiente,Divorciado,Bachillerato,Alquiler,1
+6729,Dosquebradas , Risaralda,0,26,Empleado,Soltero,Profesional,No Aplica,1
+6730,Dosquebradas , Risaralda,0,24,Empleado,Soltero,Profesional,No Aplica,1
+6731,Pereira , Risaralda,0,24,Empleado,Soltero,Profesional,No Aplica,0
+6732,Pereira , Risaralda,0,24,Empleado,Soltero,Bachillerato,No Aplica,0
+6733,Pereira , Risaralda,0,23,Empleado,Soltero,Bachillerato,No Aplica,1
+6734,Pereira , Risaralda,0,23,Pensionado,Soltero,Profesional,No Aplica,1
+6735,Armenia , Quindio,0,22,Empleado,Soltero,Bachillerato,Alquiler,3
+6736,Pereira , Risaralda,0,22,Empleado,Soltero,Profesional,No Aplica,1
+6737,Pereira , Risaralda,0,20,Pensionado,Soltero,Primaria,No Aplica,0
+6738,Pereira , Risaralda,0,19,Pensionado,Soltero,Profesional,No Aplica,1
+6739,Pasto , Narino,0,23,Independiente,Soltero,Profesional,No Aplica,0
+6740,Pasto , Narino,0,25,Independiente,Soltero,Profesional,Propia,0
+6741,Buenaventura , Valle Del Cauca,0,23,Empleado,Casado,Profesional,No Aplica,1
+6742,Bello , Antioquia,0,24,Empleado,Divorciado,Bachillerato,No Aplica,1
+6743,Pereira , Risaralda,0,20,Empleado,Divorciado,Primaria,Alquiler,1
+6744,Cucuta , Norte Santander,0,31,Independiente,Casado,Profesional,Propia,2
+6745,Cucuta , Norte Santander,0,31,Independiente,Soltero,Primaria,Propia,1
+6746,Cucuta , Norte Santander,0,28,Pensionado,Casado,Profesional,Propia,0
+6747,Cali , Valle Del Cauca,0,26,Empleado,Divorciado,Primaria,Alquiler,1
+6748,Villavicencio , Meta,0,26,Independiente,Soltero,Profesional,Alquiler,1
+6749,Cucuta , Norte Santander,0,26,Independiente,Divorciado,Profesional,Propia,1
+6750,Cucuta , Norte Santander,1,25,Pensionado,Soltero,Profesional,Propia,0
+6751,Cucuta , Norte Santander,1,25,Empleado,Soltero,Profesional,Propia,0
+6752,Cucuta , Norte Santander,1,22,Pensionado,Divorciado,Profesional,Propia,0
+6753,Bogota , Bogota D.C,0,20,Empleado,Soltero,Bachillerato,No Aplica,1
+6754,Cucuta , Norte Santander,0,20,Empleado,Soltero,Profesional,Propia,0
+6755,Los Patios , Norte Santander,0,60,Pensionado,Divorciado,Profesional,Propia,1
+6756,Bogota , Bogota D.C,0,21,Independiente,Casado,Primaria,Alquiler,0
+6757,Cucuta , Norte Santander,1,61,Pensionado,Divorciado,Profesional,Propia,0
+6758,Cucuta , Norte Santander,0,18,Pensionado,Soltero,Profesional,Propia,1
+6759,Ocana , Norte Santander,0,24,Empleado,Divorciado,Profesional,No Aplica,1
+6760,Ocana , Norte Santander,0,24,Independiente,Soltero,Profesional,No Aplica,2
+6761,Pereira , Risaralda,0,22,Empleado,Soltero,Bachillerato,No Aplica,1
+6762,Acacias , Meta,0,30,Empleado,Divorciado,Primaria,Propia,2
+6763,Pereira , Risaralda,0,29,Independiente,Soltero,Profesional,No Aplica,1
+6764,Cucuta , Norte Santander,0,29,Pensionado,Casado,Profesional,Propia,0
+6765,Cucuta , Norte Santander,1,41,Pensionado,Casado,Profesional,Propia,0
+6766,Bogota , Bogota D.C,0,28,Independiente,Soltero,Primaria,No Aplica,1
+6767,Villavicencio , Meta,0,21,Independiente,Divorciado,Profesional,No Aplica,2
+6768,Bogota , Bogota D.C,1,47,Independiente,Soltero,Primaria,No Aplica,1
+6769,Armenia , Quindio,0,30,Empleado,Casado,Bachillerato,No Aplica,0
+6770,Armenia , Quindio,0,29,Empleado,Soltero,Bachillerato,Alquiler,2
+6771,Calarca , Quindio,0,28,Empleado,Divorciado,Bachillerato,Propia,2
+6772,Cordoba , Quindio,1,24,Empleado,Soltero,Bachillerato,Propia,1
+6773,Armenia , Quindio,0,24,Independiente,Soltero,Profesional,No Aplica,0
+6774,Armenia , Quindio,0,20,Empleado,Soltero,Profesional,Alquiler,4
+6775,Armenia , Quindio,0,19,Independiente,Soltero,Primaria,No Aplica,0
+6776,Bucaramanga , Santander,0,25,Independiente,Soltero,Profesional,Propia,0
+6777,Floridablanca , Santander,0,19,Pensionado,Soltero,Profesional,Propia,0
+6778,Giron , Santander,0,21,Empleado,Soltero,Profesional,No Aplica,1
+6779,Cali , Valle Del Cauca,0,28,Empleado,Divorciado,Profesional,Propia,1
+6780,Cali , Valle Del Cauca,0,24,Empleado,Divorciado,Profesional,Propia,1
+6781,Bucaramanga , Santander,1,26,Empleado,Soltero,Profesional,No Aplica,0
+6782,Barrancabermeja , Santander,0,32,Pensionado,Divorciado,Bachillerato,Propia,1
+6783,Barrancabermeja , Santander,0,30,Independiente,Divorciado,Bachillerato,Propia,1
+6784,Barrancabermeja , Santander,0,28,Empleado,Soltero,Bachillerato,No Aplica,0
+6785,Barrancabermeja , Santander,0,23,Independiente,Soltero,Profesional,No Aplica,2
+6786,Barrancabermeja , Santander,0,22,Empleado,Soltero,Profesional,No Aplica,0
+6787,Bogota , Bogota D.C,0,35,Independiente,Divorciado,Profesional,Propia,0
+6788,Quimbaya , Quindio,0,19,Independiente,Soltero,Profesional,No Aplica,1
+6789,Bucaramanga , Santander,0,58,Independiente,Casado,Profesional,Propia,0
+6790,Bogota , Bogota D.C,0,32,Empleado,Casado,Profesional,Propia,0
+6791,Cartagena , Bolivar,0,29,Empleado,Casado,Profesional,No Aplica,1
+6792,Piedecuesta , Santander,0,29,Empleado,Casado,Profesional,Propia,0
+6793,Bucaramanga , Santander,1,28,Empleado,Casado,Profesional,No Aplica,1
+6794,Bucaramanga , Santander,0,26,Empleado,Soltero,Profesional,No Aplica,2
+6795,Bucaramanga , Santander,0,25,Empleado,Soltero,Profesional,Propia,0
+6796,Bucaramanga , Santander,0,24,Empleado,Soltero,Profesional,Propia,1
+6797,Bucaramanga , Santander,0,24,Independiente,Divorciado,Profesional,Propia,1
+6798,Bucaramanga , Santander,0,23,Empleado,Soltero,Profesional,Propia,1
+6799,Bucaramanga , Santander,0,22,Empleado,Soltero,Primaria,Propia,2
+6800,Bucaramanga , Santander,0,22,Empleado,Soltero,Profesional,Propia,0
+6801,Bucaramanga , Santander,0,21,Independiente,Soltero,Profesional,Propia,0
+6802,Floridablanca , Santander,0,19,Pensionado,Soltero,Profesional,Propia,0
+6803,Floridablanca , Santander,0,19,Pensionado,Soltero,Profesional,Propia,0
+6804,Bucaramanga , Santander,0,18,Pensionado,Soltero,Profesional,Propia,1
+6805,Lebrija , Santander,1,29,Empleado,Casado,Bachillerato,Propia,1
+6806,Bogota , Bogota D.C,0,27,Independiente,Divorciado,Bachillerato,No Aplica,0
+6807,Chalan , Sucre,0,26,Empleado,Soltero,Primaria,No Aplica,1
+6808,Since , Sucre,0,31,Pensionado,Divorciado,Bachillerato,No Aplica,0
+6809,Since , Sucre,0,29,Empleado,Divorciado,Profesional,No Aplica,1
+6810,Medellin , Antioquia,1,28,Independiente,Soltero,Bachillerato,No Aplica,1
+6811,Sincelejo , Sucre,0,29,Empleado,Casado,Profesional,Propia,1
+6812,Piedecuesta , Santander,0,26,Independiente,Divorciado,Primaria,No Aplica,0
+6813,San Gil , Santander,0,20,Pensionado,Soltero,Profesional,Propia,2
+6814,Barrancabermeja , Santander,0,30,Empleado,Divorciado,Bachillerato,Propia,1
+6815,Pereira , Risaralda,0,35,Independiente,Divorciado,Bachillerato,No Aplica,2
+6816,Bogota , Bogota D.C,0,27,Independiente,Divorciado,Primaria,Alquiler,0
+6817,Cartagena , Bolivar,0,22,Empleado,Soltero,Profesional,No Aplica,0
+6818,Bello , Antioquia,0,32,Empleado,Casado,Profesional,No Aplica,1
+6819,Bogota , Bogota D.C,0,26,Empleado,Soltero,Bachillerato,Alquiler,1
+6820,Corozal , Sucre,0,30,Empleado,Casado,Bachillerato,No Aplica,1
+6821,Floridablanca , Santander,0,20,Pensionado,Soltero,Profesional,Propia,1
+6822,Sincelejo , Sucre,0,32,Empleado,Casado,Bachillerato,Propia,1
+6823,Sincelejo , Sucre,0,33,Pensionado,Casado,Primaria,Propia,1
+6824,Sincelejo , Sucre,0,31,Independiente,Divorciado,Profesional,Alquiler,2
+6825,Pereira , Risaralda,0,27,Independiente,Casado,Bachillerato,Propia,1
+6826,Sincelejo , Sucre,0,27,Empleado,Soltero,Profesional,No Aplica,2
+6827,Sincelejo , Sucre,0,28,Empleado,Casado,Profesional,No Aplica,1
+6828,Sincelejo , Sucre,0,27,Empleado,Divorciado,Profesional,No Aplica,1
+6829,Bogota , Bogota D.C,0,31,Empleado,Divorciado,Profesional,Propia,1
+6830,Magangue , Bolivar,0,24,Empleado,Soltero,Profesional,No Aplica,1
+6831,Bogota , Bogota D.C,0,20,Empleado,Soltero,Profesional,No Aplica,0
+6832,Sincelejo , Sucre,0,36,Independiente,Divorciado,Profesional,No Aplica,0
+6833,Bogota , Bogota D.C,0,30,Empleado,Casado,Bachillerato,No Aplica,1
+6834,Medellin , Antioquia,0,24,Empleado,Soltero,Bachillerato,No Aplica,1
+6835,Sincelejo , Sucre,0,29,Independiente,Divorciado,Bachillerato,No Aplica,2
+6836,Bogota , Bogota D.C,1,22,Empleado,Divorciado,Bachillerato,No Aplica,1
+6837,Cali , Valle Del Cauca,1,18,Empleado,Casado,Bachillerato,Propia,0
+6838,Bogota , Bogota D.C,0,27,Empleado,Divorciado,Bachillerato,Propia,1
+6839,Jamundi , Valle Del Cauca,0,32,Empleado,Soltero,Profesional,Propia,2
+6840,Cali , Valle Del Cauca,0,27,Empleado,Divorciado,Bachillerato,No Aplica,0
+6841,Cali , Valle Del Cauca,0,29,Empleado,Casado,Profesional,Propia,1
+6842,Cali , Valle Del Cauca,0,22,Empleado,Soltero,Profesional,No Aplica,1
+6843,Cali , Valle Del Cauca,0,21,Pensionado,Soltero,Profesional,No Aplica,0
+6844,Cali , Valle Del Cauca,0,21,Independiente,Soltero,Profesional,Propia,1
+6845,Cali , Valle Del Cauca,1,21,Empleado,Casado,Profesional,Propia,0
+6846,Cali , Valle Del Cauca,0,20,Pensionado,Casado,Profesional,No Aplica,0
+6847,Bogota , Bogota D.C,0,28,Independiente,Casado,Profesional,Propia,1
+6848,Bogota , Bogota D.C,0,28,Empleado,Soltero,Bachillerato,Propia,2
+6849,Bogota , Bogota D.C,0,32,Empleado,Divorciado,Primaria,No Aplica,1
+6850,Ibague , Tolima,0,31,Independiente,Divorciado,Profesional,No Aplica,0
+6851,Bogota , Bogota D.C,0,27,Empleado,Casado,Primaria,Propia,1
+6852,Ibague , Tolima,0,31,Empleado,Casado,Primaria,No Aplica,1
+6853,Ibague , Tolima,0,27,Independiente,Divorciado,Profesional,Propia,2
+6854,Ibague , Tolima,1,27,Independiente,Soltero,Profesional,No Aplica,0
+6855,Bogota , Bogota D.C,0,27,Empleado,Casado,Profesional,No Aplica,0
+6856,Ibague , Tolima,0,24,Independiente,Soltero,Profesional,No Aplica,0
+6857,Popayan , Cauca,0,23,Empleado,Soltero,Bachillerato,Propia,1
+6858,Ibague , Tolima,0,23,Empleado,Soltero,Bachillerato,No Aplica,1
+6859,Cali , Valle Del Cauca,1,19,Pensionado,Casado,Profesional,Propia,0
+6860,Buenaventura , Valle Del Cauca,0,21,Pensionado,Soltero,Profesional,Propia,0
+6861,Buenaventura , Valle Del Cauca,0,27,Empleado,Casado,Bachillerato,Propia,1
+6862,Cali , Valle Del Cauca,0,24,Empleado,Soltero,Profesional,No Aplica,1
+6863,Buenaventura , Valle Del Cauca,1,24,Empleado,Soltero,Profesional,No Aplica,0
+6864,Cali , Valle Del Cauca,0,30,Empleado,Soltero,Bachillerato,Alquiler,1
+6865,Cali , Valle Del Cauca,0,31,Empleado,Soltero,Bachillerato,No Aplica,1
+6866,Cali , Valle Del Cauca,0,25,Empleado,Casado,Bachillerato,No Aplica,1
+6867,Cali , Valle Del Cauca,1,23,Empleado,Soltero,Bachillerato,Propia,1
+6868,Jamundi , Valle Del Cauca,0,23,Empleado,Soltero,Profesional,Propia,1
+6869,Magangue , Bolivar,0,30,Empleado,Soltero,Profesional,Alquiler,1
+6870,Cartago , Valle Del Cauca,1,28,Empleado,Divorciado,Bachillerato,Propia,1
+6871,Pereira , Risaralda,0,24,Independiente,Casado,Profesional,Alquiler,1
+6872,Cali , Valle Del Cauca,1,21,Empleado,Soltero,Profesional,No Aplica,1
+6873,Guadalajara de Buga , Valle Del Cauca,0,30,Independiente,Divorciado,Bachillerato,No Aplica,1
+6874,Cali , Valle Del Cauca,0,21,Empleado,Soltero,Bachillerato,Propia,3
+6875,Palmira , Valle Del Cauca,0,32,Empleado,Divorciado,Profesional,Propia,1
+6876,San Vicente Del Caguan , Caqueta,0,29,Empleado,Divorciado,Primaria,Propia,1
+6877,Palmira , Valle Del Cauca,0,25,Empleado,Soltero,Profesional,No Aplica,1
+6878,Palmira , Valle Del Cauca,0,19,Pensionado,Soltero,Profesional,No Aplica,1
+6879,Roldanillo , Valle Del Cauca,0,20,Pensionado,Soltero,Profesional,Propia,0
+6880,San Pedro , Valle Del Cauca,1,29,Empleado,Soltero,Profesional,Propia,1
+6881,Dagua , Valle Del Cauca,0,21,Independiente,Soltero,Bachillerato,Propia,0
+6882,Itagui , Antioquia,0,27,Empleado,Divorciado,Primaria,Alquiler,1
+6883,Guadalajara de Buga , Valle Del Cauca,0,32,Empleado,Divorciado,Primaria,No Aplica,1
+6884,Guadalajara de Buga , Valle Del Cauca,0,26,Empleado,Divorciado,Primaria,No Aplica,0
+6885,Guadalajara de Buga , Valle Del Cauca,1,23,Empleado,Divorciado,Bachillerato,Propia,1
+6886,Aguazul , Casanare,0,27,Independiente,Divorciado,Primaria,No Aplica,1
+6887,Tauramena , Casanare,1,21,Pensionado,Soltero,Profesional,No Aplica,1
+6888,Tulua , Valle Del Cauca,0,29,Independiente,Divorciado,Bachillerato,No Aplica,1
+6889,Tulua , Valle Del Cauca,0,27,Empleado,Divorciado,Profesional,Propia,2
+6890,Tulua , Valle Del Cauca,0,24,Empleado,Soltero,Profesional,Propia,1
+6891,Tulua , Valle Del Cauca,0,23,Pensionado,Soltero,Profesional,No Aplica,0
+6892,Turbo , Antioquia,0,23,Pensionado,Soltero,Profesional,Alquiler,1
+6893,Tulua , Valle Del Cauca,0,22,Empleado,Soltero,Profesional,Propia,1
+6894,Bogota , Bogota D.C,0,26,Independiente,Casado,Bachillerato,No Aplica,0
+6895,Cali , Valle Del Cauca,0,24,Empleado,Soltero,Profesional,No Aplica,1
+6896,Aguazul , Casanare,0,31,Empleado,Casado,Bachillerato,No Aplica,1
+6897,Yopal , Casanare,0,28,Empleado,Divorciado,Bachillerato,Propia,1
+6898,Pereira , Risaralda,0,30,Empleado,Divorciado,Profesional,No Aplica,1
+6899,Arauca , Arauca,0,29,Empleado,Soltero,Profesional,Propia,0
+6900,Bucaramanga , Santander,0,27,Independiente,Casado,Profesional,Propia,0
+6901,Cucuta , Norte Santander,0,23,Empleado,Casado,Profesional,Propia,2
+6902,Cali , Valle Del Cauca,0,33,Empleado,Casado,Bachillerato,Propia,1
+6903,Cali , Valle Del Cauca,1,27,Empleado,Casado,Profesional,Propia,2
+6904,Yopal , Casanare,0,21,Pensionado,Soltero,Profesional,Alquiler,1
+6905,Florencia , Caqueta,0,28,Empleado,Casado,Primaria,Alquiler,1
+6906,Florencia , Caqueta,0,28,Empleado,Divorciado,Primaria,Alquiler,1
+6907,Florencia , Caqueta,0,23,Pensionado,Divorciado,Ninguno,No Aplica,0
+6908,Florencia , Caqueta,0,24,Independiente,Casado,Primaria,No Aplica,0
+6909,Florencia , Caqueta,1,21,Independiente,Divorciado,Profesional,Propia,0
+6910,Florencia , Caqueta,0,20,Independiente,Soltero,Primaria,No Aplica,0
+6911,Florencia , Caqueta,0,20,Empleado,Soltero,Bachillerato,No Aplica,1
+6912,Curillo , Caqueta,0,32,Empleado,Divorciado,Bachillerato,Alquiler,2
+6913,Florencia , Caqueta,1,26,Independiente,Divorciado,Primaria,Alquiler,1
+6914,Filandia , Quindio,0,23,Independiente,Soltero,Primaria,No Aplica,1
+6915,Cali , Valle Del Cauca,0,29,Empleado,Soltero,Profesional,Propia,2
+6916,Yumbo , Valle Del Cauca,0,28,Empleado,Divorciado,Bachillerato,Propia,1
+6917,Tauramena , Casanare,0,30,Independiente,Casado,Bachillerato,No Aplica,1
+6918,Yopal , Casanare,0,26,Empleado,Soltero,Profesional,Alquiler,2
+6919,Yopal , Casanare,0,26,Independiente,Soltero,Primaria,No Aplica,1
+6920,Yopal , Casanare,0,20,Pensionado,Soltero,Profesional,No Aplica,1
+6921,Bogota , Bogota D.C,0,31,Empleado,Divorciado,Profesional,No Aplica,0
+6922,Granada , Meta,0,31,Independiente,Soltero,Profesional,No Aplica,1
+6923,Granada , Meta,0,24,Independiente,Divorciado,Bachillerato,No Aplica,0
+6924,Mesetas , Meta,0,22,Empleado,Divorciado,Bachillerato,No Aplica,1
+6925,Bogota , Bogota D.C,0,29,Independiente,Divorciado,Profesional,Alquiler,1
+6926,Villavicencio , Meta,0,30,Independiente,Casado,Profesional,No Aplica,1
+6927,Villavicencio , Meta,0,28,Empleado,Divorciado,Bachillerato,No Aplica,0
+6928,Villavicencio , Meta,0,19,Independiente,Soltero,Profesional,Propia,8
+6929,Villavicencio , Meta,0,26,Empleado,Divorciado,Primaria,Alquiler,0
+6930,Villavicencio , Meta,0,26,Independiente,Soltero,Bachillerato,Alquiler,0
+6931,Villavicencio , Meta,0,22,Pensionado,Soltero,Profesional,Propia,0
+6932,Villavicencio , Meta,1,21,Pensionado,Soltero,Bachillerato,Propia,1
+6933,Villavicencio , Meta,0,20,Empleado,Soltero,Bachillerato,No Aplica,1
+6934,Yopal , Casanare,0,30,Empleado,Divorciado,Bachillerato,No Aplica,1
+6935,Acacias , Meta,0,29,Empleado,Soltero,Bachillerato,No Aplica,1
+6936,Acacias , Meta,0,26,Empleado,Divorciado,Bachillerato,No Aplica,1
+6937,Guamal , Meta,0,25,Empleado,Divorciado,Bachillerato,No Aplica,1
+6938,Magangue , Bolivar,0,19,Independiente,Soltero,Primaria,No Aplica,1
+6939,Bogota , Bogota D.C,1,31,Empleado,Casado,Profesional,Propia,0
+6940,Villavicencio , Meta,0,23,Empleado,Soltero,Bachillerato,Alquiler,1
+6941,Funza , Cundinamarca,0,25,Empleado,Divorciado,Bachillerato,Propia,0
+6942,Riohacha , La Guajira,0,27,Empleado,Soltero,Profesional,Alquiler,1
+6943,Villavicencio , Meta,0,27,Independiente,Soltero,Primaria,Propia,1
+6944,Valledupar , Cesar,0,26,Empleado,Soltero,Bachillerato,No Aplica,1
+6945,Cucuta , Norte Santander,1,32,Empleado,Divorciado,Profesional,Propia,0
+6946,Bogota , Bogota D.C,0,25,Empleado,Soltero,Bachillerato,No Aplica,1
+6947,Neiva , Huila,0,20,Pensionado,Soltero,Profesional,No Aplica,1
+6948,Bogota , Bogota D.C,0,27,Empleado,Soltero,Bachillerato,No Aplica,1
+6949,Bogota , Bogota D.C,0,68,Empleado,Casado,Profesional,No Aplica,0
+6950,Bogota , Bogota D.C,0,27,Independiente,Divorciado,Primaria,Alquiler,0
+6951,Pereira , Risaralda,0,31,Pensionado,Soltero,Profesional,No Aplica,0
+6952,Bogota , Bogota D.C,1,27,Independiente,Soltero,Profesional,Alquiler,0
+6953,Cali , Valle Del Cauca,0,29,Empleado,Soltero,Profesional,Propia,1
+6954,Medellin , Antioquia,0,21,Independiente,Soltero,Primaria,Alquiler,0
+6955,Cucuta , Norte Santander,0,50,Independiente,Casado,Profesional,Propia,0
+6956,Cucuta , Norte Santander,0,23,Pensionado,Soltero,Profesional,Propia,0
+6957,Bogota , Bogota D.C,0,36,Empleado,Soltero,Profesional,No Aplica,1
+6958,Cucuta , Norte Santander,0,26,Pensionado,Soltero,Profesional,Propia,0
+6959,Bogota , Bogota D.C,0,27,Empleado,Soltero,Profesional,Alquiler,2
+6960,Bogota , Bogota D.C,0,34,Empleado,Soltero,Profesional,No Aplica,2
+6961,Bogota , Bogota D.C,0,29,Pensionado,Casado,Bachillerato,No Aplica,0
+6962,Cucuta , Norte Santander,0,24,Pensionado,Soltero,Profesional,Propia,0
+6963,Medellin , Antioquia,0,34,Independiente,Casado,Profesional,Alquiler,1
+6964,Itagui , Antioquia,1,26,Empleado,Soltero,Primaria,Alquiler,1
+6965,Medellin , Antioquia,0,23,Empleado,Casado,Primaria,No Aplica,1
+6966,Copacabana , Antioquia,0,29,Empleado,Divorciado,Profesional,No Aplica,1
+6967,Villavicencio , Meta,0,31,Empleado,Casado,Profesional,Alquiler,2
+6968,Medellin , Antioquia,0,29,Empleado,Divorciado,Bachillerato,No Aplica,2
+6969,Medellin , Antioquia,0,32,Empleado,Soltero,Primaria,Propia,0
+6970,Medellin , Antioquia,0,28,Empleado,Divorciado,Primaria,No Aplica,0
+6971,Medellin , Antioquia,0,29,Independiente,Casado,Bachillerato,Propia,1
+6972,Medellin , Antioquia,0,27,Empleado,Soltero,Bachillerato,Propia,2
+6973,Soledad , Atlantico,0,31,Independiente,Soltero,Profesional,No Aplica,5
+6974,Cucuta , Norte Santander,0,29,Pensionado,Casado,Profesional,Propia,0
+6975,Cali , Valle Del Cauca,0,29,Independiente,Soltero,Bachillerato,No Aplica,3
+6976,Cali , Valle Del Cauca,0,30,Independiente,Divorciado,Profesional,Propia,2
+6977,Cali , Valle Del Cauca,0,31,Empleado,Soltero,Primaria,No Aplica,1
+6978,Cali , Valle Del Cauca,0,31,Empleado,Soltero,Bachillerato,No Aplica,0
+6979,Bogota , Bogota D.C,1,30,Independiente,Soltero,Bachillerato,No Aplica,2
+6980,Lorica , Cordoba,1,31,Independiente,Divorciado,Bachillerato,No Aplica,2
+6981,Barranquilla , Atlantico,0,30,Empleado,Soltero,Profesional,No Aplica,2
+6982,Barranquilla , Atlantico,0,29,Empleado,Casado,Profesional,Propia,1
+6983,Barranquilla , Atlantico,0,28,Pensionado,Casado,Ninguno,No Aplica,0
+6984,Barranquilla , Atlantico,0,26,Empleado,Soltero,Profesional,Propia,2
+6985,Barranquilla , Atlantico,0,28,Empleado,Divorciado,Primaria,Propia,1
+6986,Soledad , Atlantico,0,29,Independiente,Soltero,Profesional,Propia,0
+6987,Puerto Concordia , Meta,0,25,Empleado,Casado,Profesional,No Aplica,1
+6988,Barranquilla , Atlantico,0,23,Pensionado,Soltero,Profesional,No Aplica,1
+6989,Cartagena , Bolivar,0,27,Empleado,Soltero,Profesional,Propia,0
+6990,Cartagena , Bolivar,1,26,Empleado,Soltero,Profesional,No Aplica,1
+6991,Cartagena , Bolivar,0,25,Independiente,Soltero,Profesional,No Aplica,0
+6992,Sincelejo , Sucre,0,24,Empleado,Casado,Profesional,No Aplica,1
+6993,Barranquilla , Atlantico,0,28,Independiente,Soltero,Primaria,No Aplica,0
+6994,Barranquilla , Atlantico,0,27,Independiente,Casado,Profesional,Propia,0
+6995,Barranquilla , Atlantico,0,25,Empleado,Divorciado,Bachillerato,No Aplica,1
+6996,Cali , Valle Del Cauca,0,29,Independiente,Soltero,Bachillerato,Propia,1
+6997,Cali , Valle Del Cauca,1,26,Empleado,Soltero,Bachillerato,Propia,1
+6998,Cali , Valle Del Cauca,0,25,Empleado,Casado,Profesional,Propia,0
+6999,Cali , Valle Del Cauca,0,24,Empleado,Soltero,Bachillerato,Propia,1
+7000,Cali , Valle Del Cauca,0,22,Empleado,Soltero,Profesional,Propia,2
+7001,Cali , Valle Del Cauca,0,21,Independiente,Casado,Profesional,Propia,1
+7002,Cali , Valle Del Cauca,0,21,Pensionado,Casado,Profesional,No Aplica,1
+7003,Cali , Valle Del Cauca,0,26,Empleado,Casado,Profesional,Propia,1
+7004,Cali , Valle Del Cauca,0,26,Independiente,Soltero,Bachillerato,Propia,2
+7005,Cali , Valle Del Cauca,0,23,Independiente,Soltero,Profesional,No Aplica,0
+7006,Cali , Valle Del Cauca,1,19,Independiente,Soltero,Profesional,Propia,0
+7007,Cali , Valle Del Cauca,1,27,Independiente,Casado,Profesional,Propia,1
+7008,Cali , Valle Del Cauca,0,18,Independiente,Casado,Bachillerato,Propia,1
+7009,Cali , Valle Del Cauca,0,28,Empleado,Soltero,Profesional,No Aplica,0
+7010,Cali , Valle Del Cauca,0,27,Empleado,Casado,Bachillerato,No Aplica,0
+7011,Cali , Valle Del Cauca,0,30,Empleado,Soltero,Bachillerato,No Aplica,0
+7012,Cali , Valle Del Cauca,0,26,Empleado,Soltero,Profesional,No Aplica,1
+7013,Cali , Valle Del Cauca,0,24,Empleado,Soltero,Profesional,No Aplica,2
+7014,Cali , Valle Del Cauca,0,24,Empleado,Soltero,Profesional,Propia,1
+7015,Cali , Valle Del Cauca,0,22,Empleado,Casado,Bachillerato,Propia,1
+7016,Cali , Valle Del Cauca,0,21,Empleado,Soltero,Profesional,Propia,1
+7017,Valledupar , Cesar,0,22,Independiente,Divorciado,Primaria,No Aplica,0
+7018,Buenaventura , Valle Del Cauca,1,26,Pensionado,Soltero,Profesional,Propia,1
+7019,Cali , Valle Del Cauca,0,28,Empleado,Soltero,Profesional,No Aplica,1
+7020,Cali , Valle Del Cauca,0,27,Empleado,Soltero,Bachillerato,Propia,1
+7021,Medellin , Antioquia,0,26,Empleado,Soltero,Profesional,No Aplica,2
+7022,Medellin , Antioquia,0,26,Empleado,Soltero,Primaria,Alquiler,1
+7023,Medellin , Antioquia,0,22,Empleado,Soltero,Profesional,No Aplica,1
+7024,Medellin , Antioquia,0,21,Pensionado,Soltero,Profesional,No Aplica,1
+7025,Medellin , Antioquia,0,27,Empleado,Soltero,Profesional,No Aplica,2
+7026,Medellin , Antioquia,0,21,Empleado,Soltero,Bachillerato,Alquiler,1
+7027,Medellin , Antioquia,0,21,Empleado,Divorciado,Primaria,No Aplica,1
+7028,Medellin , Antioquia,0,21,Independiente,Soltero,Bachillerato,No Aplica,1
+7029,La Dorada , Caldas,0,19,Independiente,Soltero,Profesional,No Aplica,1
+7030,Medellin , Antioquia,0,21,Empleado,Soltero,Primaria,No Aplica,1
+7031,Medellin , Antioquia,0,20,Independiente,Soltero,Primaria,No Aplica,1
+7032,Sincelejo , Sucre,1,19,Independiente,Soltero,Bachillerato,No Aplica,0
+7033,Bogota , Bogota D.C,1,21,Independiente,Soltero,Bachillerato,No Aplica,0
+7034,Bello , Antioquia,0,25,Independiente,Soltero,Profesional,No Aplica,1
+7035,Medellin , Antioquia,0,23,Pensionado,Casado,Profesional,No Aplica,1
+7036,Medellin , Antioquia,1,22,Empleado,Soltero,Primaria,No Aplica,1
+7037,Medellin , Antioquia,0,21,Pensionado,Soltero,Ninguno,No Aplica,0
+7038,Bello , Antioquia,0,20,Pensionado,Soltero,Primaria,No Aplica,1
+7039,Barranquilla , Atlantico,0,22,Pensionado,Soltero,Profesional,Propia,1
+7040,Sabaneta , Antioquia,0,37,Independiente,Soltero,Profesional,Alquiler,1
+7041,Bogota , Bogota D.C,0,26,Empleado,Divorciado,Profesional,No Aplica,1
+7042,Bucaramanga , Santander,0,33,Empleado,Soltero,Profesional,Propia,1
+7043,Cucuta , Norte Santander,0,29,Pensionado,Soltero,Profesional,Propia,0
+7044,Cali , Valle Del Cauca,1,25,Independiente,Soltero,Profesional,Propia,0
+7045,Bogota , Bogota D.C,0,19,Empleado,Soltero,Profesional,No Aplica,0
+7046,Bogota , Bogota D.C,0,19,Empleado,Soltero,Profesional,No Aplica,1
+7047,Bogota , Bogota D.C,0,21,Empleado,Soltero,Bachillerato,Alquiler,0
+7048,Bogota , Bogota D.C,0,20,Pensionado,Soltero,Bachillerato,No Aplica,0
+7049,Bogota , Bogota D.C,0,19,Independiente,Soltero,Profesional,No Aplica,1
+7050,Barranquilla , Atlantico,1,19,Pensionado,Soltero,Profesional,Propia,0
+7051,Barranquilla , Atlantico,1,30,Pensionado,Casado,Profesional,Propia,0
+7052,Cali , Valle Del Cauca,0,20,Empleado,Casado,Profesional,Propia,0
+7053,Cali , Valle Del Cauca,0,20,Empleado,Soltero,Profesional,No Aplica,3
+7054,Bogota , Bogota D.C,1,24,Pensionado,Soltero,Profesional,No Aplica,0
